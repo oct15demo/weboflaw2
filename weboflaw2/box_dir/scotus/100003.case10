@@ -1,0 +1,106 @@
+<citation id="100003_1" entry_type="standard_case" start="1" end="13" reporter="U.S." standard_reporter="U.S." volume="259" page_number="200" line="2">259 U.S. 200</citation>
+<date id="100003_2" start="14" end="18">1922</date>
+<citation id="100003_5" entry_type="case_X_vs_Y" start="20" end="119" party1="FEDERAL BASEBALL CLUB OF BALTIMORE, INC." party2="NATIONAL LEAGUE OF PROFESSIONAL BASEBALL CLUBS, ET AL" line="5">FEDERAL BASEBALL CLUB OF BALTIMORE, INC.  v.  NATIONAL LEAGUE OF PROFESSIONAL BASEBALL CLUBS, ET AL</citation>
+<ORGANIZATION id="100003_6" start="20" end="60" party1_of="100003_5">FEDERAL BASEBALL CLUB OF BALTIMORE, INC.</ORGANIZATION>
+<ORGANIZATION id="100003_8" start="20" end="59">FEDERAL BASEBALL CLUB OF BALTIMORE, INC</ORGANIZATION>
+<ORGANIZATION id="100003_7" start="66" end="119" party2_of="100003_5">NATIONAL LEAGUE OF PROFESSIONAL BASEBALL CLUBS, ET AL</ORGANIZATION>
+<ORGANIZATION id="100003_9" start="66" end="112">NATIONAL LEAGUE OF PROFESSIONAL BASEBALL CLUBS</ORGANIZATION>
+<ORGANIZATION id="100003_13" start="130" end="143">Supreme Court</ORGANIZATION>
+<NAME id="100003_14" start="154" end="160">States</NAME>
+<date id="100003_15" start="169" end="183">April 19, 1922</date>
+<date id="100003_16" start="193" end="205">May 29, 1922</date>
+<ORGANIZATION id="100003_17" start="207" end="264">ERROR TO THE COURT OF APPEALS OF THE DISTRICT OF COLUMBIA</ORGANIZATION>
+<PERSON id="100003_18" start="271" end="293">Mr. Charles A. Douglas</PERSON>
+<PERSON id="100003_19" start="298" end="320">Mr. William L. Marbury</PERSON>
+<PERSON id="100003_20" start="332" end="352">Mr. L. Edwin Goldman</PERSON>
+<PERSON id="100003_21" start="357" end="377">Mr. William L. Rawls</PERSON>
+<LEGAL_ROLE id="100003_22" start="402" end="411">plaintiff</LEGAL_ROLE>
+<PERSON id="100003_23" start="422" end="447" plural="True">Mr. George Wharton Pepper</PERSON>
+<PERSON id="100003_24" start="459" end="480">Mr. Benjamin S. Minor</PERSON>
+<PERSON id="100003_25" start="485" end="510" plural="True">Mr. Samuel M. Clement, Jr</PERSON>
+<LEGAL_ROLE id="100003_26" start="536" end="546" plural="True">defendants</LEGAL_ROLE>
+<PROFESSION id="100003_27" start="562" end="580">MR. JUSTICE HOLMES</PROFESSION>
+<LEGAL_ROLE id="100003_30" start="669" end="678">plaintiff</LEGAL_ROLE>
+<NAME id="100003_31" start="698" end="713">Anti-Trust Acts</NAME>
+<date id="100003_28" start="717" end="729">July 2, 1890</date>
+<NAME id="100003_32" start="747" end="751">Stat</NAME>
+<date id="100003_29" start="770" end="786">October 15, 1914</date>
+<NAME id="100003_33" start="804" end="808">Stat</NAME>
+<LEGAL_ROLE id="100003_34" start="824" end="834" plural="True">defendants</LEGAL_ROLE>
+<ORGANIZATION id="100003_35" start="843" end="858">National League</ORGANIZATION>
+<NAME id="100003_36" start="862" end="890">Professional Base Ball Clubs</NAME>
+<ORGANIZATION id="100003_37" start="899" end="914">American League</ORGANIZATION>
+<NAME id="100003_38" start="918" end="946">Professional Base Ball Clubs</NAME>
+<LEGAL_ROLE id="100003_39" start="1058" end="1068" plural="True">defendants</LEGAL_ROLE>
+<PROFESSION id="100003_40" start="1074" end="1084" plural="True">presidents</PROFESSION>
+<ORGANIZATION id="100003_41" start="1096" end="1103" plural="True">Leagues</ORGANIZATION>
+<ORGANIZATION id="100003_42" start="1158" end="1177">National Commission</ORGANIZATION>
+<ORGANIZATION id="100003_43" start="1251" end="1258" plural="True">Leagues</ORGANIZATION>
+<ORGANIZATION id="100003_44" start="1305" end="1319">Federal League</ORGANIZATION>
+<NAME id="100003_45" start="1323" end="1351">Professional Base Ball Clubs</NAME>
+<LEGAL_ROLE id="100003_46" start="1432" end="1442" plural="True">defendants</LEGAL_ROLE>
+<LEGAL_ROLE id="100003_51" start="1605" end="1614">plaintiff</LEGAL_ROLE>
+<GPE id="100003_52" start="1651" end="1659">Maryland</GPE>
+<ORGANIZATION id="100003_53" start="1715" end="1729">Federal League</ORGANIZATION>
+<NAME id="100003_54" start="1733" end="1761">Professional Base Ball Clubs</NAME>
+<GPE id="100003_55" start="1795" end="1802">Indiana</GPE>
+<LEGAL_ROLE id="100003_56" start="1848" end="1858" plural="True">defendants</LEGAL_ROLE>
+<LEGAL_ROLE id="100003_57" start="1880" end="1890" plural="True">defendants</LEGAL_ROLE>
+<ORGANIZATION id="100003_58" start="1905" end="1919">Federal League</ORGANIZATION>
+<LEGAL_ROLE id="100003_59" start="2025" end="2034">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="100003_60" start="2050" end="2056">League</ORGANIZATION>
+<ORGANIZATION id="100003_61" start="2104" end="2118">Federal League</ORGANIZATION>
+<LEGAL_ROLE id="100003_62" start="2132" end="2142" plural="True">defendants</LEGAL_ROLE>
+<PROFESSION id="100003_63" start="2166" end="2175">President</PROFESSION>
+<ORGANIZATION id="100003_64" start="2183" end="2189">League</ORGANIZATION>
+<LEGAL_ROLE id="100003_65" start="2240" end="2249">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="100003_66" start="2271" end="2280">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="100003_67" start="2319" end="2332">Supreme Court</ORGANIZATION>
+<ORGANIZATION id="100003_68" start="2391" end="2396">Court</ORGANIZATION>
+<LEGAL_ROLE id="100003_69" start="2454" end="2464" plural="True">defendants</LEGAL_ROLE>
+<NAME id="100003_70" start="2485" end="2496">Sherman Act</NAME>
+<LEGAL_ROLE id="100003_71" start="2502" end="2510">appellee</LEGAL_ROLE>
+<LEGAL_ROLE id="100003_72" start="2516" end="2525">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="100003_73" start="2593" end="2598">Court</ORGANIZATION>
+<LEGAL_ROLE id="100003_74" start="2651" end="2661" plural="True">defendants</LEGAL_ROLE>
+<PERSON id="100003_75" start="2666" end="2669">App</PERSON>
+<LEGAL_ROLE id="100003_76" start="2726" end="2735">plaintiff</LEGAL_ROLE>
+<citation id="100003_48" entry_type="case_X_vs_Y" start="2769" end="2786" party1="Thomsen" party2="Cayser" line="15">Thomsen v. Cayser</citation>
+<PERSON id="100003_49" start="2769" end="2776" party1_of="100003_48">Thomsen</PERSON>
+<NAME id="100003_50" start="2780" end="2786" party2_of="100003_48">Cayser</NAME>
+<citation id="100003_47" entry_type="standard_case" start="2788" end="2799" reporter="U.S." standard_reporter="U.S." volume="243" page_number="66" line="15">243 U.S. 66</citation>
+<ORGANIZATION id="100003_80" start="2821" end="2826">Court</ORGANIZATION>
+<LEGAL_ROLE id="100003_81" start="2960" end="2969">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="100003_82" start="3102" end="3109" plural="True">Leagues</ORGANIZATION>
+<NAME id="100003_83" start="3169" end="3175">States</NAME>
+<ORGANIZATION id="100003_84" start="3527" end="3533">League</ORGANIZATION>
+<ORGANIZATION id="100003_85" start="3584" end="3590">League</ORGANIZATION>
+<NAME id="100003_86" start="3873" end="3879">States</NAME>
+<ORGANIZATION id="100003_87" start="3912" end="3917">Court</ORGANIZATION>
+<NAME id="100003_92" start="4195" end="4201">States</NAME>
+<ORGANIZATION id="100003_93" start="4263" end="4270" plural="True">Leagues</ORGANIZATION>
+<citation id="100003_89" entry_type="case_X_vs_Y" start="4462" end="4482" party1="Hooper" party2="California" line="17">Hooper v. California</citation>
+<PERSON id="100003_90" start="4462" end="4468" party1_of="100003_89">Hooper</PERSON>
+<GPE id="100003_91" start="4472" end="4482" party2_of="100003_89">California</GPE>
+<citation id="100003_88" entry_type="standard_case" start="4484" end="4501" reporter="U.S." standard_reporter="U.S." volume="155" page_number="648" paragraph_number="655" line="17">155 U.S. 648, 655</citation>
+<LEGAL_ROLE id="100003_94" start="4735" end="4745" plural="True">defendants</LEGAL_ROLE>
+<NAME id="100003_95" start="4903" end="4909">States</NAME>
+<ORGANIZATION id="100003_96" start="5014" end="5019">Court</ORGANIZATION>
+<PROFESSION id="100003_97" start="5037" end="5044" plural="True">lawyers</PROFESSION>
+<NAME id="100003_98" start="5090" end="5100">Chautauqua</NAME>
+<PROFESSION id="100003_99" start="5184" end="5190">lawyer</PROFESSION>
+<NAME id="100003_100" start="5219" end="5224">State</NAME>
+<LEGAL_ROLE id="100003_104" start="5246" end="5255">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="100003_105" start="5354" end="5363">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="100003_106" start="5451" end="5461" plural="True">defendants</LEGAL_ROLE>
+<NAME id="100003_107" start="5511" end="5517">States</NAME>
+<RELATION id="100003_3" relation_type="asymmetric" gram_type="pre_nom" theme="100003_1" theme_string="259 U.S. 200" at_date="100003_2" at_date_string="1922"></RELATION>
+<RELATION id="100003_10" relation_type="asymmetric" gram_type="infix" theme="100003_5" theme_string="FEDERAL BASEBALL CLUB OF BALTIMORE, INC.  v.  NATIONAL LEAGUE OF PROFESSIONAL BASEBALL CLUBS, ET AL" party1="100003_6" party1_string="FEDERAL BASEBALL CLUB OF BALTIMORE, INC."></RELATION>
+<RELATION id="100003_11" relation_type="asymmetric" gram_type="infix" theme="100003_5" theme_string="FEDERAL BASEBALL CLUB OF BALTIMORE, INC.  v.  NATIONAL LEAGUE OF PROFESSIONAL BASEBALL CLUBS, ET AL" party2="100003_7" party2_string="NATIONAL LEAGUE OF PROFESSIONAL BASEBALL CLUBS, ET AL"></RELATION>
+<RELATION id="100003_12" relation_type="equivalence" gram_type="multi_line" standard_case="100003_1" standard_case_string="259 U.S. 200" X_vs_Y="100003_5" X_vs_Y_string="FEDERAL BASEBALL CLUB OF BALTIMORE, INC.  v.  NATIONAL LEAGUE OF PROFESSIONAL BASEBALL CLUBS, ET AL"></RELATION>
+<RELATION id="100003_79" relation_type="equivalence" gram_type="apposition" standard_case="100003_47" standard_case_string="243 U.S. 66" X_vs_Y="100003_48" X_vs_Y_string="Thomsen v. Cayser"></RELATION>
+<RELATION id="100003_77" relation_type="asymmetric" gram_type="infix" theme="100003_48" theme_string="Thomsen v. Cayser" party1="100003_49" party1_string="Thomsen"></RELATION>
+<RELATION id="100003_78" relation_type="asymmetric" gram_type="infix" theme="100003_48" theme_string="Thomsen v. Cayser" party2="100003_50" party2_string="Cayser"></RELATION>
+<RELATION id="100003_103" relation_type="equivalence" gram_type="apposition" standard_case="100003_88" standard_case_string="155 U.S. 648, 655" X_vs_Y="100003_89" X_vs_Y_string="Hooper v. California"></RELATION>
+<RELATION id="100003_101" relation_type="asymmetric" gram_type="infix" theme="100003_89" theme_string="Hooper v. California" party1="100003_90" party1_string="Hooper"></RELATION>
+<RELATION id="100003_102" relation_type="asymmetric" gram_type="infix" theme="100003_89" theme_string="Hooper v. California" party2="100003_91" party2_string="California"></RELATION>

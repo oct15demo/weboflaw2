@@ -1,0 +1,744 @@
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="0" volume="259" party1="GREAT NORTHERN RAILWAY COMPANY ET AL." reporter="U.S." alternative_keys="['companycompany#1']" citation_global_level_id="190.003" end="13" id="100011_1" id1="Dummy_File_175" standard_reporter="U.S." page_number="285" party2="MERCHANTS ELEVATOR COMPANY" lookup_key="u.s._259_285" start="1" party2_short="COMPANY" party1_short="COMPANY" line="2" >259 U.S. 285</CITATION>
+
+<DATE start="14" citation_local_level_id="0" end="18" id="100011_2" citation_global_level_id="190.003" >1922</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="COMPANY" citation_local_level_id="1" party1="GREAT NORTHERN RAILWAY COMPANY ET AL." alternative_keys="['u.s._259_285']" citation_global_level_id="190.003" end="89" id="100011_5" id1="Dummy_File_175" party2="MERCHANTS ELEVATOR COMPANY" lookup_key="companycompany#1" start="20" party2_short="COMPANY" line="5" >GREAT NORTHERN RAILWAY COMPANY ET AL. v. MERCHANTS ELEVATOR COMPANY</CITATION>
+
+<ORGANIZATION party1_of="100011_5" start="20" end="57" id="100011_6" >GREAT NORTHERN RAILWAY COMPANY ET AL.</ORGANIZATION>
+
+<ORGANIZATION start="20" end="56" id="100011_8" >GREAT NORTHERN RAILWAY COMPANY ET AL</ORGANIZATION>
+
+<ORGANIZATION start="63" end="89" id="100011_7" party2_of="100011_5" >MERCHANTS ELEVATOR COMPANY</ORGANIZATION>
+
+<ORGANIZATION start="100" end="113" id="100011_12" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="124" local_name_id="1" end="130" id="100011_13" >States</NAME>
+
+<DATE start="139" end="153" id="100011_14" >April 18, 1922</DATE>
+
+<DATE start="163" end="175" id="100011_15" >May 29, 1922</DATE>
+
+<ORGANIZATION start="177" end="234" id="100011_16" >CERTIORARI TO THE SUPREME COURT OF THE STATE OF MINNESOTA</ORGANIZATION>
+
+<PERSON start="241" end="260" id="100011_17" >Mr. John F. Finerty</PERSON>
+
+<PERSON start="272" end="287" id="100011_18" >Mr. F.G. Dorety</PERSON>
+
+<LEGAL_ROLE plural="True" start="310" end="321" id="100011_19" >petitioners</LEGAL_ROLE>
+
+<PERSON start="323" end="344" id="100011_20" >Mr. Harold G. Simpson</PERSON>
+
+<LEGAL_ROLE name="Mr. Harold G. Simpson" start="349" local_name_id="2" end="359" id="100011_21" >respondent</LEGAL_ROLE>
+
+<PROFESSION start="366" end="386" id="100011_23" >MR. JUSTICE BRANDEIS</PROFESSION>
+
+<ORGANIZATION start="454" end="480" id="100011_25" >Merchants Elevator Company</ORGANIZATION>
+
+<GPE start="501" end="510" id="100011_26" >Minnesota</GPE>
+
+<ORGANIZATION start="523" end="553" id="100011_27" >Great Northern Railway Company</ORGANIZATION>
+
+<PROFESSION start="562" end="578" id="100011_28" >Director General</PROFESSION>
+
+<NAME all_names="RULE" start="710" local_name_id="3" end="714" id="100011_29" >Rule</NAME>
+
+<GPE start="833" end="837" id="100011_30" >Iowa</GPE>
+
+<GPE start="842" end="850" id="100011_31" >Nebraska</GPE>
+
+<NAME all_names="WILLMAR" start="854" local_name_id="4" end="861" id="100011_32" >Willmar</NAME>
+
+<GPE start="863" end="872" id="100011_33" >Minnesota</GPE>
+
+<NAME all_names="ANOKA" start="913" local_name_id="5" end="918" id="100011_34" >Anoka</NAME>
+
+<NAME all_names="WILLMAR" start="984" local_name_id="4" end="991" id="100011_35" >Willmar</NAME>
+
+<NAME all_names="ANOKA" start="995" local_name_id="5" end="1000" id="100011_36" >Anoka</NAME>
+
+<NAME all_names="WILLMAR" start="1020" local_name_id="4" end="1027" id="100011_37" >Willmar</NAME>
+
+<NAME all_names="WILLMAR" start="1029" local_name_id="4" end="1036" id="100011_38" >Willmar</NAME>
+
+<NAME all_names="STATE" start="1161" local_name_id="6" end="1166" id="100011_39" >State</NAME>
+
+<GPE start="1223" end="1232" id="100011_40" >Minnesota</GPE>
+
+<NAME all_names="STATES" start="1251" local_name_id="1" end="1257" id="100011_41" >States</NAME>
+
+<NAME all_names="ANOKA" start="1450" local_name_id="5" end="1455" id="100011_42" >Anoka</NAME>
+
+<PROFESSION start="1646" end="1651" id="100011_43" >agent</PROFESSION>
+
+<PROFESSION start="1672" end="1679" id="100011_44" >officer</PROFESSION>
+
+<NAME all_names="RULE" start="2069" local_name_id="3" end="2073" id="100011_45" >Rule</NAME>
+
+<NAME all_names="GRAIN" start="2103" local_name_id="7" end="2108" id="100011_46" >Grain</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ry" citation_local_level_id="2" party1="Texas &amp; Pacific Ry. Co." alternative_keys="['u.s._234_138']" citation_global_level_id="191.003" end="2605" id="100011_51" id1="Dummy_File_176" standard_reporter="U.S." volume="234" party2="American Tie &amp; Timber Co" lookup_key="rytimber#1" start="2554" page_number="138" party2_short="Timber" line="18" >Texas &amp; Pacific Ry. Co. v. American Tie &amp; Timber Co</CITATION>
+
+<ORGANIZATION party1_of="100011_51" start="2554" end="2577" id="100011_54" >Texas &amp; Pacific Ry. Co.</ORGANIZATION>
+
+<ORGANIZATION start="2581" end="2605" id="100011_55" party2_of="100011_51" >American Tie &amp; Timber Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="3" volume="234" reporter="U.S." alternative_keys="['rytimber#1']" citation_global_level_id="191.003" end="2620" id="100011_47" id1="Dummy_File_176" standard_reporter="U.S." page_number="138" lookup_key="u.s._234_138" start="2608" line="18" >234 U.S. 138</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Loomis" party1="Loomis" citation_global_level_id="192.001" citation_local_level_id="4" end="2653" id="100011_52" id1="Dummy_File_177" party2="Lehigh Valley R.R" lookup_key="loomisr#1" start="2626" party2_short="R" line="18" >Loomis v. Lehigh Valley R.R</CITATION>
+
+<PERSON party1_of="100011_52" start="2626" end="2632" id="100011_56" >Loomis</PERSON>
+
+<GPE start="2636" end="2653" id="100011_57" party2_of="100011_52" >Lehigh Valley R.R</GPE>
+
+<ORGANIZATION start="2655" end="2657" id="100011_60" >Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="240" reporter="U.S." citation_global_level_id="193.001" citation_local_level_id="5" end="2671" id="100011_48" id1="Dummy_File_178" standard_reporter="U.S." page_number="43" lookup_key="u.s._240_43" start="2660" line="18" >240 U.S. 43</CITATION>
+
+<ORGANIZATION start="2766" end="2796" id="100011_61" >Interstate Commerce Commission</ORGANIZATION>
+
+<NAME all_names="RULE" start="2945" local_name_id="3" end="2949" id="100011_62" >Rule</NAME>
+
+<NAME all_names="ANOKA" start="3203" local_name_id="5" end="3208" id="100011_63" >Anoka</NAME>
+
+<ORGANIZATION start="3303" end="3316" id="100011_64" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATE" start="3324" local_name_id="6" end="3329" id="100011_65" >State</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Elevator" citation_local_level_id="6" party1="Reliance Elevator Co." alternative_keys="['minn._139_290']" citation_global_level_id="194.003" end="3411" id="100011_53" id1="Dummy_File_179" standard_reporter="MINN." volume="139" party2="Chicago, Milwaukee &amp; St. Paul Ry. Co" lookup_key="elevatorry#1" start="3350" page_number="290" party2_short="Ry" line="18" >Reliance Elevator Co. v. Chicago, Milwaukee &amp; St. Paul Ry. Co</CITATION>
+
+<ORGANIZATION party1_of="100011_53" start="3350" end="3371" id="100011_58" >Reliance Elevator Co.</ORGANIZATION>
+
+<ORGANIZATION start="3350" end="3370" id="100011_66" >Reliance Elevator Co</ORGANIZATION>
+
+<ORGANIZATION start="3375" end="3411" id="100011_59" party2_of="100011_53" >Chicago, Milwaukee &amp; St. Paul Ry. Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="7" volume="139" reporter="Minn." alternative_keys="['elevatorry#1']" citation_global_level_id="194.003" end="3428" id="100011_49" id1="Dummy_File_179" standard_reporter="MINN." page_number="290" lookup_key="minn._139_290" start="3414" line="18" >139 Minn. *290</CITATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="255" reporter="U.S." citation_global_level_id="195.001" citation_local_level_id="8" end="3485" id="100011_50" id1="Dummy_File_180" standard_reporter="U.S." page_number="567" lookup_key="u.s._255_567" start="3473" line="18" >255 U.S. 567</CITATION>
+
+<ORGANIZATION start="3616" end="3646" id="100011_67" >Interstate Commerce Commission</ORGANIZATION>
+
+<ORGANIZATION start="3965" end="3995" id="100011_68" >Interstate Commerce Commission</ORGANIZATION>
+
+<ORGANIZATION start="4237" end="4247" id="100011_77" >Commission</ORGANIZATION>
+
+<ORGANIZATION start="4845" end="4855" id="100011_78" >Commission</ORGANIZATION>
+
+<NAME all_names="COMMERCEACT" start="4942" local_name_id="8" end="4954" id="100011_79" >Commerce Act</NAME>
+
+<ORGANIZATION start="5076" end="5086" id="100011_80" >Commission</ORGANIZATION>
+
+<ORGANIZATION start="5711" end="5721" id="100011_81" >Commission</ORGANIZATION>
+
+<ORGANIZATION start="5856" end="5866" id="100011_82" >Commission</ORGANIZATION>
+
+<ORGANIZATION start="6475" end="6485" id="100011_83" >Commission</ORGANIZATION>
+
+<ORGANIZATION start="6706" end="6716" id="100011_84" >Commission</ORGANIZATION>
+
+<PROFESSION plural="True" start="7669" end="7677" id="100011_85" >attaches</PROFESSION>
+
+<ORGANIZATION start="8572" end="8582" id="100011_86" >Commission</ORGANIZATION>
+
+<NAME all_names="COMMERCEACT" start="8750" local_name_id="8" end="8762" id="100011_87" >Commerce Act</NAME>
+
+<PROFESSION start="8945" end="8950" id="100011_88" >judge</PROFESSION>
+
+<ORGANIZATION start="9398" end="9428" id="100011_92" >American Tie &amp; Timber Co. Case</ORGANIZATION>
+
+<PROFESSION start="9665" end="9670" id="100011_93" >judge</PROFESSION>
+
+<LEGAL_ROLE start="9853" end="9862" id="100011_94" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="10506" end="10516" id="100011_95" >Commission</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Loomis" party1="Loomis" citation_global_level_id="196.001" citation_local_level_id="9" end="10601" id="100011_89" id1="Dummy_File_181" party2="Lehigh Valley R.R. Co" start="10570" party2_short="R" line="23" >Loomis v. Lehigh Valley R.R. Co</CITATION>
+
+<PERSON party1_of="100011_89" start="10570" end="10576" id="100011_90" >Loomis</PERSON>
+
+<ORGANIZATION start="10580" end="10601" id="100011_91" party2_of="100011_89" >Lehigh Valley R.R. Co</ORGANIZATION>
+
+<ORGANIZATION start="11630" end="11640" id="100011_96" >Commission</ORGANIZATION>
+
+<ORGANIZATION start="12145" end="12175" id="100011_100" >American Tie &amp; Timber Co. Case</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="10" citation_global_level_id="197.001" name="Loomis Case" lookup_key="loomiscase#1" start="12187" id1="Dummy_File_182" end="12198" id="100011_99" line="24" >Loomis Case</CITATION>
+
+<ORGANIZATION start="12573" end="12583" id="100011_101" >Commission</ORGANIZATION>
+
+<ORGANIZATION start="12694" end="12707" id="100011_102" >Supreme Court</ORGANIZATION>
+
+<GPE start="12711" end="12720" id="100011_103" >Minnesota</GPE>
+
+<ORGANIZATION start="13085" end="13115" id="100011_104" >American Tie &amp; Timber Co. Case</ORGANIZATION>
+
+<NAME all_names="LOOMIS*295CASE" start="13132" local_name_id="9" end="13148" id="100011_105" >Loomis *295 Case</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Goddard" citation_local_level_id="11" party1="Goddard" alternative_keys="['wall.rep._17_123']" citation_global_level_id="198.003" end="13590" id="100011_111" id1="Dummy_File_183" standard_reporter="WALL.REP." volume="17" party2="Foster" lookup_key="goddardfoster#1" start="13573" page_number="123" party2_short="Foster" line="27" >Goddard v. Foster</CITATION>
+
+<PERSON party1_of="100011_111" start="13573" end="13580" id="100011_118" >Goddard</PERSON>
+
+<PERSON start="13584" end="13590" id="100011_119" party2_of="100011_111" >Foster</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="12" volume="17" reporter="Wall." alternative_keys="['goddardfoster#1']" citation_global_level_id="198.003" end="13609" id="100011_106" paragraph_number="142" standard_reporter="WALL.REP." page_number="123" lookup_key="wall.rep._17_123" start="13592" id1="Dummy_File_183" line="27" >17 Wall. 123, 142</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Hutchison" party1="Hutchison" citation_global_level_id="199.001" citation_local_level_id="13" end="13630" id="100011_112" id1="Dummy_File_184" party2="Bowker" lookup_key="hutchisonbowker#1" start="13611" party2_short="Bowker" line="27" >Hutchison v. Bowker</CITATION>
+
+<PERSON party1_of="100011_112" start="13611" end="13620" id="100011_120" >Hutchison</PERSON>
+
+<PERSON start="13624" end="13630" id="100011_121" party2_of="100011_112" >Bowker</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Tubbs" party1="Tubbs" citation_global_level_id="200.001" citation_local_level_id="14" end="13684" id="100011_113" id1="Dummy_File_185" party2="Mechanics' Insurance Co" lookup_key="tubbsinsurance#1" start="13652" party2_short="Insurance" line="27" >Tubbs v. Mechanics' Insurance Co</CITATION>
+
+<PERSON party1_of="100011_113" start="13652" end="13657" id="100011_122" >Tubbs</PERSON>
+
+<ORGANIZATION start="13661" end="13684" id="100011_123" party2_of="100011_113" >Mechanics' Insurance Co</ORGANIZATION>
+
+<GPE start="13691" end="13693" id="100011_132" >Ia</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Indemnity" citation_local_level_id="15" party1="Aetna Indemnity Co." alternative_keys="['md._110_673']" citation_global_level_id="201.003" end="13729" id="100011_114" id1="Dummy_File_186" standard_reporter="MD." volume="110" party2="Waters" lookup_key="indemnitywaters#1" start="13700" page_number="673" party2_short="Waters" line="27" >Aetna Indemnity Co. v. Waters</CITATION>
+
+<ORGANIZATION party1_of="100011_114" start="13700" end="13719" id="100011_124" >Aetna Indemnity Co.</ORGANIZATION>
+
+<ORGANIZATION start="13706" end="13718" id="100011_133" >Indemnity Co</ORGANIZATION>
+
+<PERSON start="13723" end="13729" id="100011_125" party2_of="100011_114" >Waters</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="16" volume="110" reporter="Md." alternative_keys="['indemnitywaters#1']" citation_global_level_id="201.003" end="13742" id="100011_107" id1="Dummy_File_186" standard_reporter="MD." page_number="673" lookup_key="md._110_673" start="13731" line="27" >110 Md. 673</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Tower" citation_local_level_id="17" party1="Tower Co." alternative_keys="['mass._184_472']" citation_global_level_id="202.003" end="13776" id="100011_115" id1="Dummy_File_187" standard_reporter="MASS." volume="184" party2="Southern Pacific Co" lookup_key="towerco#1" start="13744" page_number="472" party2_short="Co" line="27" >Tower Co. v. Southern Pacific Co</CITATION>
+
+<ORGANIZATION party1_of="100011_115" start="13744" end="13753" id="100011_126" >Tower Co.</ORGANIZATION>
+
+<ORGANIZATION start="13744" end="13752" id="100011_134" >Tower Co</ORGANIZATION>
+
+<ORGANIZATION start="13757" end="13776" id="100011_127" party2_of="100011_115" >Southern Pacific Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="18" volume="184" reporter="Mass." alternative_keys="['towerco#1']" citation_global_level_id="202.003" end="13792" id="100011_108" id1="Dummy_File_187" standard_reporter="MASS." page_number="472" lookup_key="mass._184_472" start="13779" line="27" >184 Mass. 472</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ogden" citation_local_level_id="19" party1="Ogden" alternative_keys="['u.s.(how.)_23_167']" citation_global_level_id="203.003" end="13814" id="100011_116" id1="Dummy_File_188" standard_reporter="U.S.(HOW.)" volume="23" party2="Parsons" lookup_key="ogdenparsons#1" start="13798" page_number="167" party2_short="Parsons" line="27" >Ogden v. Parsons</CITATION>
+
+<PERSON party1_of="100011_116" start="13798" end="13803" id="100011_128" >Ogden</PERSON>
+
+<PERSON start="13807" end="13814" id="100011_129" party2_of="100011_116" >Parsons</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="20" volume="23" reporter="How." alternative_keys="['ogdenparsons#1']" citation_global_level_id="203.003" end="13832" id="100011_109" paragraph_number="170" standard_reporter="U.S.(HOW.)" page_number="167" lookup_key="u.s.(how.)_23_167" start="13816" id1="Dummy_File_188" line="27" >23 How. 167, 170</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Fuller" citation_local_level_id="21" party1="Fuller" alternative_keys="['conn._70_647']" citation_global_level_id="204.003" end="13874" id="100011_117" id1="Dummy_File_189" standard_reporter="CONN." volume="70" party2="Metropolitan Life Insurance Co" lookup_key="fullerinsurance#1" start="13834" page_number="647" party2_short="Insurance" line="27" >Fuller v. Metropolitan Life Insurance Co</CITATION>
+
+<PERSON party1_of="100011_117" start="13834" end="13840" id="100011_130" >Fuller</PERSON>
+
+<ORGANIZATION start="13844" end="13874" id="100011_131" party2_of="100011_117" >Metropolitan Life Insurance Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="22" volume="70" reporter="Conn." alternative_keys="['fullerinsurance#1']" citation_global_level_id="204.003" end="13894" id="100011_110" paragraph_number="677" standard_reporter="CONN." page_number="647" lookup_key="conn._70_647" start="13877" id1="Dummy_File_189" line="27" >70 Conn. 647, 677</CITATION>
+
+<PERSON start="13896" end="13902" id="100011_135" >Thayer</PERSON>
+
+<NAME all_names="PRELIMINARYTREATISE" start="13904" local_name_id="10" end="13924" id="100011_136" >Preliminary Treatise</NAME>
+
+<ORGANIZATION start="14074" end="14084" id="100011_247" >Commission</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="R" citation_local_level_id="23" party1="Louisville &amp; Nashville R.R. Co." alternative_keys="['u.s._223_70']" citation_global_level_id="205.003" end="14279" id="100011_175" id1="Dummy_File_190" standard_reporter="U.S." volume="223" party2="Cook Brewing Co" lookup_key="rbrewing#1" start="14229" page_number="70" party2_short="Brewing" line="28" >Louisville &amp; Nashville R.R. Co. v. Cook Brewing Co</CITATION>
+
+<ORGANIZATION party1_of="100011_175" start="14229" end="14260" id="100011_199" >Louisville &amp; Nashville R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="14229" end="14259" id="100011_248" >Louisville &amp; Nashville R.R. Co</ORGANIZATION>
+
+<ORGANIZATION start="14264" end="14279" id="100011_200" party2_of="100011_175" >Cook Brewing Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="24" volume="223" reporter="U.S." alternative_keys="['rbrewing#1']" citation_global_level_id="205.003" end="14297" id="100011_156" paragraph_number="84" standard_reporter="U.S." page_number="70" lookup_key="u.s._223_70" start="14282" id1="Dummy_File_190" line="28" >223 U.S. 70, 84</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="R" citation_local_level_id="25" party1="Pennsylvania R.R. Co." alternative_keys="['u.s._230_184']" citation_global_level_id="206.003" end="14345" id="100011_176" id1="Dummy_File_191" standard_reporter="U.S." volume="230" party2="International Coal Co" lookup_key="rcoal#1" start="14299" page_number="184" party2_short="Coal" line="28" >Pennsylvania R.R. Co. v. International Coal Co</CITATION>
+
+<ORGANIZATION party1_of="100011_176" start="14299" end="14320" id="100011_201" >Pennsylvania R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="14324" end="14345" id="100011_202" party2_of="100011_176" >International Coal Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="26" volume="230" reporter="U.S." alternative_keys="['rcoal#1']" citation_global_level_id="206.003" end="14365" id="100011_157" paragraph_number="196" standard_reporter="U.S." page_number="184" lookup_key="u.s._230_184" start="14348" id1="Dummy_File_191" line="28" >230 U.S. 184, 196</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="R" citation_local_level_id="27" party1="Pennsylvania R.R. Co." alternative_keys="['u.s._237_121']" lookup_key="u.s._237_121" citation_global_level_id="207.003" end="14407" id="100011_177" id1="Dummy_File_192" standard_reporter="U.S." page_number="121" party2="Puritan Coal Co" volume="237" start="14367" party2_short="Coal" line="28" >Pennsylvania R.R. Co. v. Puritan Coal Co</CITATION>
+
+<ORGANIZATION party1_of="100011_177" start="14367" end="14388" id="100011_203" >Pennsylvania R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="14392" end="14407" id="100011_204" party2_of="100011_177" >Puritan Coal Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="237" reporter="U.S." citation_global_level_id="207.003" citation_local_level_id="28" end="14427" id="100011_158" paragraph_number="134" standard_reporter="U.S." page_number="121" lookup_key="u.s._237_121" start="14410" id1="Dummy_File_192" line="28" >237 U.S. 121, 134</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ry" citation_local_level_id="29" party1="Eastern Ry. Co." alternative_keys="['u.s._237_140']" citation_global_level_id="208.003" end="14459" id="100011_178" id1="Dummy_File_193" standard_reporter="U.S." volume="237" party2="Littlefield" lookup_key="rylittlefield#1" start="14429" page_number="140" party2_short="Littlefield" line="28" >Eastern Ry. Co. v. Littlefield</CITATION>
+
+<ORGANIZATION party1_of="100011_178" start="14429" end="14444" id="100011_205" >Eastern Ry. Co.</ORGANIZATION>
+
+<PERSON start="14448" end="14459" id="100011_206" party2_of="100011_178" >Littlefield</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="30" volume="237" reporter="U.S." alternative_keys="['rylittlefield#1']" citation_global_level_id="208.003" end="14473" id="100011_159" id1="Dummy_File_193" standard_reporter="U.S." page_number="140" lookup_key="u.s._237_140" start="14461" line="28" >237 U.S. 140</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="R" citation_local_level_id="31" party1="Illinois Central R.R. Co." alternative_keys="['u.s._238_275']" lookup_key="u.s._238_275" citation_global_level_id="209.003" end="14525" id="100011_179" id1="Dummy_File_194" standard_reporter="U.S." page_number="275" party2="Mulberry Hill Coal Co" volume="238" start="14475" party2_short="Coal" line="28" >Illinois Central R.R. Co. v. Mulberry Hill Coal Co</CITATION>
+
+<ORGANIZATION party1_of="100011_179" start="14475" end="14500" id="100011_207" >Illinois Central R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="14484" end="14499" id="100011_249" >Central R.R. Co</ORGANIZATION>
+
+<ORGANIZATION start="14504" end="14525" id="100011_208" party2_of="100011_179" >Mulberry Hill Coal Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="238" reporter="U.S." citation_global_level_id="209.003" citation_local_level_id="32" end="14540" id="100011_160" id1="Dummy_File_194" standard_reporter="U.S." page_number="275" lookup_key="u.s._238_275" start="14528" line="28" >238 U.S. 275</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="R" citation_local_level_id="33" party1="Pennsylvania R.R. Co." alternative_keys="['u.s._242_120']" lookup_key="u.s._242_120" citation_global_level_id="210.003" end="14581" id="100011_180" id1="Dummy_File_195" standard_reporter="U.S." page_number="120" party2="Sonman Coal Co" volume="242" start="14542" party2_short="Coal" line="28" >Pennsylvania R.R. Co. v. Sonman Coal Co</CITATION>
+
+<ORGANIZATION party1_of="100011_180" start="14542" end="14563" id="100011_209" >Pennsylvania R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="14567" end="14581" id="100011_210" party2_of="100011_180" >Sonman Coal Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="242" reporter="U.S." citation_global_level_id="210.003" citation_local_level_id="34" end="14596" id="100011_161" id1="Dummy_File_195" standard_reporter="U.S." page_number="120" lookup_key="u.s._242_120" start="14584" line="28" >242 U.S. 120</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="R" party1="Pennsylvania R.R. Co." citation_global_level_id="211.001" citation_local_level_id="35" end="14650" id="100011_181" id1="Dummy_File_196" party2="Kittanning Iron &amp; Steel Mfg" lookup_key="rmfg#1" start="14598" party2_short="Mfg" line="28" >Pennsylvania R.R. Co. v. Kittanning Iron &amp; Steel Mfg</CITATION>
+
+<ORGANIZATION party1_of="100011_181" start="14598" end="14619" id="100011_211" >Pennsylvania R.R. Co.</ORGANIZATION>
+
+<PERSON start="14623" end="14650" id="100011_212" party2_of="100011_181" >Kittanning Iron &amp; Steel Mfg</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="253" reporter="U.S." citation_global_level_id="212.001" citation_local_level_id="36" end="14669" id="100011_162" id1="Dummy_File_197" standard_reporter="U.S." page_number="319" lookup_key="u.s._253_319" start="14657" line="28" >253 U.S. 319</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Swift" party1="Swift &amp; Co." citation_global_level_id="213.001" citation_local_level_id="37" end="14712" id="100011_182" id1="Dummy_File_198" party2="Hocking Valley Ry" lookup_key="swiftry#1" start="14680" party2_short="Ry" line="28" >Swift &amp; Co. v. Hocking Valley Ry</CITATION>
+
+<ORGANIZATION party1_of="100011_182" start="14680" end="14691" id="100011_213" >Swift &amp; Co.</ORGANIZATION>
+
+<ORGANIZATION start="14680" end="14690" id="100011_250" >Swift &amp; Co</ORGANIZATION>
+
+<GPE start="14695" end="14712" id="100011_214" party2_of="100011_182" >Hocking Valley Ry</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="243" reporter="U.S." citation_global_level_id="214.001" citation_local_level_id="38" end="14731" id="100011_163" id1="Dummy_File_199" standard_reporter="U.S." page_number="281" lookup_key="u.s._243_281" start="14719" line="28" >243 U.S. 281</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Louis" citation_local_level_id="39" party1="St. Louis, Iron Mountain &amp; Southern Ry. Co." alternative_keys="['u.s._255_252']" citation_global_level_id="215.003" end="14792" id="100011_183" id1="Dummy_File_200" standard_reporter="U.S." volume="255" party2="Hasty &amp; Sons" lookup_key="louissons#1" start="14733" page_number="252" party2_short="Sons" line="28" >St. Louis, Iron Mountain &amp; Southern Ry. Co. v. Hasty &amp; Sons</CITATION>
+
+<ORGANIZATION party1_of="100011_183" start="14733" end="14776" id="100011_215" >St. Louis, Iron Mountain &amp; Southern Ry. Co.</ORGANIZATION>
+
+<PERSON start="14780" end="14792" id="100011_216" party2_of="100011_183" >Hasty &amp; Sons</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="40" volume="255" reporter="U.S." alternative_keys="['louissons#1']" citation_global_level_id="215.003" end="14811" id="100011_164" paragraph_number="256" standard_reporter="U.S." page_number="252" lookup_key="u.s._255_252" start="14794" id1="Dummy_File_200" line="28" >255 U.S. 252, 256</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Hite" party1="Hite" citation_global_level_id="216.001" citation_local_level_id="41" end="14835" id="100011_184" id1="Dummy_File_201" party2="Central R.R" lookup_key="hiter#1" start="14816" party2_short="R" line="28" >Hite v. Central R.R</CITATION>
+
+<PERSON party1_of="100011_184" start="14816" end="14820" id="100011_217" >Hite</PERSON>
+
+<NAME all_names="CENTRALRR" start="14824" local_name_id="11" end="14835" id="100011_218" party2_of="100011_184" >Central R.R</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Bros" party1="Gimble Bros., Inc." citation_global_level_id="217.001" citation_local_level_id="42" end="14894" id="100011_185" id1="Dummy_File_202" party2="Barrett" lookup_key="brosbarrett#1" start="14865" party2_short="Barrett" line="28" >Gimble Bros., Inc. v. Barrett</CITATION>
+
+<ORGANIZATION party1_of="100011_185" start="14865" end="14883" id="100011_219" >Gimble Bros., Inc.</ORGANIZATION>
+
+<PERSON start="14887" end="14894" id="100011_220" party2_of="100011_185" >Barrett</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Elevator" party1="National Elevator Co." citation_global_level_id="218.001" citation_local_level_id="43" end="14971" id="100011_186" id1="Dummy_File_203" party2="Chicago" lookup_key="elevatorchicago#1" start="14939" party2_short="Chicago" line="28" >National Elevator Co. v. Chicago</CITATION>
+
+<ORGANIZATION party1_of="100011_186" start="14939" end="14960" id="100011_221" >National Elevator Co.</ORGANIZATION>
+
+<ORGANIZATION start="14939" end="14959" id="100011_251" >National Elevator Co</ORGANIZATION>
+
+<NAME all_names="CHICAGO" start="14964" local_name_id="12" end="14971" id="100011_222" party2_of="100011_186" >Chicago</NAME>
+
+<PERSON start="14973" end="14987" id="100011_252" >Milwaukee &amp; St</PERSON>
+
+<PERSON plural="True" start="14989" end="14996" id="100011_253" >Paul Ry</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Francesconi" party1="Francesconi &amp; Co." citation_global_level_id="219.001" citation_local_level_id="44" end="15058" id="100011_187" id1="Dummy_File_204" party2="Baltimore &amp; Ohio R.R" lookup_key="francesconir#1" start="15017" party2_short="R" line="28" >Francesconi &amp; Co. v. Baltimore &amp; Ohio R.R</CITATION>
+
+<ORGANIZATION party1_of="100011_187" start="15017" end="15034" id="100011_223" >Francesconi &amp; Co.</ORGANIZATION>
+
+<ORGANIZATION start="15017" end="15033" id="100011_254" >Francesconi &amp; Co</ORGANIZATION>
+
+<ORGANIZATION start="15038" end="15058" id="100011_224" party2_of="100011_187" >Baltimore &amp; Ohio R.R</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Refineries" party1="Empire Refineries, Inc." citation_global_level_id="220.001" citation_local_level_id="45" end="15136" id="100011_188" id1="Dummy_File_205" party2="Guaranty Trust Co" lookup_key="refineriestrust#1" start="15092" party2_short="Trust" line="28" >Empire Refineries, Inc. v. Guaranty Trust Co</CITATION>
+
+<ORGANIZATION party1_of="100011_188" start="15092" end="15115" id="100011_225" >Empire Refineries, Inc.</ORGANIZATION>
+
+<ORGANIZATION start="15092" end="15114" id="100011_255" >Empire Refineries, Inc</ORGANIZATION>
+
+<ORGANIZATION start="15119" end="15136" id="100011_226" party2_of="100011_188" >Guaranty Trust Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ry" citation_local_level_id="46" party1="Kansas City Southern Ry. Co." alternative_keys="['ark._102_20']" citation_global_level_id="221.003" end="15192" id="100011_189" id1="Dummy_File_206" standard_reporter="ARK." volume="102" party2="Tonn" lookup_key="rytonn#1" start="15156" page_number="20" party2_short="Tonn" line="28" >Kansas City Southern Ry. Co. v. Tonn</CITATION>
+
+<ORGANIZATION party1_of="100011_189" start="15156" end="15184" id="100011_227" >Kansas City Southern Ry. Co.</ORGANIZATION>
+
+<PERSON start="15188" end="15192" id="100011_228" party2_of="100011_189" >Tonn</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="47" volume="102" reporter="Ark." alternative_keys="['rytonn#1']" citation_global_level_id="221.003" end="15209" id="100011_165" paragraph_number="26" standard_reporter="ARK." page_number="20" lookup_key="ark._102_20" start="15194" id1="Dummy_File_206" line="28" >102 Ark. 20, 26</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="R" citation_local_level_id="48" party1="Western &amp; Atlantic R.R. Co." alternative_keys="['ga._142_246']" citation_global_level_id="222.003" end="15260" id="100011_190" id1="Dummy_File_207" standard_reporter="GA." volume="142" party2="White Provision Co" lookup_key="rprovision#1" start="15211" page_number="246" party2_short="Provision" line="28" >Western &amp; Atlantic R.R. Co. v. White Provision Co</CITATION>
+
+<ORGANIZATION party1_of="100011_190" start="15211" end="15238" id="100011_229" >Western &amp; Atlantic R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="15211" end="15237" id="100011_256" >Western &amp; Atlantic R.R. Co</ORGANIZATION>
+
+<ORGANIZATION start="15242" end="15260" id="100011_230" party2_of="100011_190" >White Provision Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="49" volume="142" reporter="Ga." alternative_keys="['rprovision#1']" citation_global_level_id="222.003" end="15274" id="100011_166" id1="Dummy_File_207" standard_reporter="GA." page_number="246" lookup_key="ga._142_246" start="15263" line="28" >142 Ga. 246</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Gustafson" party1="Gustafson" citation_global_level_id="223.001" citation_local_level_id="50" end="15309" id="100011_191" id1="Dummy_File_208" party2="Michigan Central R.R" lookup_key="gustafsonr#1" start="15276" party2_short="R" line="28" >Gustafson v. Michigan Central R.R</CITATION>
+
+<PERSON party1_of="100011_191" start="15276" end="15285" id="100011_231" >Gustafson</PERSON>
+
+<GPE start="15289" end="15309" id="100011_232" party2_of="100011_191" >Michigan Central R.R</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="296" reporter="Ill." citation_global_level_id="224.001" citation_local_level_id="51" end="15327" id="100011_167" id1="Dummy_File_209" standard_reporter="ILL." page_number="41" lookup_key="ill._296_41" start="15316" line="28" >296 Ill. 41</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Works" citation_local_level_id="52" party1="Wolverine Brass Works" alternative_keys="['mich._187_393']" citation_global_level_id="225.003" end="15373" id="100011_192" id1="Dummy_File_210" standard_reporter="MICH." volume="187" party2="Southern Pacific Co" lookup_key="worksco#1" start="15329" page_number="393" party2_short="Co" line="28" >Wolverine Brass Works v. Southern Pacific Co</CITATION>
+
+<NAME all_names="WOLVERINEBRASSWORKS" party1_of="100011_192" start="15329" local_name_id="13" end="15350" id="100011_233" >Wolverine Brass Works</NAME>
+
+<ORGANIZATION start="15354" end="15373" id="100011_234" party2_of="100011_192" >Southern Pacific Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="53" volume="187" reporter="Mich." alternative_keys="['worksco#1']" citation_global_level_id="225.003" end="15394" id="100011_168" paragraph_number="396" standard_reporter="MICH." page_number="393" lookup_key="mich._187_393" start="15376" id1="Dummy_File_210" line="28" >187 Mich. 393, 396</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Elevator" party1="Reliance Elevator Co." citation_global_level_id="226.001" citation_local_level_id="54" end="15428" id="100011_193" id1="Dummy_File_211" party2="Chicago" start="15396" party2_short="Chicago" line="28" >Reliance Elevator Co. v. Chicago</CITATION>
+
+<ORGANIZATION party1_of="100011_193" start="15396" end="15417" id="100011_235" >Reliance Elevator Co.</ORGANIZATION>
+
+<ORGANIZATION start="15396" end="15416" id="100011_257" >Reliance Elevator Co</ORGANIZATION>
+
+<NAME all_names="CHICAGO" start="15421" local_name_id="12" end="15428" id="100011_236" party2_of="100011_193" >Chicago</NAME>
+
+<PERSON start="15430" end="15444" id="100011_258" >Milwaukee &amp; St</PERSON>
+
+<PERSON plural="True" start="15446" end="15453" id="100011_259" >Paul Ry</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="139" reporter="Minn." citation_global_level_id="227.001" citation_local_level_id="55" end="15472" id="100011_169" id1="Dummy_File_212" standard_reporter="MINN." page_number="69" lookup_key="minn._139_69" start="15460" line="28" >139 Minn. 69</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ry" citation_local_level_id="56" party1="St. Louis, San Francisco &amp; Texas Ry. Co." alternative_keys="['tex.civ.app._61_190']" citation_global_level_id="228.003" end="15538" id="100011_194" id1="Dummy_File_213" standard_reporter="TEX.CIV.APP." volume="61" party2="Roff Oil &amp; Cotton Co" lookup_key="rycotton#1" start="15474" page_number="190" party2_short="Cotton" line="28" >St. Louis, San Francisco &amp; Texas Ry. Co. v. Roff Oil &amp; Cotton Co</CITATION>
+
+<ORGANIZATION party1_of="100011_194" start="15474" end="15514" id="100011_237" >St. Louis, San Francisco &amp; Texas Ry. Co.</ORGANIZATION>
+
+<ORGANIZATION start="15518" end="15538" id="100011_238" party2_of="100011_194" >Roff Oil &amp; Cotton Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="57" volume="61" reporter="Tex. Civ. App." alternative_keys="['rycotton#1']" citation_global_level_id="228.003" end="15567" id="100011_170" paragraph_number="192" standard_reporter="TEX.CIV.APP." page_number="190" lookup_key="tex.civ.app._61_190" start="15541" id1="Dummy_File_213" line="28" >61 Tex. Civ. App. 190, 192</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Co" party1="Southern Pacific Co." citation_global_level_id="229.001" citation_local_level_id="58" end="15605" id="100011_195" id1="Dummy_File_214" party2="Frye &amp; Bruhn" lookup_key="cobruhn#1" start="15569" party2_short="Bruhn" line="28" >Southern Pacific Co. v. Frye &amp; Bruhn</CITATION>
+
+<ORGANIZATION party1_of="100011_195" start="15569" end="15589" id="100011_239" >Southern Pacific Co.</ORGANIZATION>
+
+<ORGANIZATION start="15569" end="15588" id="100011_260" >Southern Pacific Co</ORGANIZATION>
+
+<PERSON start="15593" end="15605" id="100011_240" party2_of="100011_195" >Frye &amp; Bruhn</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="82" reporter="Wash." citation_global_level_id="230.001" citation_local_level_id="59" end="15623" id="100011_171" id1="Dummy_File_215" standard_reporter="WASH." page_number="9" lookup_key="wash._82_9" start="15613" line="28" >82 Wash. 9</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Hardaway" party1="Hardaway" citation_global_level_id="231.001" citation_local_level_id="60" end="15656" id="100011_196" id1="Dummy_File_216" party2="Southern Ry" lookup_key="hardawayry#1" start="15633" party2_short="Ry" line="28" >Hardaway v. Southern Ry</CITATION>
+
+<PERSON party1_of="100011_196" start="15633" end="15641" id="100011_241" >Hardaway</PERSON>
+
+<NAME all_names="SOUTHERNRY" start="15645" local_name_id="14" end="15656" id="100011_242" party2_of="100011_196" >Southern Ry</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="90" reporter="S. Car." citation_global_level_id="232.001" citation_local_level_id="61" end="15677" id="100011_172" id1="Dummy_File_217" standard_reporter="S.CAR." page_number="475" lookup_key="s.car._90_475" start="15663" line="28" >90 S. Car. 475</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Cheney" citation_local_level_id="62" party1="Cheney" alternative_keys="['mass._227_336']" citation_global_level_id="233.003" end="15718" id="100011_197" id1="Dummy_File_218" standard_reporter="MASS." volume="227" party2="Boston &amp; Maine R.R" lookup_key="cheneyr#1" start="15690" page_number="336" party2_short="R" line="28" >Cheney v. Boston &amp; Maine R.R</CITATION>
+
+<PERSON party1_of="100011_197" start="15690" end="15696" id="100011_243" >Cheney</PERSON>
+
+<PERSON start="15700" end="15718" id="100011_244" party2_of="100011_197" >Boston &amp; Maine R.R</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="63" volume="227" reporter="Mass." alternative_keys="['cheneyr#1']" citation_global_level_id="233.003" end="15734" id="100011_173" id1="Dummy_File_218" standard_reporter="MASS." page_number="336" lookup_key="mass._227_336" start="15721" line="28" >227 Mass. 336</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Poor" citation_local_level_id="64" party1="Poor" alternative_keys="['mo.app.rep._196_557']" citation_global_level_id="234.003" end="15778" id="100011_198" id1="Dummy_File_219" standard_reporter="MO.APP.REP." volume="196" party2="Western Union Telegraph Co" lookup_key="poortelegraph#1" start="15744" page_number="557" party2_short="Telegraph" line="28" >Poor v. Western Union Telegraph Co</CITATION>
+
+<PERSON party1_of="100011_198" start="15744" end="15748" id="100011_245" >Poor</PERSON>
+
+<ORGANIZATION start="15752" end="15778" id="100011_246" party2_of="100011_198" >Western Union Telegraph Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="65" volume="196" reporter="Mo. App." alternative_keys="['poortelegraph#1']" citation_global_level_id="234.003" end="15802" id="100011_174" paragraph_number="564" standard_reporter="MO.APP.REP." page_number="557" lookup_key="mo.app.rep._196_557" start="15781" id1="Dummy_File_219" line="28" >196 Mo. App. 557, 564</CITATION>
+
+<ORGANIZATION start="15926" end="15936" id="100011_350" >Commission</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ry" citation_local_level_id="66" party1="Texas &amp; Pacific Ry. Co." alternative_keys="['u.s._204_426']" citation_global_level_id="235.003" end="16089" id="100011_329" id1="Dummy_File_220" standard_reporter="U.S." volume="204" party2="Abilene Cotton Oil Co" lookup_key="ryoil#1" start="16041" page_number="426" party2_short="Oil" line="30" >Texas &amp; Pacific Ry. Co. v. Abilene Cotton Oil Co</CITATION>
+
+<ORGANIZATION party1_of="100011_329" start="16041" end="16064" id="100011_336" >Texas &amp; Pacific Ry. Co.</ORGANIZATION>
+
+<ORGANIZATION start="16068" end="16089" id="100011_337" party2_of="100011_329" >Abilene Cotton Oil Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="67" volume="204" reporter="U.S." alternative_keys="['ryoil#1']" citation_global_level_id="235.003" end="16104" id="100011_322" id1="Dummy_File_220" standard_reporter="U.S." page_number="426" lookup_key="u.s._204_426" start="16092" line="30" >204 U.S. 426</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="R" citation_local_level_id="68" party1="Baltimore &amp; Ohio R.R. Co." alternative_keys="['u.s._215_481']" lookup_key="u.s._215_481" citation_global_level_id="236.003" end="16151" id="100011_330" id1="Dummy_File_221" standard_reporter="U.S." page_number="481" party2="Pitcairn Coal Co" volume="215" start="16106" party2_short="Coal" line="30" >Baltimore &amp; Ohio R.R. Co. v. Pitcairn Coal Co</CITATION>
+
+<ORGANIZATION party1_of="100011_330" start="16106" end="16131" id="100011_338" >Baltimore &amp; Ohio R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="16118" end="16130" id="100011_351" >Ohio R.R. Co</ORGANIZATION>
+
+<ORGANIZATION start="16135" end="16151" id="100011_339" party2_of="100011_330" >Pitcairn Coal Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="215" reporter="U.S." citation_global_level_id="236.003" citation_local_level_id="69" end="16166" id="100011_323" id1="Dummy_File_221" standard_reporter="U.S." page_number="481" lookup_key="u.s._215_481" start="16154" line="30" >215 U.S. 481</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Coal" party1="Mitchell Coal Co." citation_global_level_id="237.001" citation_local_level_id="70" end="16205" id="100011_331" id1="Dummy_File_222" party2="Pennsylvania R.R" lookup_key="coalr#1" start="16168" party2_short="R" line="30" >Mitchell Coal Co. v. Pennsylvania R.R</CITATION>
+
+<ORGANIZATION party1_of="100011_331" start="16168" end="16185" id="100011_340" >Mitchell Coal Co.</ORGANIZATION>
+
+<GPE start="16189" end="16205" id="100011_341" party2_of="100011_331" >Pennsylvania R.R</GPE>
+
+<ORGANIZATION start="16207" end="16209" id="100011_352" >Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="230" reporter="U.S." citation_global_level_id="238.001" citation_local_level_id="71" end="16224" id="100011_324" id1="Dummy_File_223" standard_reporter="U.S." page_number="247" lookup_key="u.s._230_247" start="16212" line="30" >230 U.S. 247</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Coal" party1="Morrisdale Coal Co." citation_global_level_id="239.001" citation_local_level_id="72" end="16265" id="100011_332" id1="Dummy_File_224" party2="Pennsylvania R.R" start="16226" party2_short="R" line="30" >Morrisdale Coal Co. v. Pennsylvania R.R</CITATION>
+
+<ORGANIZATION party1_of="100011_332" start="16226" end="16245" id="100011_342" >Morrisdale Coal Co.</ORGANIZATION>
+
+<GPE start="16249" end="16265" id="100011_343" party2_of="100011_332" >Pennsylvania R.R</GPE>
+
+<ORGANIZATION start="16267" end="16269" id="100011_353" >Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="230" reporter="U.S." citation_global_level_id="240.001" citation_local_level_id="73" end="16284" id="100011_325" id1="Dummy_File_225" standard_reporter="U.S." page_number="304" lookup_key="u.s._230_304" start="16272" line="30" >230 U.S. 304</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ry" citation_local_level_id="74" party1="Northern Pacific Ry. Co." alternative_keys="['u.s._247_477']" citation_global_level_id="241.003" end="16319" id="100011_333" id1="Dummy_File_226" standard_reporter="U.S." volume="247" party2="Solum" lookup_key="rysolum#1" start="16286" page_number="477" party2_short="Solum" line="30" >Northern Pacific Ry. Co. v. Solum</CITATION>
+
+<ORGANIZATION party1_of="100011_333" start="16286" end="16310" id="100011_344" >Northern Pacific Ry. Co.</ORGANIZATION>
+
+<PERSON start="16314" end="16319" id="100011_345" party2_of="100011_333" >Solum</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="75" volume="247" reporter="U.S." alternative_keys="['rysolum#1']" citation_global_level_id="241.003" end="16338" id="100011_326" paragraph_number="483" standard_reporter="U.S." page_number="477" lookup_key="u.s._247_477" start="16321" id1="Dummy_File_226" line="30" >247 U.S. 477, 483</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="General" citation_local_level_id="76" party1="Director General" alternative_keys="['u.s._254_498']" citation_global_level_id="242.003" end="16370" id="100011_334" id1="Dummy_File_227" standard_reporter="U.S." volume="254" party2="Viscose Co" lookup_key="generalviscose#1" start="16340" page_number="498" party2_short="Viscose" line="30" >Director General v. Viscose Co</CITATION>
+
+<PERSON party1_of="100011_334" start="16340" end="16356" id="100011_346" >Director General</PERSON>
+
+<PROFESSION start="16349" end="16356" id="100011_354" >General</PROFESSION>
+
+<ORGANIZATION start="16360" end="16370" id="100011_347" party2_of="100011_334" >Viscose Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="77" volume="254" reporter="U.S." alternative_keys="['generalviscose#1']" citation_global_level_id="242.003" end="16385" id="100011_327" id1="Dummy_File_227" standard_reporter="U.S." page_number="498" lookup_key="u.s._254_498" start="16373" line="30" >254 U.S. 498</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="States" citation_local_level_id="78" party1="United States" alternative_keys="['u.s._228_87']" citation_global_level_id="243.003" end="16443" id="100011_335" id1="Dummy_File_228" standard_reporter="U.S." volume="228" party2="Pacific &amp; Arctic Ry. &amp; Nav. Co" lookup_key="statesnav#1" start="16396" page_number="87" party2_short="Nav" line="30" >United States v. Pacific &amp; Arctic Ry. &amp; Nav. Co</CITATION>
+
+<GPE party1_of="100011_335" start="16396" end="16409" id="100011_348" >United States</GPE>
+
+<ORGANIZATION start="16413" end="16443" id="100011_349" party2_of="100011_335" >Pacific &amp; Arctic Ry. &amp; Nav. Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="79" volume="228" reporter="U.S." alternative_keys="['statesnav#1']" citation_global_level_id="243.003" end="16457" id="100011_328" id1="Dummy_File_228" standard_reporter="U.S." page_number="87" lookup_key="u.s._228_87" start="16446" line="30" >228 U.S. 87</CITATION>
+
+<RELATION at_date_string="1922" relation_type="asymmetric" at_date="100011_2" theme="100011_1" gram_type="pre_nom" theme_string="259 U.S. 285" id="100011_3" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="MERCHANTS ELEVATOR COMPANY" party2="100011_7" theme="100011_5" gram_type="infix" theme_string="GREAT NORTHERN RAILWAY COMPANY ET AL.  v.  MERCHANTS ELEVATOR COMPANY" id="100011_10" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_6" party1_string="GREAT NORTHERN RAILWAY COMPANY ET AL." theme="100011_5" gram_type="infix" theme_string="GREAT NORTHERN RAILWAY COMPANY ET AL.  v.  MERCHANTS ELEVATOR COMPANY" id="100011_9" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_5" X_vs_Y_string="GREAT NORTHERN RAILWAY COMPANY ET AL.  v.  MERCHANTS ELEVATOR COMPANY" standard_case_string="259 U.S. 285" standard_case="100011_1" gram_type="multi_line" id="100011_11" ></RELATION>
+
+<RELATION legal_role_string="respondent" relation_type="asymmetric" theme="100011_20" preposition="for" legal_role="100011_21" gram_type="preposition" theme_string="Mr. Harold G. Simpson" id="100011_22" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_51" X_vs_Y_string="Texas &amp; Pacific Ry. Co. v. American Tie &amp; Timber Co" standard_case_string="234 U.S. 138" standard_case="100011_47" gram_type="apposition" id="100011_71" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_54" party1_string="Texas &amp; Pacific Ry. Co." theme="100011_51" gram_type="infix" theme_string="Texas &amp; Pacific Ry. Co. v. American Tie &amp; Timber Co" id="100011_69" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="American Tie &amp; Timber Co" party2="100011_55" theme="100011_51" gram_type="infix" theme_string="Texas &amp; Pacific Ry. Co. v. American Tie &amp; Timber Co" id="100011_70" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_56" party1_string="Loomis" theme="100011_52" gram_type="infix" theme_string="Loomis v. Lehigh Valley R.R" id="100011_72" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Lehigh Valley R.R" party2="100011_57" theme="100011_52" gram_type="infix" theme_string="Loomis v. Lehigh Valley R.R" id="100011_73" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_53" X_vs_Y_string="Reliance Elevator Co. v. Chicago, Milwaukee &amp; St. Paul Ry. Co" standard_case_string="139 Minn. *290" standard_case="100011_49" gram_type="apposition" id="100011_76" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_58" party1_string="Reliance Elevator Co." theme="100011_53" gram_type="infix" theme_string="Reliance Elevator Co. v. Chicago, Milwaukee &amp; St. Paul Ry. Co" id="100011_74" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Chicago, Milwaukee &amp; St. Paul Ry. Co" party2="100011_59" theme="100011_53" gram_type="infix" theme_string="Reliance Elevator Co. v. Chicago, Milwaukee &amp; St. Paul Ry. Co" id="100011_75" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_90" party1_string="Loomis" theme="100011_89" gram_type="infix" theme_string="Loomis v. Lehigh Valley R.R. Co" id="100011_97" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Lehigh Valley R.R. Co" party2="100011_91" theme="100011_89" gram_type="infix" theme_string="Loomis v. Lehigh Valley R.R. Co" id="100011_98" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_111" X_vs_Y_string="Goddard v. Foster" standard_case_string="17 Wall. 123, 142" standard_case="100011_106" gram_type="apposition" id="100011_139" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_118" party1_string="Goddard" theme="100011_111" gram_type="infix" theme_string="Goddard v. Foster" id="100011_137" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Foster" party2="100011_119" theme="100011_111" gram_type="infix" theme_string="Goddard v. Foster" id="100011_138" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_120" party1_string="Hutchison" theme="100011_112" gram_type="infix" theme_string="Hutchison v. Bowker" id="100011_140" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Bowker" party2="100011_121" theme="100011_112" gram_type="infix" theme_string="Hutchison v. Bowker" id="100011_141" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_122" party1_string="Tubbs" theme="100011_113" gram_type="infix" theme_string="Tubbs v. Mechanics' Insurance Co" id="100011_142" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Mechanics' Insurance Co" party2="100011_123" theme="100011_113" gram_type="infix" theme_string="Tubbs v. Mechanics' Insurance Co" id="100011_143" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_114" X_vs_Y_string="Aetna Indemnity Co. v. Waters" standard_case_string="110 Md. 673" standard_case="100011_107" gram_type="apposition" id="100011_146" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_124" party1_string="Aetna Indemnity Co." theme="100011_114" gram_type="infix" theme_string="Aetna Indemnity Co. v. Waters" id="100011_144" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Waters" party2="100011_125" theme="100011_114" gram_type="infix" theme_string="Aetna Indemnity Co. v. Waters" id="100011_145" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_115" X_vs_Y_string="Tower Co. v. Southern Pacific Co" standard_case_string="184 Mass. 472" standard_case="100011_108" gram_type="apposition" id="100011_149" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_126" party1_string="Tower Co." theme="100011_115" gram_type="infix" theme_string="Tower Co. v. Southern Pacific Co" id="100011_147" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Southern Pacific Co" party2="100011_127" theme="100011_115" gram_type="infix" theme_string="Tower Co. v. Southern Pacific Co" id="100011_148" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_116" X_vs_Y_string="Ogden v. Parsons" standard_case_string="23 How. 167, 170" standard_case="100011_109" gram_type="apposition" id="100011_152" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_128" party1_string="Ogden" theme="100011_116" gram_type="infix" theme_string="Ogden v. Parsons" id="100011_150" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Parsons" party2="100011_129" theme="100011_116" gram_type="infix" theme_string="Ogden v. Parsons" id="100011_151" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_117" X_vs_Y_string="Fuller v. Metropolitan Life Insurance Co" standard_case_string="70 Conn. 647, 677" standard_case="100011_110" gram_type="apposition" id="100011_155" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_130" party1_string="Fuller" theme="100011_117" gram_type="infix" theme_string="Fuller v. Metropolitan Life Insurance Co" id="100011_153" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Metropolitan Life Insurance Co" party2="100011_131" theme="100011_117" gram_type="infix" theme_string="Fuller v. Metropolitan Life Insurance Co" id="100011_154" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_175" X_vs_Y_string="Louisville &amp; Nashville R.R. Co. v. Cook Brewing Co" standard_case_string="223 U.S. 70, 84" standard_case="100011_156" gram_type="apposition" id="100011_263" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_199" party1_string="Louisville &amp; Nashville R.R. Co." theme="100011_175" gram_type="infix" theme_string="Louisville &amp; Nashville R.R. Co. v. Cook Brewing Co" id="100011_261" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Cook Brewing Co" party2="100011_200" theme="100011_175" gram_type="infix" theme_string="Louisville &amp; Nashville R.R. Co. v. Cook Brewing Co" id="100011_262" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_176" X_vs_Y_string="Pennsylvania R.R. Co. v. International Coal Co" standard_case_string="230 U.S. 184, 196" standard_case="100011_157" gram_type="apposition" id="100011_266" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_201" party1_string="Pennsylvania R.R. Co." theme="100011_176" gram_type="infix" theme_string="Pennsylvania R.R. Co. v. International Coal Co" id="100011_264" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="International Coal Co" party2="100011_202" theme="100011_176" gram_type="infix" theme_string="Pennsylvania R.R. Co. v. International Coal Co" id="100011_265" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_177" X_vs_Y_string="Pennsylvania R.R. Co. v. Puritan Coal Co" standard_case_string="237 U.S. 121, 134" standard_case="100011_158" gram_type="apposition" id="100011_269" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_203" party1_string="Pennsylvania R.R. Co." theme="100011_177" gram_type="infix" theme_string="Pennsylvania R.R. Co. v. Puritan Coal Co" id="100011_267" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Puritan Coal Co" party2="100011_204" theme="100011_177" gram_type="infix" theme_string="Pennsylvania R.R. Co. v. Puritan Coal Co" id="100011_268" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_178" X_vs_Y_string="Eastern Ry. Co. v. Littlefield" standard_case_string="237 U.S. 140" standard_case="100011_159" gram_type="apposition" id="100011_272" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_205" party1_string="Eastern Ry. Co." theme="100011_178" gram_type="infix" theme_string="Eastern Ry. Co. v. Littlefield" id="100011_270" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Littlefield" party2="100011_206" theme="100011_178" gram_type="infix" theme_string="Eastern Ry. Co. v. Littlefield" id="100011_271" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_179" X_vs_Y_string="Illinois Central R.R. Co. v. Mulberry Hill Coal Co" standard_case_string="238 U.S. 275" standard_case="100011_160" gram_type="apposition" id="100011_275" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_207" party1_string="Illinois Central R.R. Co." theme="100011_179" gram_type="infix" theme_string="Illinois Central R.R. Co. v. Mulberry Hill Coal Co" id="100011_273" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Mulberry Hill Coal Co" party2="100011_208" theme="100011_179" gram_type="infix" theme_string="Illinois Central R.R. Co. v. Mulberry Hill Coal Co" id="100011_274" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_180" X_vs_Y_string="Pennsylvania R.R. Co. v. Sonman Coal Co" standard_case_string="242 U.S. 120" standard_case="100011_161" gram_type="apposition" id="100011_278" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_209" party1_string="Pennsylvania R.R. Co." theme="100011_180" gram_type="infix" theme_string="Pennsylvania R.R. Co. v. Sonman Coal Co" id="100011_276" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Sonman Coal Co" party2="100011_210" theme="100011_180" gram_type="infix" theme_string="Pennsylvania R.R. Co. v. Sonman Coal Co" id="100011_277" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_211" party1_string="Pennsylvania R.R. Co." theme="100011_181" gram_type="infix" theme_string="Pennsylvania R.R. Co. v. Kittanning Iron &amp; Steel Mfg" id="100011_279" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Kittanning Iron &amp; Steel Mfg" party2="100011_212" theme="100011_181" gram_type="infix" theme_string="Pennsylvania R.R. Co. v. Kittanning Iron &amp; Steel Mfg" id="100011_280" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_213" party1_string="Swift &amp; Co." theme="100011_182" gram_type="infix" theme_string="Swift &amp; Co. v. Hocking Valley Ry" id="100011_281" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Hocking Valley Ry" party2="100011_214" theme="100011_182" gram_type="infix" theme_string="Swift &amp; Co. v. Hocking Valley Ry" id="100011_282" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_183" X_vs_Y_string="St. Louis, Iron Mountain &amp; Southern Ry. Co. v. Hasty &amp; Sons" standard_case_string="255 U.S. 252, 256" standard_case="100011_164" gram_type="apposition" id="100011_285" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_215" party1_string="St. Louis, Iron Mountain &amp; Southern Ry. Co." theme="100011_183" gram_type="infix" theme_string="St. Louis, Iron Mountain &amp; Southern Ry. Co. v. Hasty &amp; Sons" id="100011_283" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Hasty &amp; Sons" party2="100011_216" theme="100011_183" gram_type="infix" theme_string="St. Louis, Iron Mountain &amp; Southern Ry. Co. v. Hasty &amp; Sons" id="100011_284" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_217" party1_string="Hite" theme="100011_184" gram_type="infix" theme_string="Hite v. Central R.R" id="100011_286" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Central R.R" party2="100011_218" theme="100011_184" gram_type="infix" theme_string="Hite v. Central R.R" id="100011_287" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_219" party1_string="Gimble Bros., Inc." theme="100011_185" gram_type="infix" theme_string="Gimble Bros., Inc. v. Barrett" id="100011_288" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Barrett" party2="100011_220" theme="100011_185" gram_type="infix" theme_string="Gimble Bros., Inc. v. Barrett" id="100011_289" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_221" party1_string="National Elevator Co." theme="100011_186" gram_type="infix" theme_string="National Elevator Co. v. Chicago" id="100011_290" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Chicago" party2="100011_222" theme="100011_186" gram_type="infix" theme_string="National Elevator Co. v. Chicago" id="100011_291" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_223" party1_string="Francesconi &amp; Co." theme="100011_187" gram_type="infix" theme_string="Francesconi &amp; Co. v. Baltimore &amp; Ohio R.R" id="100011_292" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Baltimore &amp; Ohio R.R" party2="100011_224" theme="100011_187" gram_type="infix" theme_string="Francesconi &amp; Co. v. Baltimore &amp; Ohio R.R" id="100011_293" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_225" party1_string="Empire Refineries, Inc." theme="100011_188" gram_type="infix" theme_string="Empire Refineries, Inc. v. Guaranty Trust Co" id="100011_294" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Guaranty Trust Co" party2="100011_226" theme="100011_188" gram_type="infix" theme_string="Empire Refineries, Inc. v. Guaranty Trust Co" id="100011_295" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_189" X_vs_Y_string="Kansas City Southern Ry. Co. v. Tonn" standard_case_string="102 Ark. 20, 26" standard_case="100011_165" gram_type="apposition" id="100011_298" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_227" party1_string="Kansas City Southern Ry. Co." theme="100011_189" gram_type="infix" theme_string="Kansas City Southern Ry. Co. v. Tonn" id="100011_296" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Tonn" party2="100011_228" theme="100011_189" gram_type="infix" theme_string="Kansas City Southern Ry. Co. v. Tonn" id="100011_297" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_190" X_vs_Y_string="Western &amp; Atlantic R.R. Co. v. White Provision Co" standard_case_string="142 Ga. 246" standard_case="100011_166" gram_type="apposition" id="100011_301" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_229" party1_string="Western &amp; Atlantic R.R. Co." theme="100011_190" gram_type="infix" theme_string="Western &amp; Atlantic R.R. Co. v. White Provision Co" id="100011_299" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="White Provision Co" party2="100011_230" theme="100011_190" gram_type="infix" theme_string="Western &amp; Atlantic R.R. Co. v. White Provision Co" id="100011_300" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_231" party1_string="Gustafson" theme="100011_191" gram_type="infix" theme_string="Gustafson v. Michigan Central R.R" id="100011_302" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Michigan Central R.R" party2="100011_232" theme="100011_191" gram_type="infix" theme_string="Gustafson v. Michigan Central R.R" id="100011_303" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_192" X_vs_Y_string="Wolverine Brass Works v. Southern Pacific Co" standard_case_string="187 Mich. 393, 396" standard_case="100011_168" gram_type="apposition" id="100011_306" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_233" party1_string="Wolverine Brass Works" theme="100011_192" gram_type="infix" theme_string="Wolverine Brass Works v. Southern Pacific Co" id="100011_304" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Southern Pacific Co" party2="100011_234" theme="100011_192" gram_type="infix" theme_string="Wolverine Brass Works v. Southern Pacific Co" id="100011_305" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_235" party1_string="Reliance Elevator Co." theme="100011_193" gram_type="infix" theme_string="Reliance Elevator Co. v. Chicago" id="100011_307" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Chicago" party2="100011_236" theme="100011_193" gram_type="infix" theme_string="Reliance Elevator Co. v. Chicago" id="100011_308" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_194" X_vs_Y_string="St. Louis, San Francisco &amp; Texas Ry. Co. v. Roff Oil &amp; Cotton Co" standard_case_string="61 Tex. Civ. App. 190, 192" standard_case="100011_170" gram_type="apposition" id="100011_311" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_237" party1_string="St. Louis, San Francisco &amp; Texas Ry. Co." theme="100011_194" gram_type="infix" theme_string="St. Louis, San Francisco &amp; Texas Ry. Co. v. Roff Oil &amp; Cotton Co" id="100011_309" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Roff Oil &amp; Cotton Co" party2="100011_238" theme="100011_194" gram_type="infix" theme_string="St. Louis, San Francisco &amp; Texas Ry. Co. v. Roff Oil &amp; Cotton Co" id="100011_310" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_239" party1_string="Southern Pacific Co." theme="100011_195" gram_type="infix" theme_string="Southern Pacific Co. v. Frye &amp; Bruhn" id="100011_312" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Frye &amp; Bruhn" party2="100011_240" theme="100011_195" gram_type="infix" theme_string="Southern Pacific Co. v. Frye &amp; Bruhn" id="100011_313" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_241" party1_string="Hardaway" theme="100011_196" gram_type="infix" theme_string="Hardaway v. Southern Ry" id="100011_314" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Southern Ry" party2="100011_242" theme="100011_196" gram_type="infix" theme_string="Hardaway v. Southern Ry" id="100011_315" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_197" X_vs_Y_string="Cheney v. Boston &amp; Maine R.R" standard_case_string="227 Mass. 336" standard_case="100011_173" gram_type="apposition" id="100011_318" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_243" party1_string="Cheney" theme="100011_197" gram_type="infix" theme_string="Cheney v. Boston &amp; Maine R.R" id="100011_316" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Boston &amp; Maine R.R" party2="100011_244" theme="100011_197" gram_type="infix" theme_string="Cheney v. Boston &amp; Maine R.R" id="100011_317" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_198" X_vs_Y_string="Poor v. Western Union Telegraph Co" standard_case_string="196 Mo. App. 557, 564" standard_case="100011_174" gram_type="apposition" id="100011_321" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_245" party1_string="Poor" theme="100011_198" gram_type="infix" theme_string="Poor v. Western Union Telegraph Co" id="100011_319" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Western Union Telegraph Co" party2="100011_246" theme="100011_198" gram_type="infix" theme_string="Poor v. Western Union Telegraph Co" id="100011_320" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_329" X_vs_Y_string="Texas &amp; Pacific Ry. Co. v. Abilene Cotton Oil Co" standard_case_string="204 U.S. 426" standard_case="100011_322" gram_type="apposition" id="100011_357" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_336" party1_string="Texas &amp; Pacific Ry. Co." theme="100011_329" gram_type="infix" theme_string="Texas &amp; Pacific Ry. Co. v. Abilene Cotton Oil Co" id="100011_355" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Abilene Cotton Oil Co" party2="100011_337" theme="100011_329" gram_type="infix" theme_string="Texas &amp; Pacific Ry. Co. v. Abilene Cotton Oil Co" id="100011_356" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_330" X_vs_Y_string="Baltimore &amp; Ohio R.R. Co. v. Pitcairn Coal Co" standard_case_string="215 U.S. 481" standard_case="100011_323" gram_type="apposition" id="100011_360" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_338" party1_string="Baltimore &amp; Ohio R.R. Co." theme="100011_330" gram_type="infix" theme_string="Baltimore &amp; Ohio R.R. Co. v. Pitcairn Coal Co" id="100011_358" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Pitcairn Coal Co" party2="100011_339" theme="100011_330" gram_type="infix" theme_string="Baltimore &amp; Ohio R.R. Co. v. Pitcairn Coal Co" id="100011_359" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_340" party1_string="Mitchell Coal Co." theme="100011_331" gram_type="infix" theme_string="Mitchell Coal Co. v. Pennsylvania R.R" id="100011_361" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Pennsylvania R.R" party2="100011_341" theme="100011_331" gram_type="infix" theme_string="Mitchell Coal Co. v. Pennsylvania R.R" id="100011_362" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_342" party1_string="Morrisdale Coal Co." theme="100011_332" gram_type="infix" theme_string="Morrisdale Coal Co. v. Pennsylvania R.R" id="100011_363" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Pennsylvania R.R" party2="100011_343" theme="100011_332" gram_type="infix" theme_string="Morrisdale Coal Co. v. Pennsylvania R.R" id="100011_364" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_333" X_vs_Y_string="Northern Pacific Ry. Co. v. Solum" standard_case_string="247 U.S. 477, 483" standard_case="100011_326" gram_type="apposition" id="100011_367" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_344" party1_string="Northern Pacific Ry. Co." theme="100011_333" gram_type="infix" theme_string="Northern Pacific Ry. Co. v. Solum" id="100011_365" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Solum" party2="100011_345" theme="100011_333" gram_type="infix" theme_string="Northern Pacific Ry. Co. v. Solum" id="100011_366" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_334" X_vs_Y_string="Director General v. Viscose Co" standard_case_string="254 U.S. 498" standard_case="100011_327" gram_type="apposition" id="100011_370" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_346" party1_string="Director General" theme="100011_334" gram_type="infix" theme_string="Director General v. Viscose Co" id="100011_368" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Viscose Co" party2="100011_347" theme="100011_334" gram_type="infix" theme_string="Director General v. Viscose Co" id="100011_369" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100011_335" X_vs_Y_string="United States v. Pacific &amp; Arctic Ry. &amp; Nav. Co" standard_case_string="228 U.S. 87" standard_case="100011_328" gram_type="apposition" id="100011_373" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100011_348" party1_string="United States" theme="100011_335" gram_type="infix" theme_string="United States v. Pacific &amp; Arctic Ry. &amp; Nav. Co" id="100011_371" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Pacific &amp; Arctic Ry. &amp; Nav. Co" party2="100011_349" theme="100011_335" gram_type="infix" theme_string="United States v. Pacific &amp; Arctic Ry. &amp; Nav. Co" id="100011_372" ></RELATION>
+
+<NAME name="MRHAROLDGSIMPSON" local_name_id="2" from="from_legal_role" >MRHAROLDGSIMPSON</NAME>
+
