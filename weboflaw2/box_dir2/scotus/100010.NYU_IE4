@@ -1,0 +1,964 @@
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="0" volume="259" party1="NG FUNG HO, OTHERWISE KNOWN AS UNG KIP, ET AL." reporter="U.S." alternative_keys="['hocommissioner#1']" citation_global_level_id="16.003" end="13" id="100010_1" id1="Dummy_File_1" standard_reporter="U.S." page_number="276" party2="WHITE, COMMISSIONER OF IMMIGRATION FOR THE PORT OF SAN FRANCISCO" lookup_key="u.s._259_276" start="1" party2_short="COMMISSIONER" party1_short="HO" line="2" >259 U.S. 276</CITATION>
+
+<DATE start="14" citation_local_level_id="0" end="18" id="100010_2" citation_global_level_id="16.003" >1922</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="HO" citation_local_level_id="1" party1="NG FUNG HO, OTHERWISE KNOWN AS UNG KIP, ET AL." alternative_keys="['u.s._259_276']" citation_global_level_id="16.003" end="136" id="100010_7" id1="Dummy_File_1" party2="WHITE, COMMISSIONER OF IMMIGRATION FOR THE PORT OF SAN FRANCISCO" lookup_key="hocommissioner#1" start="20" party2_short="COMMISSIONER" line="5" >NG FUNG HO, OTHERWISE KNOWN AS UNG KIP, ET AL. v. WHITE, COMMISSIONER OF IMMIGRATION FOR THE PORT OF SAN FRANCISCO</CITATION>
+
+<GPE party1_of="100010_7" start="20" end="66" id="100010_8" >NG FUNG HO, OTHERWISE KNOWN AS UNG KIP, ET AL.</GPE>
+
+<PERSON start="72" end="136" id="100010_9" party2_of="100010_7" >WHITE, COMMISSIONER OF IMMIGRATION FOR THE PORT OF SAN FRANCISCO</PERSON>
+
+<PROFESSION start="79" end="91" id="100010_10" >COMMISSIONER</PROFESSION>
+
+<ORGANIZATION start="147" end="160" id="100010_14" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="171" local_name_id="1" end="177" id="100010_15" >States</NAME>
+
+<DATE start="200" end="204" id="100010_16" >1922</DATE>
+
+<DATE start="214" end="226" id="100010_17" >May 29, 1922</DATE>
+
+<ORGANIZATION start="228" end="292" id="100010_18" >CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<PERSON start="299" end="321" id="100010_19" >Mr. Jackson H. Ralston</PERSON>
+
+<PERSON start="333" end="351" id="100010_20" >Mr. George W. Hott</PERSON>
+
+<PERSON plural="True" start="356" end="363" id="100010_21" >Mr. Geo</PERSON>
+
+<LEGAL_ROLE plural="True" start="399" end="410" id="100010_22" >petitioners</LEGAL_ROLE>
+
+<PERSON start="412" end="433" id="100010_23" >Mr. William C. Herron</PERSON>
+
+<PROFESSION start="445" party="BECK" end="466" id="100010_24" document_level_name_id="2" >Mr. Solicitor General</PROFESSION>
+
+<NAME all_names="BECK" start="467" local_name_id="2" end="471" id="100010_25" >Beck</NAME>
+
+<LEGAL_ROLE start="494" end="504" id="100010_26" >respondent</LEGAL_ROLE>
+
+<PROFESSION start="506" end="526" id="100010_28" >MR. JUSTICE BRANDEIS</PROFESSION>
+
+<DATE start="566" end="582" id="100010_30" >January 27, 1919</DATE>
+
+<LEGAL_ROLE plural="True" start="635" end="646" id="100010_36" >petitioners</LEGAL_ROLE>
+
+<PROFESSION start="715" end="720" id="100010_37" >judge</PROFESSION>
+
+<ORGANIZATION start="750" end="767" id="100010_38" >Southern Division</ORGANIZATION>
+
+<NAME all_names="NORTHERNDISTRICT" start="775" local_name_id="3" end="792" id="100010_39" >Northern District</NAME>
+
+<GPE start="801" end="811" id="100010_40" >California</GPE>
+
+<PROFESSION start="843" end="855" id="100010_41" >Commissioner</PROFESSION>
+
+<NAME all_names="PORT" start="879" local_name_id="4" end="883" id="100010_42" >Port</NAME>
+
+<PERSON plural="True" start="887" end="900" id="100010_43" >San Francisco</PERSON>
+
+<LEGAL_ROLE plural="True" start="915" end="926" id="100010_44" >petitioners</LEGAL_ROLE>
+
+<PROFESSION start="975" end="984" id="100010_45" >Secretary</PROFESSION>
+
+<PERSON start="988" end="993" id="100010_46" >Labor</PERSON>
+
+<NAME all_names="GENERALIMMIGRATIONACT" start="1018" local_name_id="5" end="1041" id="100010_47" >General Immigration Act</NAME>
+
+<DATE start="1045" end="1061" id="100010_31" >February 5, 1917</DATE>
+
+<NAME all_names="STAT" start="1073" local_name_id="6" end="1077" id="100010_48" >Stat</NAME>
+
+<ORGANIZATION start="1139" end="1145" id="100010_49" >Bureau</ORGANIZATION>
+
+<LEGAL_ROLE start="1220" end="1230" id="100010_50" >petitioner</LEGAL_ROLE>
+
+<NAME all_names="STATES" start="1254" local_name_id="1" end="1260" id="100010_51" >States</NAME>
+
+<DATE start="1268" end="1279" id="100010_32" >May 1, 1917</DATE>
+
+<NAME all_names="GENERALIMMIGRATIONACT" start="1307" local_name_id="5" end="1330" id="100010_52" >General Immigration Act</NAME>
+
+<DATE start="1334" end="1350" id="100010_33" >February 5, 1917</DATE>
+
+<LEGAL_ROLE start="1481" end="1491" id="100010_53" >petitioner</LEGAL_ROLE>
+
+<GPE start="1508" end="1513" id="100010_54" >China</GPE>
+
+<NAME all_names="STATES" start="1597" local_name_id="1" end="1603" id="100010_55" >States</NAME>
+
+<NAME all_names="EXCLUSIONACT" start="1639" local_name_id="7" end="1652" id="100010_56" >Exclusion Act</NAME>
+
+<DATE start="1656" end="1667" id="100010_34" >May 5, 1892</DATE>
+
+<NAME all_names="STAT" start="1679" local_name_id="6" end="1683" id="100010_57" >Stat</NAME>
+
+<DATE start="1714" end="1730" id="100010_35" >November 3, 1893</DATE>
+
+<NAME all_names="STAT" start="1742" local_name_id="6" end="1746" id="100010_58" >Stat</NAME>
+
+<ORGANIZATION start="1828" end="1842" id="100010_59" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="1986" end="1999" id="100010_60" >Circuit Court</ORGANIZATION>
+
+<LEGAL_ROLE start="2051" party="party1" end="2060" id="100010_61" >appellant</LEGAL_ROLE>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="254" reporter="U.S." citation_global_level_id="17.001" citation_local_level_id="2" end="2153" id="100010_29" id1="Dummy_File_2" standard_reporter="U.S." page_number="628" lookup_key="u.s._254_628" start="2141" line="14" >254 U.S. 628</CITATION>
+
+<LEGAL_ROLE plural="True" start="2218" end="2229" id="100010_63" >petitioners</LEGAL_ROLE>
+
+<PROFESSION start="2333" end="2341" id="100010_64" >official</PROFESSION>
+
+<NAME all_names="EXCLUSIONLAWS" start="2408" local_name_id="8" end="2422" id="100010_65" >Exclusion Laws</NAME>
+
+<LEGAL_ROLE plural="True" start="2435" end="2446" id="100010_66" >petitioners</LEGAL_ROLE>
+
+<NAME all_names="GENERALIMMIGRATIONACT" start="2510" local_name_id="5" end="2533" id="100010_67" >General Immigration Act</NAME>
+
+<DATE start="2537" end="2553" id="100010_62" >February 5, 1917</DATE>
+
+<LEGAL_ROLE plural="True" start="2575" end="2586" id="100010_68" >petitioners</LEGAL_ROLE>
+
+<PROFESSION start="2648" end="2657" id="100010_69" >executive</PROFESSION>
+
+<NAME all_names="EXCLUSIONACTS" start="2711" local_name_id="9" end="2725" id="100010_70" >Exclusion Acts</NAME>
+
+<LEGAL_ROLE plural="True" start="2829" end="2840" id="100010_71" >petitioners</LEGAL_ROLE>
+
+<PERSON start="2956" end="2966" id="100010_82" >Ng Fung Ho</PERSON>
+
+<PERSON start="2971" end="2983" id="100010_83" >Ng Yuen Shew</PERSON>
+
+<FAMILY start="2995" end="2998" id="100010_84" >son</FAMILY>
+
+<NAME all_names="EXCLUSIONACTS" start="3108" local_name_id="9" end="3122" id="100010_85" >Exclusion Acts</NAME>
+
+<PROFESSION start="3204" end="3211" id="100010_86" >justice</PROFESSION>
+
+<PROFESSION start="3213" end="3218" id="100010_87" >judge</PROFESSION>
+
+<PROFESSION start="3222" end="3234" id="100010_88" >commissioner</PROFESSION>
+
+<ORGANIZATION start="3247" end="3259" id="100010_89" >States court</ORGANIZATION>
+
+<PROFESSION start="3316" end="3323" id="100010_90" >justice</PROFESSION>
+
+<PROFESSION start="3325" end="3330" id="100010_91" >judge</PROFESSION>
+
+<PROFESSION start="3334" end="3346" id="100010_92" >commissioner</PROFESSION>
+
+<PROFESSION start="3398" end="3410" id="100010_93" >Commissioner</PROFESSION>
+
+<ORGANIZATION start="3440" end="3454" id="100010_94" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="3477" end="3490" id="100010_95" >Circuit Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="3510" local_name_id="1" end="3516" id="100010_96" >States</NAME>
+
+<LEGAL_ROLE name="States" start="3518" local_name_id="1" end="3528" id="100010_97" >Petitioner</LEGAL_ROLE>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="194" reporter="U.S." citation_global_level_id="18.001" citation_local_level_id="3" end="3542" id="100010_72" id1="Dummy_File_3" standard_reporter="U.S." page_number="194" lookup_key="u.s._194_194" start="3530" line="16" >194 U.S. 194</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="States" party1="United States" citation_global_level_id="19.001" citation_local_level_id="4" end="3575" id="100010_74" id1="Dummy_File_4" party2="Woo" lookup_key="stateswoo#1" start="3555" party2_short="Woo" line="16" >United States v. Woo</CITATION>
+
+<GPE party1_of="100010_74" start="3555" end="3568" id="100010_75" >United States</GPE>
+
+<PERSON start="3572" end="3575" id="100010_76" party2_of="100010_74" >Woo</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="245" reporter="U.S." citation_global_level_id="20.001" citation_local_level_id="5" end="3593" id="100010_73" id1="Dummy_File_5" standard_reporter="U.S." page_number="552" lookup_key="u.s._245_552" start="3581" line="16" >245 U.S. 552</CITATION>
+
+<NAME all_names="GENERALIMMIGRATIONACT" start="3612" local_name_id="5" end="3635" id="100010_98" >General Immigration Act</NAME>
+
+<DATE start="3639" end="3656" id="100010_77" >February 20, 1907</DATE>
+
+<NAME all_names="STAT" start="3670" local_name_id="6" end="3674" id="100010_99" >Stat</NAME>
+
+<PROFESSION start="3723" end="3732" id="100010_100" >executive</PROFESSION>
+
+<NAME all_names="EXCLUSIONACTS" start="3783" local_name_id="9" end="3797" id="100010_101" >Exclusion Acts</NAME>
+
+<DATE start="3868" end="3872" id="100010_78" >1907</DATE>
+
+<DATE start="3901" end="3912" id="100010_79" >May 1, 1917</DATE>
+
+<NAME all_names="GENERALIMMIGRATIONACT" start="3923" local_name_id="5" end="3946" id="100010_102" >General Immigration Act</NAME>
+
+<DATE start="3950" end="3966" id="100010_80" >February 5, 1917</DATE>
+
+<PROFESSION start="3975" end="3984" id="100010_103" >operative</PROFESSION>
+
+<PROFESSION start="4058" end="4067" id="100010_104" >executive</PROFESSION>
+
+<DATE start="4108" end="4112" id="100010_81" >1917</DATE>
+
+<PROFESSION start="4207" end="4216" id="100010_105" >executive</PROFESSION>
+
+<LEGAL_ROLE plural="True" start="4226" end="4237" id="100010_123" >Petitioners</LEGAL_ROLE>
+
+<NAME all_names="STATES" start="4300" local_name_id="1" end="4306" id="100010_124" >States</NAME>
+
+<DATE start="4313" end="4327" id="100010_121" >April 30, 1917</DATE>
+
+<DATE start="4467" end="4478" id="100010_122" >May 1, 1917</DATE>
+
+<NAME all_names="EXCLUSIONACTS" start="4515" local_name_id="9" end="4529" id="100010_125" >Exclusion Acts</NAME>
+
+<LEGAL_ROLE plural="True" start="4616" end="4627" id="100010_126" >petitioners</LEGAL_ROLE>
+
+<NAME all_names="STATES" start="4652" local_name_id="1" end="4658" id="100010_127" >States</NAME>
+
+<PROFESSION start="4782" end="4791" id="100010_128" >executive</PROFESSION>
+
+<PERSON start="4811" end="4821" id="100010_129" >Ng Fung Ho</PERSON>
+
+<PERSON start="4826" end="4838" id="100010_130" >Ng Yuen Shew</PERSON>
+
+<NAME all_names="STATES" start="4876" local_name_id="1" end="4882" id="100010_131" >States</NAME>
+
+<NAME all_names="EXECUTIVEPROCEEDINGS" start="5027" local_name_id="10" end="5048" id="100010_132" >executive proceedings</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Bugajewitz" citation_local_level_id="6" party1="Bugajewitz" alternative_keys="['u.s._228_585']" citation_global_level_id="21.003" end="5069" id="100010_112" id1="Dummy_File_6" standard_reporter="U.S." volume="228" party2="Adams" lookup_key="bugajewitzadams#1" start="5050" page_number="585" party2_short="Adams" line="17" >Bugajewitz v. Adams</CITATION>
+
+<NAME all_names="BUGAJEWITZ" party1_of="100010_112" start="5050" local_name_id="11" end="5060" id="100010_115" >Bugajewitz</NAME>
+
+<PERSON start="5064" end="5069" id="100010_116" party2_of="100010_112" >Adams</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="7" volume="228" reporter="U.S." alternative_keys="['bugajewitzadams#1']" citation_global_level_id="21.003" end="5083" id="100010_109" id1="Dummy_File_6" standard_reporter="U.S." page_number="585" lookup_key="u.s._228_585" start="5071" line="17" >228 U.S. 585</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Lapina" citation_local_level_id="8" party1="Lapina" alternative_keys="['u.s._232_78']" citation_global_level_id="22.003" end="5103" id="100010_113" id1="Dummy_File_7" standard_reporter="U.S." volume="232" party2="Williams" lookup_key="lapinawilliams#1" start="5085" page_number="78" party2_short="Williams" line="17" >Lapina v. Williams</CITATION>
+
+<NAME all_names="LAPINA" party1_of="100010_113" start="5085" local_name_id="12" end="5091" id="100010_117" >Lapina</NAME>
+
+<PERSON start="5095" end="5103" id="100010_118" party2_of="100010_113" >Williams</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="9" volume="232" reporter="U.S." alternative_keys="['lapinawilliams#1']" citation_global_level_id="22.003" end="5116" id="100010_110" id1="Dummy_File_7" standard_reporter="U.S." page_number="78" lookup_key="u.s._232_78" start="5105" line="17" >232 U.S. 78</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Lewis" citation_local_level_id="10" party1="Lewis" alternative_keys="['u.s._233_291']" citation_global_level_id="23.003" end="5132" id="100010_114" id1="Dummy_File_8" standard_reporter="U.S." volume="233" party2="Frick" lookup_key="lewisfrick#1" start="5118" page_number="291" party2_short="Frick" line="17" >Lewis v. Frick</CITATION>
+
+<PERSON party1_of="100010_114" start="5118" end="5123" id="100010_119" >Lewis</PERSON>
+
+<PERSON start="5127" end="5132" id="100010_120" party2_of="100010_114" >Frick</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="11" volume="233" reporter="U.S." alternative_keys="['lewisfrick#1']" citation_global_level_id="23.003" end="5146" id="100010_111" id1="Dummy_File_8" standard_reporter="U.S." page_number="291" lookup_key="u.s._233_291" start="5134" line="17" >233 U.S. 291</CITATION>
+
+<LEGAL_ROLE plural="True" start="5198" end="5209" id="100010_133" >petitioners</LEGAL_ROLE>
+
+<PERSON start="5251" end="5259" id="100010_134" >Congress</PERSON>
+
+<LEGAL_ROLE plural="True" start="5261" end="5272" id="100010_149" >Petitioners</LEGAL_ROLE>
+
+<DATE start="5304" end="5308" id="100010_144" >1917</DATE>
+
+<PERSON start="5407" end="5415" id="100010_150" >Congress</PERSON>
+
+<DATE start="5586" end="5590" id="100010_145" >1917</DATE>
+
+<PROFESSION start="5667" end="5677" id="100010_151" >Government</PROFESSION>
+
+<LEGAL_ROLE plural="True" start="6052" end="6063" id="100010_152" >petitioners</LEGAL_ROLE>
+
+<DATE start="6070" end="6081" id="100010_146" >May 1, 1917</DATE>
+
+<NAME all_names="STATES" start="6155" local_name_id="1" end="6161" id="100010_153" >States</NAME>
+
+<NAME all_names="EXCLUSIONACT" start="6197" local_name_id="7" end="6210" id="100010_154" >Exclusion Act</NAME>
+
+<DATE start="6214" end="6225" id="100010_147" >May 5, 1892</DATE>
+
+<DATE start="6252" end="6268" id="100010_148" >November 3, 1893</DATE>
+
+<NAME all_names="STATES" start="6389" local_name_id="1" end="6395" id="100010_169" >States</NAME>
+
+<NAME all_names="STATES" start="6469" local_name_id="1" end="6475" id="100010_170" >States</NAME>
+
+<DATE start="6579" end="6590" id="100010_167" >May 5, 1892</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ting" citation_local_level_id="12" party1="Fong Yue Ting" alternative_keys="['u.s._149_698']" citation_global_level_id="24.003" end="6685" id="100010_158" id1="Dummy_File_9" standard_reporter="U.S." volume="149" party2="United States" lookup_key="tingstates#1" start="6655" page_number="698" party2_short="States" line="19" >Fong Yue Ting v. United States</CITATION>
+
+<PERSON party1_of="100010_158" start="6655" end="6668" id="100010_161" >Fong Yue Ting</PERSON>
+
+<GPE start="6672" end="6685" id="100010_162" party2_of="100010_158" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="13" volume="149" reporter="U.S." alternative_keys="['tingstates#1']" citation_global_level_id="24.003" end="6699" id="100010_155" id1="Dummy_File_9" standard_reporter="U.S." page_number="698" lookup_key="u.s._149_698" start="6687" line="19" >149 U.S. 698</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Sing" citation_local_level_id="14" party1="Li Sing" alternative_keys="['u.s._180_486']" citation_global_level_id="25.003" end="6725" id="100010_159" id1="Dummy_File_10" standard_reporter="U.S." volume="180" party2="United States" lookup_key="singstates#1" start="6701" page_number="486" party2_short="States" line="19" >Li Sing v. United States</CITATION>
+
+<PERSON party1_of="100010_159" start="6701" end="6708" id="100010_163" >Li Sing</PERSON>
+
+<GPE start="6712" end="6725" id="100010_164" party2_of="100010_159" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="15" volume="180" reporter="U.S." alternative_keys="['singstates#1']" citation_global_level_id="25.003" end="6739" id="100010_156" id1="Dummy_File_10" standard_reporter="U.S." page_number="486" lookup_key="u.s._180_486" start="6727" line="19" >180 U.S. 486</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="How" citation_local_level_id="16" party1="Ah How" alternative_keys="['u.s._193_65']" citation_global_level_id="26.003" end="6764" id="100010_160" id1="Dummy_File_11" standard_reporter="U.S." volume="193" party2="United States" lookup_key="howstates#1" start="6741" page_number="65" party2_short="States" line="19" >Ah How v. United States</CITATION>
+
+<NAME all_names="AHHOW" party1_of="100010_160" start="6741" local_name_id="13" end="6747" id="100010_165" >Ah How</NAME>
+
+<GPE start="6751" end="6764" id="100010_166" party2_of="100010_160" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="17" volume="193" reporter="U.S." alternative_keys="['howstates#1']" citation_global_level_id="26.003" end="6777" id="100010_157" id1="Dummy_File_11" standard_reporter="U.S." page_number="65" lookup_key="u.s._193_65" start="6766" line="19" >193 U.S. 65</CITATION>
+
+<DATE start="6970" end="6981" id="100010_168" >May 6, 1882</DATE>
+
+<NAME all_names="STAT" start="6994" local_name_id="6" end="6998" id="100010_171" >Stat</NAME>
+
+<PROFESSION start="7025" end="7035" id="100010_172" >Government</PROFESSION>
+
+<LEGAL_ROLE plural="True" start="7092" end="7103" id="100010_173" >petitioners</LEGAL_ROLE>
+
+<NAME all_names="STATES" start="7143" local_name_id="1" end="7149" id="100010_174" >States</NAME>
+
+<PERSON start="7211" end="7219" id="100010_175" >Congress</PERSON>
+
+<NAME all_names="GINSANGGET" start="7275" local_name_id="14" end="7287" id="100010_202" >Gin Sang Get</NAME>
+
+<NAME all_names="GINSANGMO" start="7292" local_name_id="15" end="7303" id="100010_203" >Gin Sang Mo</NAME>
+
+<FAMILY start="7387" end="7390" id="100010_204" >son</FAMILY>
+
+<DATE start="7437" end="7441" id="100010_201" >1993</DATE>
+
+<NAME all_names="STATES" start="7505" local_name_id="1" end="7511" id="100010_205" >States</NAME>
+
+<PERSON start="7564" end="7572" id="100010_206" >Congress</PERSON>
+
+<PROFESSION start="7625" end="7634" id="100010_207" >executive</PROFESSION>
+
+<NAME all_names="STATES" start="7742" local_name_id="1" end="7748" id="100010_208" >States</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="States" citation_local_level_id="18" party1="United States" alternative_keys="['u.s._198_253']" citation_global_level_id="27.003" end="7910" id="100010_189" id1="Dummy_File_12" standard_reporter="U.S." volume="198" party2="Ju Toy" lookup_key="statestoy#1" start="7887" page_number="253" party2_short="Toy" line="20" >United States v. Ju Toy</CITATION>
+
+<GPE party1_of="100010_189" start="7887" end="7900" id="100010_193" >United States</GPE>
+
+<PERSON start="7904" end="7910" id="100010_194" party2_of="100010_189" >Ju Toy</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="19" volume="198" reporter="U.S." alternative_keys="['statestoy#1']" citation_global_level_id="27.003" end="7924" id="100010_185" id1="Dummy_File_12" standard_reporter="U.S." page_number="253" lookup_key="u.s._198_253" start="7912" line="20" >198 U.S. 253</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Tun" citation_local_level_id="20" party1="Tang Tun" alternative_keys="['u.s._223_673']" citation_global_level_id="28.003" end="7944" id="100010_190" id1="Dummy_File_13" standard_reporter="U.S." volume="223" party2="Edsell" lookup_key="tunedsell#1" start="7926" page_number="673" party2_short="Edsell" line="20" >Tang Tun v. Edsell</CITATION>
+
+<NAME all_names="TANGTUN" party1_of="100010_190" start="7926" local_name_id="16" end="7934" id="100010_195" >Tang Tun</NAME>
+
+<NAME all_names="EDSELL" start="7938" local_name_id="17" end="7944" id="100010_196" party2_of="100010_190" >Edsell</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="21" volume="223" reporter="U.S." alternative_keys="['tunedsell#1']" citation_global_level_id="28.003" end="7958" id="100010_186" id1="Dummy_File_13" standard_reporter="U.S." page_number="673" lookup_key="u.s._223_673" start="7946" line="20" >223 U.S. 673</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="States" citation_local_level_id="22" party1="United States" alternative_keys="['u.s._223_67']" citation_global_level_id="29.003" end="8161" id="100010_191" id1="Dummy_File_14" standard_reporter="U.S." volume="223" party2="Wong You" lookup_key="statesyou#1" start="8136" page_number="67" party2_short="You" line="20" >United States v. Wong You</CITATION>
+
+<GPE party1_of="100010_191" start="8136" end="8149" id="100010_197" >United States</GPE>
+
+<PERSON start="8153" end="8161" id="100010_198" party2_of="100010_191" >Wong You</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="23" volume="223" reporter="U.S." alternative_keys="['statesyou#1']" citation_global_level_id="29.003" end="8174" id="100010_187" id1="Dummy_File_14" standard_reporter="U.S." page_number="67" lookup_key="u.s._223_67" start="8163" line="20" >223 U.S. 67</CITATION>
+
+<PERSON plural="True" start="8192" end="8205" id="100010_209" >San Francisco</PERSON>
+
+<PROFESSION plural="True" start="8422" end="8431" id="100010_210" >officials</PROFESSION>
+
+<PROFESSION start="8660" end="8669" id="100010_211" >Secretary</PROFESSION>
+
+<PERSON start="8673" end="8678" id="100010_212" >Labor</PERSON>
+
+<GPE start="8683" end="8690" id="100010_213" >Arizona</GPE>
+
+<NAME all_names="STATES" start="8802" local_name_id="1" end="8808" id="100010_214" >States</NAME>
+
+<PROFESSION start="8864" end="8873" id="100010_215" >executive</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="States" citation_local_level_id="24" party1="United States" alternative_keys="['u.s._194_161']" citation_global_level_id="30.003" end="8955" id="100010_192" id1="Dummy_File_15" standard_reporter="U.S." volume="194" party2="Sing Tuck" lookup_key="statestuck#1" start="8929" page_number="161" party2_short="Tuck" line="20" >United States v. Sing Tuck</CITATION>
+
+<GPE party1_of="100010_192" start="8929" end="8942" id="100010_199" >United States</GPE>
+
+<NAME all_names="SINGTUCK" start="8946" local_name_id="18" end="8955" id="100010_200" party2_of="100010_192" >Sing Tuck</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="25" volume="194" reporter="U.S." alternative_keys="['statestuck#1']" citation_global_level_id="30.003" end="8969" id="100010_188" id1="Dummy_File_15" standard_reporter="U.S." page_number="161" lookup_key="u.s._194_161" start="8957" line="20" >194 U.S. 161</CITATION>
+
+<LEGAL_ROLE plural="True" start="8981" end="8992" id="100010_216" >petitioners</LEGAL_ROLE>
+
+<PROFESSION start="9258" end="9265" id="100010_217" >officer</PROFESSION>
+
+<DATE start="9650" end="9661" id="100010_258" >May 5, 1892</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Kan" citation_local_level_id="26" party1="Chin Bak Kan" alternative_keys="['u.s._186_193']" citation_global_level_id="31.003" end="9692" id="100010_237" id1="Dummy_File_16" standard_reporter="U.S." volume="186" party2="United States" lookup_key="kanstates#1" start="9663" page_number="193" party2_short="States" line="21" >Chin Bak Kan v. United States</CITATION>
+
+<PERSON party1_of="100010_237" start="9663" end="9675" id="100010_244" >Chin Bak Kan</PERSON>
+
+<GPE start="9679" end="9692" id="100010_245" party2_of="100010_237" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="27" volume="186" reporter="U.S." alternative_keys="['kanstates#1']" citation_global_level_id="31.003" end="9706" id="100010_230" id1="Dummy_File_16" standard_reporter="U.S." page_number="193" lookup_key="u.s._186_193" start="9694" line="21" >186 U.S. 193</CITATION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="How" citation_local_level_id="28" party1="Ah How" alternative_keys="['u.s._193_65']" citation_global_level_id="26.004" end="9731" id="100010_238" id1="Dummy_File_11" party2="United States" start="9708" party2_short="States" line="21" >Ah How v. United States</CITATION>
+
+<NAME all_names="AHHOW" party1_of="100010_238" start="9708" local_name_id="13" end="9714" id="100010_246" >Ah How</NAME>
+
+<GPE start="9718" end="9731" id="100010_247" party2_of="100010_238" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="193" alternative_keys="['howstates#1']" reporter="U.S." citation_global_level_id="26.003" citation_local_level_id="29" end="9744" id="100010_231" id1="Dummy_File_11" standard_reporter="U.S." page_number="65" lookup_key="u.s._193_65" start="9733" line="21" >193 U.S. 65</CITATION>
+
+<NAME all_names="EXCLUSIONLAW" start="9840" local_name_id="19" end="9853" id="100010_259" >Exclusion Law</NAME>
+
+<PROFESSION start="9989" end="10001" id="100010_260" >commissioner</PROFESSION>
+
+<ORGANIZATION start="10037" end="10051" id="100010_261" >District Court</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Fong" citation_local_level_id="30" party1="Liu Hop Fong" alternative_keys="['u.s._209_453']" citation_global_level_id="32.003" end="10145" id="100010_239" id1="Dummy_File_17" standard_reporter="U.S." volume="209" party2="United States" lookup_key="fongstates#1" start="10116" page_number="453" party2_short="States" line="21" >Liu Hop Fong v. United States</CITATION>
+
+<NAME all_names="LIUHOPFONG" party1_of="100010_239" start="10116" local_name_id="20" end="10128" id="100010_248" >Liu Hop Fong</NAME>
+
+<GPE start="10132" end="10145" id="100010_249" party2_of="100010_239" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="31" volume="209" reporter="U.S." alternative_keys="['fongstates#1']" citation_global_level_id="32.003" end="10159" id="100010_232" id1="Dummy_File_17" standard_reporter="U.S." page_number="453" lookup_key="u.s._209_453" start="10147" line="21" >209 U.S. 453</CITATION>
+
+<PROFESSION start="10236" end="10247" id="100010_262" >legislature</PROFESSION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Ting" citation_local_level_id="32" party1="Fong Yue Ting" alternative_keys="['u.s._149_698']" citation_global_level_id="24.004" end="10368" id="100010_240" id1="Dummy_File_9" party2="United States" start="10338" party2_short="States" line="21" >Fong Yue Ting v. United States</CITATION>
+
+<PERSON party1_of="100010_240" start="10338" end="10351" id="100010_250" >Fong Yue Ting</PERSON>
+
+<GPE start="10355" end="10368" id="100010_251" party2_of="100010_240" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="149" alternative_keys="['tingstates#1']" reporter="U.S." citation_global_level_id="24.003" citation_local_level_id="33" end="10387" id="100010_233" paragraph_number="729" standard_reporter="U.S." page_number="698" lookup_key="u.s._149_698" start="10370" id1="Dummy_File_9" line="21" >149 U.S. 698, 729</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Bailey" citation_local_level_id="34" party1="Bailey" alternative_keys="['u.s._219_219']" citation_global_level_id="33.003" end="10406" id="100010_241" id1="Dummy_File_18" standard_reporter="U.S." volume="219" party2="Alabama" lookup_key="baileyalabama#1" start="10389" page_number="219" party2_short="Alabama" line="21" >Bailey v. Alabama</CITATION>
+
+<PERSON party1_of="100010_241" start="10389" end="10395" id="100010_252" >Bailey</PERSON>
+
+<GPE start="10399" end="10406" id="100010_253" party2_of="100010_241" >Alabama</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="35" volume="219" reporter="U.S." alternative_keys="['baileyalabama#1']" citation_global_level_id="33.003" end="10425" id="100010_234" paragraph_number="238" standard_reporter="U.S." page_number="219" lookup_key="u.s._219_219" start="10408" id1="Dummy_File_18" line="21" >219 U.S. 219, 238</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Luria" citation_local_level_id="36" party1="Luria" alternative_keys="['u.s._231_9']" citation_global_level_id="34.003" end="10449" id="100010_242" id1="Dummy_File_19" standard_reporter="U.S." volume="231" party2="United States" lookup_key="luriastates#1" start="10427" page_number="9" party2_short="States" line="21" >Luria v. United States</CITATION>
+
+<PERSON party1_of="100010_242" start="10427" end="10432" id="100010_254" >Luria</PERSON>
+
+<GPE start="10436" end="10449" id="100010_255" party2_of="100010_242" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="37" volume="231" reporter="U.S." alternative_keys="['luriastates#1']" citation_global_level_id="34.003" end="10465" id="100010_235" paragraph_number="26" standard_reporter="U.S." page_number="9" lookup_key="u.s._231_9" start="10451" id1="Dummy_File_19" line="21" >231 U.S. 9, 26</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Hawes" citation_local_level_id="38" party1="Hawes" alternative_keys="['u.s._258_1']" citation_global_level_id="35.003" end="10483" id="100010_243" id1="Dummy_File_20" standard_reporter="U.S." volume="258" party2="Georgia" lookup_key="hawesgeorgia#1" start="10467" page_number="1" party2_short="Georgia" line="21" >Hawes v. Georgia</CITATION>
+
+<PERSON party1_of="100010_243" start="10467" end="10472" id="100010_256" >Hawes</PERSON>
+
+<GPE start="10476" end="10483" id="100010_257" party2_of="100010_243" >Georgia</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="39" volume="258" reporter="U.S." alternative_keys="['hawesgeorgia#1']" citation_global_level_id="35.003" end="10495" id="100010_236" id1="Dummy_File_20" standard_reporter="U.S." page_number="1" lookup_key="u.s._258_1" start="10485" line="21" >258 U.S. 1</CITATION>
+
+<PROFESSION start="10531" end="10540" id="100010_263" >executive</PROFESSION>
+
+<PROFESSION start="10576" end="10585" id="100010_325" >executive</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="40" alternative_keys="['u.s._100_13']" name="Ex parte Reed" citation_global_level_id="36.003" end="11021" id="100010_321" id1="Dummy_File_21" standard_reporter="U.S." volume="100" lookup_key="expartereed#1" start="11008" page_number="13" line="22" >Ex parte Reed</CITATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="41" volume="100" reporter="U.S." alternative_keys="['expartereed#1']" name="Ex parte Reed" citation_global_level_id="36.003" end="11034" id="100010_285" id1="Dummy_File_21" standard_reporter="U.S." page_number="13" lookup_key="u.s._100_13" start="11023" line="22" >100 U.S. 13</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="42" alternative_keys="['u.s._137_147']" name="In re Grimley" citation_global_level_id="37.003" end="11049" id="100010_322" id1="Dummy_File_22" standard_reporter="U.S." volume="137" lookup_key="inregrimley#1" start="11036" page_number="147" line="22" >In re Grimley</CITATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="43" volume="137" reporter="U.S." alternative_keys="['inregrimley#1']" name="In re Grimley" citation_global_level_id="37.003" end="11063" id="100010_286" id1="Dummy_File_22" standard_reporter="U.S." page_number="147" lookup_key="u.s._137_147" start="11051" line="22" >137 U.S. 147</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="44" alternative_keys="['u.s._137_157']" name="In re Morrissey" citation_global_level_id="38.003" end="11080" id="100010_323" id1="Dummy_File_23" standard_reporter="U.S." volume="137" lookup_key="inremorrissey#1" start="11065" page_number="157" line="22" >In re Morrissey</CITATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="45" volume="137" reporter="U.S." alternative_keys="['inremorrissey#1']" name="In re Morrissey" citation_global_level_id="38.003" end="11094" id="100010_287" id1="Dummy_File_23" standard_reporter="U.S." page_number="157" lookup_key="u.s._137_157" start="11082" line="22" >137 U.S. 157</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Johnson" citation_local_level_id="46" party1="Johnson" alternative_keys="['u.s._158_109']" citation_global_level_id="39.003" end="11112" id="100010_297" id1="Dummy_File_24" standard_reporter="U.S." volume="158" party2="Sayre" lookup_key="johnsonsayre#1" start="11096" page_number="109" party2_short="Sayre" line="22" >Johnson v. Sayre</CITATION>
+
+<PERSON party1_of="100010_297" start="11096" end="11103" id="100010_305" >Johnson</PERSON>
+
+<PERSON start="11107" end="11112" id="100010_306" party2_of="100010_297" >Sayre</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="47" volume="158" reporter="U.S." alternative_keys="['johnsonsayre#1']" citation_global_level_id="39.003" end="11126" id="100010_288" id1="Dummy_File_24" standard_reporter="U.S." page_number="109" lookup_key="u.s._158_109" start="11114" line="22" >158 U.S. 109</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="48" alternative_keys="['u.s._109_556']" name="Ex parte Crow Dog" citation_global_level_id="40.003" end="11153" id="100010_324" id1="Dummy_File_25" standard_reporter="U.S." volume="109" lookup_key="expartecrowdog#1" start="11136" page_number="556" line="22" >Ex parte Crow Dog</CITATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="49" volume="109" reporter="U.S." alternative_keys="['expartecrowdog#1']" name="Ex parte Crow Dog" citation_global_level_id="40.003" end="11167" id="100010_289" id1="Dummy_File_25" standard_reporter="U.S." page_number="556" lookup_key="u.s._109_556" start="11155" line="22" >109 U.S. 556</CITATION>
+
+<ORGANIZATION start="11196" end="11206" id="100010_326" >Department</ORGANIZATION>
+
+<PERSON start="11210" end="11215" id="100010_327" >Labor</PERSON>
+
+<PROFESSION start="11443" end="11452" id="100010_328" >executive</PROFESSION>
+
+<ORGANIZATION start="11553" end="11573" id="100010_329" >executive department</ORGANIZATION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="States" citation_local_level_id="50" party1="United States" alternative_keys="['u.s._198_253']" citation_global_level_id="27.004" end="11612" id="100010_298" id1="Dummy_File_12" party2="Ju Toy" start="11589" party2_short="Toy" line="22" >United States v. Ju Toy</CITATION>
+
+<GPE party1_of="100010_298" start="11589" end="11602" id="100010_307" >United States</GPE>
+
+<PERSON start="11606" end="11612" id="100010_308" party2_of="100010_298" >Ju Toy</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="198" alternative_keys="['statestoy#1']" reporter="U.S." citation_global_level_id="27.003" citation_local_level_id="51" end="11626" id="100010_290" id1="Dummy_File_12" standard_reporter="U.S." page_number="253" lookup_key="u.s._198_253" start="11614" line="22" >198 U.S. 253</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Yow" citation_local_level_id="52" party1="Chin Yow" alternative_keys="['u.s._208_8']" citation_global_level_id="41.003" end="11741" id="100010_299" id1="Dummy_File_26" standard_reporter="U.S." volume="208" party2="United States" lookup_key="yowstates#1" start="11716" page_number="8" party2_short="States" line="22" >Chin Yow v. United States</CITATION>
+
+<PERSON party1_of="100010_299" start="11716" end="11724" id="100010_309" >Chin Yow</PERSON>
+
+<GPE start="11728" end="11741" id="100010_310" party2_of="100010_299" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="53" volume="208" reporter="U.S." alternative_keys="['yowstates#1']" citation_global_level_id="41.003" end="11753" id="100010_291" id1="Dummy_File_26" standard_reporter="U.S." page_number="8" lookup_key="u.s._208_8" start="11743" line="22" >208 U.S. 8</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="School" citation_local_level_id="54" party1="American School of Magnetic Healing" alternative_keys="['u.s._187_94']" citation_global_level_id="42.003" end="11849" id="100010_300" id1="Dummy_File_27" standard_reporter="U.S." volume="187" party2="McAnnulty" lookup_key="schoolmcannulty#1" start="11801" page_number="94" party2_short="McAnnulty" line="22" >American School of Magnetic Healing v. McAnnulty</CITATION>
+
+<ORGANIZATION party1_of="100010_300" start="11801" end="11836" id="100010_311" >American School of Magnetic Healing</ORGANIZATION>
+
+<ORGANIZATION start="11801" end="11816" id="100010_330" >American School</ORGANIZATION>
+
+<NAME all_names="MCANNULTY" start="11840" local_name_id="21" end="11849" id="100010_312" party2_of="100010_300" >McAnnulty</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="55" volume="187" reporter="U.S." alternative_keys="['schoolmcannulty#1']" citation_global_level_id="42.003" end="11862" id="100010_292" id1="Dummy_File_27" standard_reporter="U.S." page_number="94" lookup_key="u.s._187_94" start="11851" line="22" >187 U.S. 94</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Gegiow" citation_local_level_id="56" party1="Gegiow" alternative_keys="['u.s._239_3']" citation_global_level_id="43.003" end="11934" id="100010_301" id1="Dummy_File_28" standard_reporter="U.S." volume="239" party2="Uhl" lookup_key="gegiowuhl#1" start="11921" page_number="3" party2_short="Uhl" line="22" >Gegiow v. Uhl</CITATION>
+
+<NAME all_names="GEGIOW" party1_of="100010_301" start="11921" local_name_id="22" end="11927" id="100010_313" >Gegiow</NAME>
+
+<PERSON start="11931" end="11934" id="100010_314" party2_of="100010_301" >Uhl</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="57" volume="239" reporter="U.S." alternative_keys="['gegiowuhl#1']" citation_global_level_id="43.003" end="11946" id="100010_293" id1="Dummy_File_28" standard_reporter="U.S." page_number="3" lookup_key="u.s._239_3" start="11936" line="22" >239 U.S. 3</CITATION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Yow" citation_local_level_id="58" party1="Chin Yow" alternative_keys="['u.s._208_8']" citation_global_level_id="41.004" end="12075" id="100010_302" id1="Dummy_File_26" party2="United States" start="12050" party2_short="States" line="22" >Chin Yow v. United States</CITATION>
+
+<PERSON party1_of="100010_302" start="12050" end="12058" id="100010_315" >Chin Yow</PERSON>
+
+<GPE start="12062" end="12075" id="100010_316" party2_of="100010_302" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="208" alternative_keys="['yowstates#1']" reporter="U.S." citation_global_level_id="41.003" citation_local_level_id="59" end="12091" id="100010_294" paragraph_number="13" standard_reporter="U.S." page_number="8" lookup_key="u.s._208_8" start="12077" id1="Dummy_File_26" line="22" >208 U.S. 8, 13</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="States" party1="United States" citation_global_level_id="44.001" citation_local_level_id="60" end="12495" id="100010_303" id1="Dummy_File_29" party2="Woo" start="12475" party2_short="Woo" line="22" >United States v. Woo</CITATION>
+
+<GPE party1_of="100010_303" start="12475" end="12488" id="100010_317" >United States</GPE>
+
+<PERSON start="12492" end="12495" id="100010_318" party2_of="100010_303" >Woo</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="245" reporter="U.S." citation_global_level_id="20.001" citation_local_level_id="61" end="12518" id="100010_295" paragraph_number="556" standard_reporter="U.S." page_number="552" lookup_key="u.s._245_552" start="12501" id1="Dummy_File_5" line="22" >245 U.S. 552, 556</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="White" citation_local_level_id="62" party1="White" alternative_keys="['u.s._253_90']" citation_global_level_id="45.003" end="12538" id="100010_304" id1="Dummy_File_30" standard_reporter="U.S." volume="253" party2="Chin Fong" lookup_key="whitefong#1" start="12520" page_number="90" party2_short="Fong" line="22" >White v. Chin Fong</CITATION>
+
+<PERSON party1_of="100010_304" start="12520" end="12525" id="100010_319" >White</PERSON>
+
+<PERSON start="12529" end="12538" id="100010_320" party2_of="100010_304" >Chin Fong</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="63" volume="253" reporter="U.S." alternative_keys="['whitefong#1']" citation_global_level_id="45.003" end="12555" id="100010_296" paragraph_number="93" standard_reporter="U.S." page_number="90" lookup_key="u.s._253_90" start="12540" id1="Dummy_File_30" line="22" >253 U.S. 90, 93</CITATION>
+
+<NAME all_names="GINSANGGET" start="12573" local_name_id="14" end="12585" id="100010_365" >Gin Sang Get</NAME>
+
+<NAME all_names="GINSANGMO" start="12590" local_name_id="15" end="12601" id="100010_366" >Gin Sang Mo</NAME>
+
+<NAME all_names="STATES" start="12696" local_name_id="1" end="12702" id="100010_367" >States</NAME>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Yow" party1="Chin Yow" citation_global_level_id="46.001" citation_local_level_id="64" end="12810" id="100010_359" id1="Dummy_File_31" party2="United States" start="12785" party2_short="States" line="23" >Chin Yow v. United States</CITATION>
+
+<PERSON party1_of="100010_359" start="12785" end="12793" id="100010_361" >Chin Yow</PERSON>
+
+<GPE start="12797" end="12810" id="100010_362" party2_of="100010_359" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Fat" citation_local_level_id="65" party1="Kwock Jan Fat" alternative_keys="['u.s._253_454']" citation_global_level_id="47.003" end="12857" id="100010_360" id1="Dummy_File_32" standard_reporter="U.S." volume="253" party2="White" lookup_key="fatwhite#1" start="12835" page_number="454" party2_short="White" line="23" >Kwock Jan Fat v. White</CITATION>
+
+<NAME all_names="KWOCKJANFAT" party1_of="100010_360" start="12835" local_name_id="23" end="12848" id="100010_363" >Kwock Jan Fat</NAME>
+
+<PERSON start="12852" end="12857" id="100010_364" party2_of="100010_360" >White</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="66" volume="253" reporter="U.S." alternative_keys="['fatwhite#1']" citation_global_level_id="47.003" end="12876" id="100010_358" paragraph_number="465" standard_reporter="U.S." page_number="454" lookup_key="u.s._253_454" start="12859" id1="Dummy_File_32" line="23" >253 U.S. 454, 465</CITATION>
+
+<NAME all_names="GINSANGGET" start="12914" local_name_id="14" end="12926" id="100010_368" >Gin Sang Get</NAME>
+
+<NAME all_names="GINSANGMO" start="12931" local_name_id="15" end="12942" id="100010_369" >Gin Sang Mo</NAME>
+
+<ORGANIZATION start="12964" end="12977" id="100010_370" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="13031" end="13045" id="100010_371" >District Court</ORGANIZATION>
+
+<PERSON start="13168" end="13178" id="100010_372" >Ng Fung Ho</PERSON>
+
+<PERSON start="13183" end="13195" id="100010_373" >Ng Yuen Shew</PERSON>
+
+<ORGANIZATION start="13216" end="13229" id="100010_374" >Circuit Court</ORGANIZATION>
+
+<NAME all_names="GINSANGGET" start="13339" local_name_id="14" end="13351" id="100010_380" >Gin Sang Get</NAME>
+
+<PERSON start="13356" end="13368" id="100010_381" >Ging Sang Mo</PERSON>
+
+<DATE start="13393" end="13404" id="100010_382" >May 6, 1882</DATE>
+
+<NAME all_names="STAT" start="13417" local_name_id="6" end="13421" id="100010_391" >Stat</NAME>
+
+<DATE start="13452" end="13464" id="100010_383" >July 5, 1884</DATE>
+
+<NAME all_names="STAT" start="13477" local_name_id="6" end="13481" id="100010_392" >Stat</NAME>
+
+<DATE start="13495" end="13513" id="100010_384" >September 13, 1888</DATE>
+
+<NAME all_names="STAT" start="13533" local_name_id="6" end="13537" id="100010_393" >Stat</NAME>
+
+<DATE start="13556" end="13571" id="100010_385" >October 1, 1888</DATE>
+
+<NAME all_names="STAT" start="13585" local_name_id="6" end="13589" id="100010_394" >Stat</NAME>
+
+<DATE start="13603" end="13614" id="100010_386" >May 5, 1892</DATE>
+
+<NAME all_names="STAT" start="13638" local_name_id="6" end="13642" id="100010_395" >Stat</NAME>
+
+<DATE start="13655" end="13671" id="100010_387" >November 3, 1893</DATE>
+
+<NAME all_names="STAT" start="13688" local_name_id="6" end="13692" id="100010_396" >Stat</NAME>
+
+<DATE start="13704" end="13717" id="100010_388" >March 3, 1901</DATE>
+
+<NAME all_names="STAT" start="13730" local_name_id="6" end="13734" id="100010_397" >Stat</NAME>
+
+<DATE start="13749" end="13763" id="100010_389" >April 29, 1902</DATE>
+
+<NAME all_names="STAT" start="13776" local_name_id="6" end="13780" id="100010_398" >Stat</NAME>
+
+<DATE start="13794" end="13808" id="100010_390" >April 27, 1904</DATE>
+
+<NAME all_names="STAT" start="13827" local_name_id="6" end="13831" id="100010_399" >Stat</NAME>
+
+<NAME all_names="SECTION" start="13850" local_name_id="24" end="13857" id="100010_400" >Section</NAME>
+
+<PROFESSION start="13914" end="13923" id="100010_401" >Secretary</PROFESSION>
+
+<PERSON start="13927" end="13932" id="100010_402" >Labor</PERSON>
+
+<NAME all_names="STATES" start="14024" local_name_id="1" end="14030" id="100010_403" >States</NAME>
+
+<NAME all_names="STATES" start="14104" local_name_id="1" end="14110" id="100010_404" >States</NAME>
+
+<NAME all_names="STATES" start="14344" local_name_id="1" end="14350" id="100010_405" >States</NAME>
+
+<LEGAL_ROLE start="14745" end="14756" id="100010_406" >prosecution</LEGAL_ROLE>
+
+<LEGAL_ROLE plural="True" start="14996" end="15008" id="100010_407" >prosecutions</LEGAL_ROLE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Suey" party1="Moy Suey" citation_global_level_id="48.001" citation_local_level_id="67" end="15201" id="100010_408" id1="Dummy_File_33" party2="United States" lookup_key="sueystates#1" start="15176" party2_short="States" line="34" >Moy Suey v. United States</CITATION>
+
+<NAME all_names="MOYSUEY" party1_of="100010_408" start="15176" local_name_id="25" end="15184" id="100010_422" >Moy Suey</NAME>
+
+<GPE start="15188" end="15201" id="100010_423" party2_of="100010_408" >United States</GPE>
+
+<NAME all_names="CHINAMAN" start="15225" local_name_id="26" end="15233" id="100010_450" >Chinaman</NAME>
+
+<NAME all_names="STATES" start="15278" local_name_id="1" end="15284" id="100010_451" >States</NAME>
+
+<PROFESSION start="15313" end="15325" id="100010_452" >commissioner</PROFESSION>
+
+<NAME all_names="STATES" start="15468" local_name_id="1" end="15474" id="100010_453" >States</NAME>
+
+<ORGANIZATION start="15522" end="15535" id="100010_454" >Circuit Court</ORGANIZATION>
+
+<PROFESSION start="15684" end="15694" id="100010_455" >government</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Beng" party1="Gee Cue Beng" citation_global_level_id="49.001" citation_local_level_id="68" end="15807" id="100010_409" id1="Dummy_File_34" party2="United States" lookup_key="bengstates#1" start="15778" party2_short="States" line="34" >Gee Cue Beng v. United States</CITATION>
+
+<NAME all_names="GEECUEBENG" party1_of="100010_409" start="15778" local_name_id="27" end="15790" id="100010_424" >Gee Cue Beng</NAME>
+
+<GPE start="15794" end="15807" id="100010_425" party2_of="100010_409" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Tong" party1="Fong Gum Tong" citation_global_level_id="50.001" citation_local_level_id="69" end="15876" id="100010_410" id1="Dummy_File_35" party2="United States" lookup_key="tongstates#1" start="15846" party2_short="States" line="34" >Fong Gum Tong v. United States</CITATION>
+
+<PERSON party1_of="100010_410" start="15846" end="15859" id="100010_426" >Fong Gum Tong</PERSON>
+
+<GPE start="15863" end="15876" id="100010_427" party2_of="100010_410" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="States" party1="United States" citation_global_level_id="51.001" citation_local_level_id="70" end="15921" id="100010_411" id1="Dummy_File_36" party2="Charlie Dart" lookup_key="statesdart#1" start="15892" party2_short="Dart" line="34" >United States v. Charlie Dart</CITATION>
+
+<GPE party1_of="100010_411" start="15892" end="15905" id="100010_428" >United States</GPE>
+
+<PERSON start="15909" end="15921" id="100010_429" party2_of="100010_411" >Charlie Dart</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="States" party1="United States" citation_global_level_id="52.001" citation_local_level_id="71" end="15969" id="100010_412" id1="Dummy_File_37" party2="Jhu Why" lookup_key="stateswhy#1" start="15945" party2_short="Why" line="34" >United States v. Jhu Why</CITATION>
+
+<GPE party1_of="100010_412" start="15945" end="15958" id="100010_430" >United States</GPE>
+
+<NAME all_names="JHUWHY" start="15962" local_name_id="28" end="15969" id="100010_431" party2_of="100010_412" >Jhu Why</NAME>
+
+<NAME all_names="CHINAMAN" start="16089" local_name_id="26" end="16097" id="100010_456" >Chinaman</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="King" party1="Yee King" citation_global_level_id="53.001" citation_local_level_id="72" end="16124" id="100010_413" id1="Dummy_File_38" party2="United States" lookup_key="kingstates#1" start="16099" party2_short="States" line="34" >Yee King v. United States</CITATION>
+
+<PERSON party1_of="100010_413" start="16099" end="16107" id="100010_432" >Yee King</PERSON>
+
+<GPE start="16111" end="16124" id="100010_433" party2_of="100010_413" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Sue" party1="Kum Sue" citation_global_level_id="54.001" citation_local_level_id="73" end="16164" id="100010_414" id1="Dummy_File_39" party2="United States" lookup_key="suestates#1" start="16140" party2_short="States" line="34" >Kum Sue v. United States</CITATION>
+
+<PERSON party1_of="100010_414" start="16140" end="16147" id="100010_434" >Kum Sue</PERSON>
+
+<GPE start="16151" end="16164" id="100010_435" party2_of="100010_414" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="States" party1="United States" citation_global_level_id="55.001" citation_local_level_id="74" end="16204" id="100010_415" id1="Dummy_File_40" party2="Too Toy" start="16180" party2_short="Toy" line="34" >United States v. Too Toy</CITATION>
+
+<GPE party1_of="100010_415" start="16180" end="16193" id="100010_436" >United States</GPE>
+
+<NAME all_names="TOOTOY" start="16197" local_name_id="29" end="16204" id="100010_437" party2_of="100010_415" >Too Toy</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ging" party1="Yee Ging" citation_global_level_id="56.001" citation_local_level_id="75" end="16245" id="100010_416" id1="Dummy_File_41" party2="United States" lookup_key="gingstates#1" start="16220" party2_short="States" line="34" >Yee Ging v. United States</CITATION>
+
+<PERSON party1_of="100010_416" start="16220" end="16228" id="100010_438" >Yee Ging</PERSON>
+
+<GPE start="16232" end="16245" id="100010_439" party2_of="100010_416" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Kun" party1="Bak Kun" citation_global_level_id="57.001" citation_local_level_id="76" end="16285" id="100010_417" id1="Dummy_File_42" party2="United States" lookup_key="kunstates#1" start="16261" party2_short="States" line="34" >Bak Kun v. United States</CITATION>
+
+<PERSON party1_of="100010_417" start="16261" end="16268" id="100010_440" >Bak Kun</PERSON>
+
+<GPE start="16272" end="16285" id="100010_441" party2_of="100010_417" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="States" party1="United States" citation_global_level_id="58.001" citation_local_level_id="77" end="16324" id="100010_418" id1="Dummy_File_43" party2="Hom Lim" lookup_key="stateslim#1" start="16300" party2_short="Lim" line="34" >United States v. Hom Lim</CITATION>
+
+<GPE party1_of="100010_418" start="16300" end="16313" id="100010_442" >United States</GPE>
+
+<PERSON start="16317" end="16324" id="100010_443" party2_of="100010_418" >Hom Lim</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ngar" party1="Fong Ping Ngar" citation_global_level_id="59.001" citation_local_level_id="78" end="16371" id="100010_419" id1="Dummy_File_44" party2="United States" lookup_key="ngarstates#1" start="16340" party2_short="States" line="34" >Fong Ping Ngar v. United States</CITATION>
+
+<NAME all_names="FONGPINGNGAR" party1_of="100010_419" start="16340" local_name_id="30" end="16354" id="100010_444" >Fong Ping Ngar</NAME>
+
+<GPE start="16358" end="16371" id="100010_445" party2_of="100010_419" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Nuey" party1="Ng You Nuey" citation_global_level_id="60.001" citation_local_level_id="79" end="16415" id="100010_420" id1="Dummy_File_45" party2="United States" lookup_key="nueystates#1" start="16387" party2_short="States" line="34" >Ng You Nuey v. United States</CITATION>
+
+<NAME all_names="NGYOUNUEY" party1_of="100010_420" start="16387" local_name_id="31" end="16398" id="100010_446" >Ng You Nuey</NAME>
+
+<GPE start="16402" end="16415" id="100010_447" party2_of="100010_420" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Yoke" party1="Chin Ah Yoke" citation_global_level_id="61.001" citation_local_level_id="80" end="16452" id="100010_421" id1="Dummy_File_46" party2="White" lookup_key="yokewhite#1" start="16431" party2_short="White" line="34" >Chin Ah Yoke v. White</CITATION>
+
+<NAME all_names="CHINAHYOKE" party1_of="100010_421" start="16431" local_name_id="32" end="16443" id="100010_448" >Chin Ah Yoke</NAME>
+
+<PERSON start="16447" end="16452" id="100010_449" party2_of="100010_421" >White</PERSON>
+
+<NAME all_names="SITSINGKUM277FED" start="16468" local_name_id="33" end="16489" id="100010_457" >Sit Sing Kum, 277 Fed</NAME>
+
+<RELATION at_date_string="1922" relation_type="asymmetric" at_date="100010_2" theme="100010_1" gram_type="pre_nom" theme_string="259 U.S. 276" id="100010_3" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_8" party1_string="NG FUNG HO, OTHERWISE KNOWN AS UNG KIP, ET AL." theme="100010_7" gram_type="infix" theme_string="NG FUNG HO, OTHERWISE KNOWN AS UNG KIP, ET AL.  v.  WHITE, COMMISSIONER OF IMMIGRATION FOR THE PORT OF SAN FRANCISCO" id="100010_11" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="WHITE, COMMISSIONER OF IMMIGRATION FOR THE PORT OF SAN FRANCISCO" party2="100010_9" theme="100010_7" gram_type="infix" theme_string="NG FUNG HO, OTHERWISE KNOWN AS UNG KIP, ET AL.  v.  WHITE, COMMISSIONER OF IMMIGRATION FOR THE PORT OF SAN FRANCISCO" id="100010_12" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_7" X_vs_Y_string="NG FUNG HO, OTHERWISE KNOWN AS UNG KIP, ET AL.  v.  WHITE, COMMISSIONER OF IMMIGRATION FOR THE PORT OF SAN FRANCISCO" standard_case_string="259 U.S. 276" standard_case="100010_1" gram_type="multi_line" id="100010_13" ></RELATION>
+
+<RELATION relation_type="asymmetric" theme_string="Beck" theme="100010_25" gram_type="pre_nom" profession="100010_24" id="100010_27" profession_string="Mr. Solicitor General" ></RELATION>
+
+<RELATION legal_role_string="Petitioner" relation_type="asymmetric" theme="100010_96" legal_role="100010_97" gram_type="apposition" theme_string="States" id="100010_106" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_75" party1_string="United States" theme="100010_74" gram_type="infix" theme_string="United States v. Woo" id="100010_107" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Woo" party2="100010_76" theme="100010_74" gram_type="infix" theme_string="United States v. Woo" id="100010_108" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_112" X_vs_Y_string="Bugajewitz v. Adams" standard_case_string="228 U.S. 585" standard_case="100010_109" gram_type="apposition" id="100010_137" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_115" party1_string="Bugajewitz" theme="100010_112" gram_type="infix" theme_string="Bugajewitz v. Adams" id="100010_135" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Adams" party2="100010_116" theme="100010_112" gram_type="infix" theme_string="Bugajewitz v. Adams" id="100010_136" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_113" X_vs_Y_string="Lapina v. Williams" standard_case_string="232 U.S. 78" standard_case="100010_110" gram_type="apposition" id="100010_140" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_117" party1_string="Lapina" theme="100010_113" gram_type="infix" theme_string="Lapina v. Williams" id="100010_138" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Williams" party2="100010_118" theme="100010_113" gram_type="infix" theme_string="Lapina v. Williams" id="100010_139" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_114" X_vs_Y_string="Lewis v. Frick" standard_case_string="233 U.S. 291" standard_case="100010_111" gram_type="apposition" id="100010_143" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_119" party1_string="Lewis" theme="100010_114" gram_type="infix" theme_string="Lewis v. Frick" id="100010_141" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Frick" party2="100010_120" theme="100010_114" gram_type="infix" theme_string="Lewis v. Frick" id="100010_142" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_158" X_vs_Y_string="Fong Yue Ting v. United States" standard_case_string="149 U.S. 698" standard_case="100010_155" gram_type="apposition" id="100010_178" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_161" party1_string="Fong Yue Ting" theme="100010_158" gram_type="infix" theme_string="Fong Yue Ting v. United States" id="100010_176" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_162" theme="100010_158" gram_type="infix" theme_string="Fong Yue Ting v. United States" id="100010_177" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_159" X_vs_Y_string="Li Sing v. United States" standard_case_string="180 U.S. 486" standard_case="100010_156" gram_type="apposition" id="100010_181" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_163" party1_string="Li Sing" theme="100010_159" gram_type="infix" theme_string="Li Sing v. United States" id="100010_179" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_164" theme="100010_159" gram_type="infix" theme_string="Li Sing v. United States" id="100010_180" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_160" X_vs_Y_string="Ah How v. United States" standard_case_string="193 U.S. 65" standard_case="100010_157" gram_type="apposition" id="100010_184" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_165" party1_string="Ah How" theme="100010_160" gram_type="infix" theme_string="Ah How v. United States" id="100010_182" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_166" theme="100010_160" gram_type="infix" theme_string="Ah How v. United States" id="100010_183" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_189" X_vs_Y_string="United States v. Ju Toy" standard_case_string="198 U.S. 253" standard_case="100010_185" gram_type="apposition" id="100010_220" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_193" party1_string="United States" theme="100010_189" gram_type="infix" theme_string="United States v. Ju Toy" id="100010_218" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Ju Toy" party2="100010_194" theme="100010_189" gram_type="infix" theme_string="United States v. Ju Toy" id="100010_219" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_190" X_vs_Y_string="Tang Tun v. Edsell" standard_case_string="223 U.S. 673" standard_case="100010_186" gram_type="apposition" id="100010_223" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_195" party1_string="Tang Tun" theme="100010_190" gram_type="infix" theme_string="Tang Tun v. Edsell" id="100010_221" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Edsell" party2="100010_196" theme="100010_190" gram_type="infix" theme_string="Tang Tun v. Edsell" id="100010_222" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_191" X_vs_Y_string="United States v. Wong You" standard_case_string="223 U.S. 67" standard_case="100010_187" gram_type="apposition" id="100010_226" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_197" party1_string="United States" theme="100010_191" gram_type="infix" theme_string="United States v. Wong You" id="100010_224" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Wong You" party2="100010_198" theme="100010_191" gram_type="infix" theme_string="United States v. Wong You" id="100010_225" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_192" X_vs_Y_string="United States v. Sing Tuck" standard_case_string="194 U.S. 161" standard_case="100010_188" gram_type="apposition" id="100010_229" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_199" party1_string="United States" theme="100010_192" gram_type="infix" theme_string="United States v. Sing Tuck" id="100010_227" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Sing Tuck" party2="100010_200" theme="100010_192" gram_type="infix" theme_string="United States v. Sing Tuck" id="100010_228" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_237" X_vs_Y_string="Chin Bak Kan v. United States" standard_case_string="186 U.S. 193" standard_case="100010_230" gram_type="apposition" id="100010_266" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_244" party1_string="Chin Bak Kan" theme="100010_237" gram_type="infix" theme_string="Chin Bak Kan v. United States" id="100010_264" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_245" theme="100010_237" gram_type="infix" theme_string="Chin Bak Kan v. United States" id="100010_265" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_238" X_vs_Y_string="Ah How v. United States" standard_case_string="193 U.S. 65" standard_case="100010_231" gram_type="apposition" id="100010_269" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_246" party1_string="Ah How" theme="100010_238" gram_type="infix" theme_string="Ah How v. United States" id="100010_267" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_247" theme="100010_238" gram_type="infix" theme_string="Ah How v. United States" id="100010_268" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_239" X_vs_Y_string="Liu Hop Fong v. United States" standard_case_string="209 U.S. 453" standard_case="100010_232" gram_type="apposition" id="100010_272" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_248" party1_string="Liu Hop Fong" theme="100010_239" gram_type="infix" theme_string="Liu Hop Fong v. United States" id="100010_270" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_249" theme="100010_239" gram_type="infix" theme_string="Liu Hop Fong v. United States" id="100010_271" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_240" X_vs_Y_string="Fong Yue Ting v. United States" standard_case_string="149 U.S. 698, 729" standard_case="100010_233" gram_type="apposition" id="100010_275" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_250" party1_string="Fong Yue Ting" theme="100010_240" gram_type="infix" theme_string="Fong Yue Ting v. United States" id="100010_273" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_251" theme="100010_240" gram_type="infix" theme_string="Fong Yue Ting v. United States" id="100010_274" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_241" X_vs_Y_string="Bailey v. Alabama" standard_case_string="219 U.S. 219, 238" standard_case="100010_234" gram_type="apposition" id="100010_278" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_252" party1_string="Bailey" theme="100010_241" gram_type="infix" theme_string="Bailey v. Alabama" id="100010_276" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Alabama" party2="100010_253" theme="100010_241" gram_type="infix" theme_string="Bailey v. Alabama" id="100010_277" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_242" X_vs_Y_string="Luria v. United States" standard_case_string="231 U.S. 9, 26" standard_case="100010_235" gram_type="apposition" id="100010_281" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_254" party1_string="Luria" theme="100010_242" gram_type="infix" theme_string="Luria v. United States" id="100010_279" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_255" theme="100010_242" gram_type="infix" theme_string="Luria v. United States" id="100010_280" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_243" X_vs_Y_string="Hawes v. Georgia" standard_case_string="258 U.S. 1" standard_case="100010_236" gram_type="apposition" id="100010_284" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_256" party1_string="Hawes" theme="100010_243" gram_type="infix" theme_string="Hawes v. Georgia" id="100010_282" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Georgia" party2="100010_257" theme="100010_243" gram_type="infix" theme_string="Hawes v. Georgia" id="100010_283" ></RELATION>
+
+<RELATION case_citation_other_string="Ex parte Reed" relation_type="equivalence" case_citation_other="100010_321" standard_case_string="100 U.S. 13" standard_case="100010_285" gram_type="apposition" id="100010_331" ></RELATION>
+
+<RELATION case_citation_other_string="In re Grimley" relation_type="equivalence" case_citation_other="100010_322" standard_case_string="137 U.S. 147" standard_case="100010_286" gram_type="apposition" id="100010_332" ></RELATION>
+
+<RELATION case_citation_other_string="In re Morrissey" relation_type="equivalence" case_citation_other="100010_323" standard_case_string="137 U.S. 157" standard_case="100010_287" gram_type="apposition" id="100010_333" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_297" X_vs_Y_string="Johnson v. Sayre" standard_case_string="158 U.S. 109" standard_case="100010_288" gram_type="apposition" id="100010_336" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_305" party1_string="Johnson" theme="100010_297" gram_type="infix" theme_string="Johnson v. Sayre" id="100010_334" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Sayre" party2="100010_306" theme="100010_297" gram_type="infix" theme_string="Johnson v. Sayre" id="100010_335" ></RELATION>
+
+<RELATION case_citation_other_string="Ex parte Crow Dog" relation_type="equivalence" case_citation_other="100010_324" standard_case_string="109 U.S. 556" standard_case="100010_289" gram_type="apposition" id="100010_337" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_298" X_vs_Y_string="United States v. Ju Toy" standard_case_string="198 U.S. 253" standard_case="100010_290" gram_type="apposition" id="100010_340" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_307" party1_string="United States" theme="100010_298" gram_type="infix" theme_string="United States v. Ju Toy" id="100010_338" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Ju Toy" party2="100010_308" theme="100010_298" gram_type="infix" theme_string="United States v. Ju Toy" id="100010_339" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_299" X_vs_Y_string="Chin Yow v. United States" standard_case_string="208 U.S. 8" standard_case="100010_291" gram_type="apposition" id="100010_343" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_309" party1_string="Chin Yow" theme="100010_299" gram_type="infix" theme_string="Chin Yow v. United States" id="100010_341" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_310" theme="100010_299" gram_type="infix" theme_string="Chin Yow v. United States" id="100010_342" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_300" X_vs_Y_string="American School of Magnetic Healing v. McAnnulty" standard_case_string="187 U.S. 94" standard_case="100010_292" gram_type="apposition" id="100010_346" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_311" party1_string="American School of Magnetic Healing" theme="100010_300" gram_type="infix" theme_string="American School of Magnetic Healing v. McAnnulty" id="100010_344" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="McAnnulty" party2="100010_312" theme="100010_300" gram_type="infix" theme_string="American School of Magnetic Healing v. McAnnulty" id="100010_345" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_301" X_vs_Y_string="Gegiow v. Uhl" standard_case_string="239 U.S. 3" standard_case="100010_293" gram_type="apposition" id="100010_349" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_313" party1_string="Gegiow" theme="100010_301" gram_type="infix" theme_string="Gegiow v. Uhl" id="100010_347" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Uhl" party2="100010_314" theme="100010_301" gram_type="infix" theme_string="Gegiow v. Uhl" id="100010_348" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_302" X_vs_Y_string="Chin Yow v. United States" standard_case_string="208 U.S. 8, 13" standard_case="100010_294" gram_type="apposition" id="100010_352" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_315" party1_string="Chin Yow" theme="100010_302" gram_type="infix" theme_string="Chin Yow v. United States" id="100010_350" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_316" theme="100010_302" gram_type="infix" theme_string="Chin Yow v. United States" id="100010_351" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_317" party1_string="United States" theme="100010_303" gram_type="infix" theme_string="United States v. Woo" id="100010_353" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Woo" party2="100010_318" theme="100010_303" gram_type="infix" theme_string="United States v. Woo" id="100010_354" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_304" X_vs_Y_string="White v. Chin Fong" standard_case_string="253 U.S. 90, 93" standard_case="100010_296" gram_type="apposition" id="100010_357" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_319" party1_string="White" theme="100010_304" gram_type="infix" theme_string="White v. Chin Fong" id="100010_355" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Chin Fong" party2="100010_320" theme="100010_304" gram_type="infix" theme_string="White v. Chin Fong" id="100010_356" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_361" party1_string="Chin Yow" theme="100010_359" gram_type="infix" theme_string="Chin Yow v. United States" id="100010_375" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_362" theme="100010_359" gram_type="infix" theme_string="Chin Yow v. United States" id="100010_376" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100010_360" X_vs_Y_string="Kwock Jan Fat v. White" standard_case_string="253 U.S. 454, 465" standard_case="100010_358" gram_type="apposition" id="100010_379" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_363" party1_string="Kwock Jan Fat" theme="100010_360" gram_type="infix" theme_string="Kwock Jan Fat v. White" id="100010_377" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="White" party2="100010_364" theme="100010_360" gram_type="infix" theme_string="Kwock Jan Fat v. White" id="100010_378" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_422" party1_string="Moy Suey" theme="100010_408" gram_type="infix" theme_string="Moy Suey v. United States" id="100010_458" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_423" theme="100010_408" gram_type="infix" theme_string="Moy Suey v. United States" id="100010_459" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_424" party1_string="Gee Cue Beng" theme="100010_409" gram_type="infix" theme_string="Gee Cue Beng v. United States" id="100010_460" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_425" theme="100010_409" gram_type="infix" theme_string="Gee Cue Beng v. United States" id="100010_461" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_426" party1_string="Fong Gum Tong" theme="100010_410" gram_type="infix" theme_string="Fong Gum Tong v. United States" id="100010_462" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_427" theme="100010_410" gram_type="infix" theme_string="Fong Gum Tong v. United States" id="100010_463" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_428" party1_string="United States" theme="100010_411" gram_type="infix" theme_string="United States v. Charlie Dart" id="100010_464" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Charlie Dart" party2="100010_429" theme="100010_411" gram_type="infix" theme_string="United States v. Charlie Dart" id="100010_465" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_430" party1_string="United States" theme="100010_412" gram_type="infix" theme_string="United States v. Jhu Why" id="100010_466" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Jhu Why" party2="100010_431" theme="100010_412" gram_type="infix" theme_string="United States v. Jhu Why" id="100010_467" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_432" party1_string="Yee King" theme="100010_413" gram_type="infix" theme_string="Yee King v. United States" id="100010_468" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_433" theme="100010_413" gram_type="infix" theme_string="Yee King v. United States" id="100010_469" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_434" party1_string="Kum Sue" theme="100010_414" gram_type="infix" theme_string="Kum Sue v. United States" id="100010_470" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_435" theme="100010_414" gram_type="infix" theme_string="Kum Sue v. United States" id="100010_471" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_436" party1_string="United States" theme="100010_415" gram_type="infix" theme_string="United States v. Too Toy" id="100010_472" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Too Toy" party2="100010_437" theme="100010_415" gram_type="infix" theme_string="United States v. Too Toy" id="100010_473" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_438" party1_string="Yee Ging" theme="100010_416" gram_type="infix" theme_string="Yee Ging v. United States" id="100010_474" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_439" theme="100010_416" gram_type="infix" theme_string="Yee Ging v. United States" id="100010_475" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_440" party1_string="Bak Kun" theme="100010_417" gram_type="infix" theme_string="Bak Kun v. United States" id="100010_476" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_441" theme="100010_417" gram_type="infix" theme_string="Bak Kun v. United States" id="100010_477" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_442" party1_string="United States" theme="100010_418" gram_type="infix" theme_string="United States v. Hom Lim" id="100010_478" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Hom Lim" party2="100010_443" theme="100010_418" gram_type="infix" theme_string="United States v. Hom Lim" id="100010_479" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_444" party1_string="Fong Ping Ngar" theme="100010_419" gram_type="infix" theme_string="Fong Ping Ngar v. United States" id="100010_480" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_445" theme="100010_419" gram_type="infix" theme_string="Fong Ping Ngar v. United States" id="100010_481" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_446" party1_string="Ng You Nuey" theme="100010_420" gram_type="infix" theme_string="Ng You Nuey v. United States" id="100010_482" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100010_447" theme="100010_420" gram_type="infix" theme_string="Ng You Nuey v. United States" id="100010_483" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100010_448" party1_string="Chin Ah Yoke" theme="100010_421" gram_type="infix" theme_string="Chin Ah Yoke v. White" id="100010_484" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="White" party2="100010_449" theme="100010_421" gram_type="infix" theme_string="Chin Ah Yoke v. White" id="100010_485" ></RELATION>
+

@@ -1,0 +1,188 @@
+<CITATION line="2" lookup_key="u.s._259_197" citation_local_level_id="0" alternative_keys="['companysecretary#2']" entry_type="standard_key" standard_reporter="U.S." end="20" id1="100002" page_number="197" year="1922" id="100002_1" volume="259" start="1" reporter="U.S." citation_global_level_id="34185.002" >259 U.S. 197 (1922)</CITATION>
+
+<DATE citation_local_level_id="0" citation_global_level_id="34185.002" end="19" start="15" id="100002_2" >1922</DATE>
+
+<CITATION line="5" party1_short="COMPANY" party2_short="SECRETARY" alternative_keys="['u.s._259_197']" entry_type="party_key" id1="100002" end="91" id="100002_5" citation_local_level_id="1" party2="FALL, SECRETARY OF THE INTERIOR" start="21" lookup_key="companysecretary#2" party1="SANTA FE PACIFIC RAILROAD COMPANY" citation_global_level_id="34185.003" >SANTA FE PACIFIC RAILROAD COMPANY v. FALL, SECRETARY OF THE INTERIOR</CITATION>
+
+<ORGANIZATION party1_of="100002_5" end="54" start="21" id="100002_6" >SANTA FE PACIFIC RAILROAD COMPANY</ORGANIZATION>
+
+<PERSON party2_of="100002_5" end="91" start="60" id="100002_7" >FALL, SECRETARY OF THE INTERIOR</PERSON>
+
+<PROFESSION end="75" start="66" id="100002_8" >SECRETARY</PROFESSION>
+
+<ORGANIZATION end="121" start="108" id="100002_12" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" local_name_id="1" end="138" start="132" id="100002_13" >States</NAME>
+
+<DATE end="163" start="147" id="100002_14" >January 24, 1922</DATE>
+
+<DATE end="185" start="173" id="100002_15" >May 29, 1922</DATE>
+
+<ORGANIZATION end="209" start="204" id="100002_16" >COURT</ORGANIZATION>
+
+<NAME all_names="OF APPEALS OF THE DISTRICT OF COLUMBIA" local_name_id="2" end="248" start="210" id="100002_17" >OF APPEALS OF THE DISTRICT OF COLUMBIA</NAME>
+
+<PERSON end="267" start="250" id="100002_18" >Mr. F.W. Clements</PERSON>
+
+<PERSON plural="True" end="300" start="279" id="100002_19" >Mr. Alexander Britton</PERSON>
+
+<LEGAL_ROLE party="party1" end="333" start="324" id="100002_20" >appellant</LEGAL_ROLE>
+
+<PROFESSION party="RITER" document_level_name_id="3" end="365" start="335" id="100002_21" >Mr. Assistant Attorney General</PROFESSION>
+
+<PERSON end="371" start="366" id="100002_22" >Riter</PERSON>
+
+<PROFESSION party="BECK" document_level_name_id="3" end="404" start="383" id="100002_23" >Mr. Solicitor General</PROFESSION>
+
+<NAME all_names="BECK" local_name_id="3" end="409" start="405" id="100002_24" >Beck</NAME>
+
+<PERSON end="432" start="414" id="100002_25" >Mr. H.L. Underwood</PERSON>
+
+<LEGAL_ROLE party="party2" end="465" start="457" id="100002_26" >appellee</LEGAL_ROLE>
+
+<PROFESSION end="490" start="472" id="100002_29" >MR. JUSTICE HOLMES</PROFESSION>
+
+<PROFESSION end="662" start="653" id="100002_33" >Secretary</PROFESSION>
+
+<ORGANIZATION end="820" start="785" id="100002_34" >Atlantic &amp; Pacific Railroad Company</ORGANIZATION>
+
+<ORGANIZATION end="859" start="826" id="100002_35" >Santa Fe Pacific Railroad Company</ORGANIZATION>
+
+<GPE end="901" start="891" id="100002_36" >New Mexico</GPE>
+
+<DATE end="931" start="917" id="100002_30" >April 28, 1904</DATE>
+
+<DATE end="940" start="936" id="100002_31" >1810</DATE>
+
+<NAME all_names="STAT" local_name_id="4" end="954" start="950" id="100002_37" >Stat</NAME>
+
+<PROFESSION end="1038" start="1029" id="100002_38" >Secretary</PROFESSION>
+
+<NAME all_names="STATES" local_name_id="1" end="1123" start="1117" id="100002_39" >States</NAME>
+
+<GPE end="1172" start="1162" id="100002_40" >New Mexico</GPE>
+
+<PROFESSION end="1474" start="1465" id="100002_41" >Secretary</PROFESSION>
+
+<NAME all_names="INTERIOR" local_name_id="5" end="1490" start="1482" id="100002_42" >Interior</NAME>
+
+<PROFESSION end="1539" start="1530" id="100002_43" >Secretary</PROFESSION>
+
+<ORGANIZATION end="1576" start="1569" id="100002_44" >Company</ORGANIZATION>
+
+<DATE end="1639" start="1628" id="100002_32" >May 1, 1911</DATE>
+
+<ORGANIZATION end="1958" start="1951" id="100002_45" >Company</ORGANIZATION>
+
+<PROFESSION end="2002" start="1993" id="100002_46" >Secretary</PROFESSION>
+
+<ORGANIZATION end="2118" start="2111" id="100002_47" >Company</ORGANIZATION>
+
+<ORGANIZATION plural="True" end="2191" start="2185" id="100002_48" >Courts</ORGANIZATION>
+
+<PERSON end="2205" start="2202" id="100002_49" >App</PERSON>
+
+<PROFESSION end="2253" start="2243" id="100002_50" >Government</PROFESSION>
+
+<PROFESSION end="2448" start="2439" id="100002_51" >Secretary</PROFESSION>
+
+<ORGANIZATION end="2495" start="2488" id="100002_52" >Company</ORGANIZATION>
+
+<PROFESSION end="2517" start="2508" id="100002_53" >Secretary</PROFESSION>
+
+<ORGANIZATION end="2685" start="2678" id="100002_54" >Company</ORGANIZATION>
+
+<ORGANIZATION end="2772" start="2765" id="100002_69" >Company</ORGANIZATION>
+
+<ORGANIZATION end="2855" start="2848" id="100002_70" >Company</ORGANIZATION>
+
+<PROFESSION end="2946" start="2937" id="100002_71" >Secretary</PROFESSION>
+
+<PROFESSION end="3145" start="3136" id="100002_72" >Secretary</PROFESSION>
+
+<PROFESSION end="3184" start="3174" id="100002_73" >Government</PROFESSION>
+
+<ORGANIZATION end="3219" start="3212" id="100002_74" >Company</ORGANIZATION>
+
+<ORGANIZATION end="3273" start="3266" id="100002_75" >Company</ORGANIZATION>
+
+<PROFESSION end="3474" start="3465" id="100002_76" >Secretary</PROFESSION>
+
+<PROFESSION party="SHAW" document_level_name_id="6" end="3612" start="3599" id="100002_77" >Chief Justice</PROFESSION>
+
+<PERSON end="3617" start="3613" id="100002_78" >Shaw</PERSON>
+
+<ORGANIZATION end="3643" start="3638" id="100002_79" >Court</ORGANIZATION>
+
+<PROFESSION end="3719" start="3710" id="100002_80" >Secretary</PROFESSION>
+
+<DATE end="3861" start="3850" id="100002_67" >May 1, 1911</DATE>
+
+<NAME all_names="STATS" local_name_id="6" end="4128" start="4123" id="100002_81" >Stats</NAME>
+
+<ORGANIZATION end="4153" start="4143" id="100002_82" >Department</ORGANIZATION>
+
+<ORGANIZATION end="4183" start="4166" id="100002_83" >Geological Survey</ORGANIZATION>
+
+<PROFESSION end="4393" start="4384" id="100002_84" >Secretary</PROFESSION>
+
+<CITATION line="16" lookup_key="company's choice#1" start="4536" entry_type="case_key" name="Company's choice" citation_local_level_id="2" id1="Dummy_File_34529" no_current_file="True" end="4552" citation_global_level_id="98379.001" id="100002_68" >Company's choice</CITATION>
+
+<ORGANIZATION end="4543" start="4536" id="100002_85" >Company</ORGANIZATION>
+
+<CITATION line="16" party1_short="Payne" citation_local_level_id="3" party2_short="Ry" entry_type="party_key" id1="92990" end="4792" id="100002_58" party2="Central Pacific Ry" start="4765" no_current_file="True" lookup_key="paynery#1" party1="Payne" citation_global_level_id="21311.011" >Payne v. Central Pacific Ry</CITATION>
+
+<PERSON party1_of="100002_58" end="4770" start="4765" id="100002_61" >Payne</PERSON>
+
+<NAME all_names="CENTRAL PACIFIC RY" local_name_id="7" start="4774" party2_of="100002_58" end="4792" id="100002_62" >Central Pacific Ry</NAME>
+
+<CITATION line="16" reporter="U.S." citation_local_level_id="4" entry_type="standard_key" standard_reporter="U.S." id1="99735" page_number="228" end="4811" id="100002_55" volume="255" start="4799" lookup_key="u.s._255_228" citation_global_level_id="21155.002" >255 U.S. 228</CITATION>
+
+<CITATION line="16" party1_short="Payne" party2_short="Mexico" alternative_keys="['u.s._255_367']" entry_type="party_key" id1="99753" end="4832" id="100002_59" citation_local_level_id="5" party2="New Mexico" start="4813" lookup_key="paynemexico#1" party1="Payne" citation_global_level_id="35286.001" >Payne v. New Mexico</CITATION>
+
+<PERSON party1_of="100002_59" end="4818" start="4813" id="100002_63" >Payne</PERSON>
+
+<GPE party2_of="100002_59" end="4832" start="4822" id="100002_64" >New Mexico</GPE>
+
+<CITATION line="16" reporter="U.S." citation_local_level_id="6" alternative_keys="['paynemexico#1']" entry_type="standard_key" standard_reporter="U.S." id1="99753" page_number="367" end="4846" id="100002_56" volume="255" start="4834" lookup_key="u.s._255_367" citation_global_level_id="35286.002" >255 U.S. 367</CITATION>
+
+<CITATION line="16" party1_short="Wyoming" party2_short="States" alternative_keys="['u.s._255_489']" entry_type="party_key" id1="112327" end="4876" id="100002_60" citation_local_level_id="7" party2="United States" start="4852" lookup_key="wyomingstates#2" party1="Wyoming" citation_global_level_id="24561.001" >Wyoming v. United States</CITATION>
+
+<GPE party1_of="100002_60" end="4859" start="4852" id="100002_65" >Wyoming</GPE>
+
+<GPE party2_of="100002_60" end="4876" start="4863" id="100002_66" >United States</GPE>
+
+<CITATION line="16" reporter="U.S." citation_local_level_id="8" alternative_keys="['wyomingstates#2']" entry_type="standard_key" standard_reporter="U.S." id1="99764" page_number="489" end="4895" id="100002_57" paragraph_number="496" volume="255" start="4878" lookup_key="u.s._255_489" citation_global_level_id="16317.002" >255 U.S. 489, 496</CITATION>
+
+<ORGANIZATION end="5067" start="5062" id="100002_86" >Court</ORGANIZATION>
+
+<RELATION theme_string="259 U.S. 197 (1922)" theme="100002_1" id="100002_3" relation_type="asymmetric" at_date="100002_2" at_date_string="1922" gram_type="infix" ></RELATION>
+
+<RELATION theme_string="SANTA FE PACIFIC RAILROAD COMPANY  v.  FALL, SECRETARY OF THE INTERIOR" theme="100002_5" party2_string="FALL, SECRETARY OF THE INTERIOR" id="100002_10" party2="100002_7" relation_type="asymmetric" gram_type="infix" ></RELATION>
+
+<RELATION theme_string="SANTA FE PACIFIC RAILROAD COMPANY  v.  FALL, SECRETARY OF THE INTERIOR" theme="100002_5" id="100002_9" party1_string="SANTA FE PACIFIC RAILROAD COMPANY" relation_type="asymmetric" party1="100002_6" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y="100002_5" standard_case_string="259 U.S. 197 (1922)" id="100002_11" standard_case="100002_1" relation_type="equivalence" gram_type="multi_line" X_vs_Y_string="SANTA FE PACIFIC RAILROAD COMPANY  v.  FALL, SECRETARY OF THE INTERIOR" ></RELATION>
+
+<RELATION theme_string="Riter" theme="100002_22" id="100002_27" profession_string="Mr. Assistant Attorney General" relation_type="asymmetric" profession="100002_21" gram_type="pre_nom" ></RELATION>
+
+<RELATION theme_string="Beck" theme="100002_24" id="100002_28" profession_string="Mr. Solicitor General" relation_type="asymmetric" profession="100002_23" gram_type="pre_nom" ></RELATION>
+
+<RELATION theme_string="Shaw" theme="100002_78" id="100002_87" profession_string="Chief Justice" relation_type="asymmetric" profession="100002_77" gram_type="pre_nom" ></RELATION>
+
+<RELATION theme_string="Payne v. Central Pacific Ry" theme="100002_58" id="100002_88" party1_string="Payne" relation_type="asymmetric" party1="100002_61" gram_type="infix" ></RELATION>
+
+<RELATION theme_string="Payne v. Central Pacific Ry" theme="100002_58" party2_string="Central Pacific Ry" id="100002_89" party2="100002_62" relation_type="asymmetric" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y="100002_59" standard_case_string="255 U.S. 367" id="100002_92" standard_case="100002_56" relation_type="equivalence" gram_type="apposition" X_vs_Y_string="Payne v. New Mexico" ></RELATION>
+
+<RELATION theme_string="Payne v. New Mexico" theme="100002_59" id="100002_90" party1_string="Payne" relation_type="asymmetric" party1="100002_63" gram_type="infix" ></RELATION>
+
+<RELATION theme_string="Payne v. New Mexico" theme="100002_59" party2_string="New Mexico" id="100002_91" party2="100002_64" relation_type="asymmetric" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y="100002_60" standard_case_string="255 U.S. 489, 496" id="100002_95" standard_case="100002_57" relation_type="equivalence" gram_type="apposition" X_vs_Y_string="Wyoming v. United States" ></RELATION>
+
+<RELATION theme_string="Wyoming v. United States" theme="100002_60" id="100002_93" party1_string="Wyoming" relation_type="asymmetric" party1="100002_65" gram_type="infix" ></RELATION>
+
+<RELATION theme_string="Wyoming v. United States" theme="100002_60" party2_string="United States" id="100002_94" party2="100002_66" relation_type="asymmetric" gram_type="infix" ></RELATION>
+

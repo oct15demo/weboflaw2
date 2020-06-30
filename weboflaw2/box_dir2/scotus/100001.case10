@@ -1,0 +1,71 @@
+<citation id="100001_1" entry_type="standard_case" start="1" end="13" reporter="U.S." standard_reporter="U.S." volume="259" page_number="191" line="2">259 U.S. 191</citation>
+<date id="100001_2" start="14" end="18">1922</date>
+<citation id="100001_5" entry_type="case_X_vs_Y" start="20" end="67" party1="PINE HILL COAL COMPANY, INC." party2="UNITED STATES" line="5">PINE HILL COAL COMPANY, INC.  v.  UNITED STATES</citation>
+<ORGANIZATION id="100001_6" start="20" end="48" party1_of="100001_5">PINE HILL COAL COMPANY, INC.</ORGANIZATION>
+<ORGANIZATION id="100001_8" start="20" end="47">PINE HILL COAL COMPANY, INC</ORGANIZATION>
+<GPE id="100001_7" start="54" end="67" party2_of="100001_5">UNITED STATES</GPE>
+<ORGANIZATION id="100001_12" start="78" end="91">Supreme Court</ORGANIZATION>
+<NAME id="100001_13" start="102" end="108">States</NAME>
+<date id="100001_14" start="117" end="133">January 20, 1922</date>
+<date id="100001_15" start="143" end="155">May 29, 1922</date>
+<ORGANIZATION id="100001_16" start="173" end="178">COURT</ORGANIZATION>
+<NAME id="100001_17" start="179" end="188">OF CLAIMS</NAME>
+<PERSON id="100001_18" start="190" end="214" plural="True">Mr. Henry S. Drinker, Jr</PERSON>
+<PERSON id="100001_19" start="227" end="247" plural="True">Mr. Thomas Reath, Jr</PERSON>
+<PERSON id="100001_20" start="250" end="274" plural="True">Mr. Percy C. Madeira, Jr</PERSON>
+<PERSON id="100001_21" start="277" end="298">Mr. Douglas M. Moffat</PERSON>
+<PERSON id="100001_22" start="303" end="329" plural="True">Mr. William A. Glasgow, Jr</PERSON>
+<LEGAL_ROLE id="100001_23" start="355" end="364">appellant</LEGAL_ROLE>
+<PROFESSION id="100001_24" start="371" end="401">Mr. Assistant Attorney General</PROFESSION>
+<PERSON id="100001_25" start="402" end="407">Riter</PERSON>
+<PROFESSION id="100001_26" start="419" end="440">Mr. Solicitor General</PROFESSION>
+<NAME id="100001_27" start="441" end="445">Beck</NAME>
+<PERSON id="100001_28" start="450" end="473">Mr. Charles S. Lawrence</PERSON>
+<NAME id="100001_29" start="508" end="514">States</NAME>
+<PROFESSION id="100001_32" start="521" end="539">MR. JUSTICE HOLMES</PROFESSION>
+<citation id="100001_33" entry_type="case_X_vs_Y" start="591" end="627" party1="Morrisdale Coal Co." party2="United States" line="14">Morrisdale Coal Co. v. United States</citation>
+<ORGANIZATION id="100001_34" start="591" end="610" party1_of="100001_33">Morrisdale Coal Co.</ORGANIZATION>
+<ORGANIZATION id="100001_39" start="591" end="609">Morrisdale Coal Co</ORGANIZATION>
+<GPE id="100001_35" start="614" end="627" party2_of="100001_33">United States</GPE>
+<ORGANIZATION id="100001_40" start="680" end="699">Fuel Administration</ORGANIZATION>
+<date id="100001_36" start="717" end="732">August 10, 1917</date>
+<NAME id="100001_41" start="750" end="754">Stat</NAME>
+<LEGAL_ROLE id="100001_42" start="867" end="875">claimant</LEGAL_ROLE>
+<date id="100001_37" start="895" end="910">September, 1917</date>
+<date id="100001_38" start="920" end="933">January, 1919</date>
+<PROFESSION id="100001_43" start="988" end="998">government</PROFESSION>
+<LEGAL_ROLE id="100001_44" start="1096" end="1104">claimant</LEGAL_ROLE>
+<LEGAL_ROLE id="100001_45" start="1227" end="1235">claimant</LEGAL_ROLE>
+<NAME id="100001_46" start="1388" end="1394">States</NAME>
+<ORGANIZATION id="100001_47" start="1483" end="1488">Court</ORGANIZATION>
+<PROFESSION id="100001_50" start="1585" end="1594">President</PROFESSION>
+<ORGANIZATION id="100001_51" start="1621" end="1645">Federal Trade Commission</ORGANIZATION>
+<PROFESSION id="100001_52" start="1773" end="1781">producer</PROFESSION>
+<PROFESSION id="100001_53" start="2068" end="2076">producer</PROFESSION>
+<NAME id="100001_54" start="2356" end="2362">States</NAME>
+<NAME id="100001_55" start="2599" end="2612">Judicial Code</NAME>
+<NAME id="100001_56" start="2641" end="2654">Judicial Code</NAME>
+<ORGANIZATION id="100001_57" start="2697" end="2702">Court</ORGANIZATION>
+<ORGANIZATION id="100001_58" start="2786" end="2801" plural="True">District Courts</ORGANIZATION>
+<PROFESSION id="100001_59" start="2876" end="2885" plural="True">producers</PROFESSION>
+<NAME id="100001_60" start="2954" end="2960">States</NAME>
+<LEGAL_ROLE id="100001_61" start="3136" end="3144">claimant</LEGAL_ROLE>
+<PROFESSION id="100001_62" start="3332" end="3339">general</PROFESSION>
+<PROFESSION id="100001_63" start="3794" end="3804">Government</PROFESSION>
+<PROFESSION id="100001_64" start="4041" end="4051">Government</PROFESSION>
+<NAME id="100001_65" start="4517" end="4523">States</NAME>
+<PROFESSION id="100001_66" start="4568" end="4575">general</PROFESSION>
+<LEGAL_ROLE id="100001_67" start="4851" end="4859">claimant</LEGAL_ROLE>
+<PROFESSION id="100001_68" start="4998" end="5008">government</PROFESSION>
+<PROFESSION id="100001_69" start="5290" end="5297">general</PROFESSION>
+<PROFESSION id="100001_70" start="5586" end="5596">Government</PROFESSION>
+<LEGAL_ROLE id="100001_71" start="5663" end="5671">claimant</LEGAL_ROLE>
+<NAME id="100001_72" start="5844" end="5850">States</NAME>
+<RELATION id="100001_3" relation_type="asymmetric" gram_type="pre_nom" theme="100001_1" theme_string="259 U.S. 191" at_date="100001_2" at_date_string="1922"></RELATION>
+<RELATION id="100001_10" relation_type="asymmetric" gram_type="infix" theme="100001_5" theme_string="PINE HILL COAL COMPANY, INC.  v.  UNITED STATES" party2="100001_7" party2_string="UNITED STATES"></RELATION>
+<RELATION id="100001_9" relation_type="asymmetric" gram_type="infix" theme="100001_5" theme_string="PINE HILL COAL COMPANY, INC.  v.  UNITED STATES" party1="100001_6" party1_string="PINE HILL COAL COMPANY, INC."></RELATION>
+<RELATION id="100001_11" relation_type="equivalence" gram_type="multi_line" standard_case="100001_1" standard_case_string="259 U.S. 191" X_vs_Y="100001_5" X_vs_Y_string="PINE HILL COAL COMPANY, INC.  v.  UNITED STATES"></RELATION>
+<RELATION id="100001_30" relation_type="asymmetric" gram_type="pre_nom" profession="100001_24" profession_string="Mr. Assistant Attorney General" theme="100001_25" theme_string="Riter"></RELATION>
+<RELATION id="100001_31" relation_type="asymmetric" gram_type="pre_nom" profession="100001_26" profession_string="Mr. Solicitor General" theme="100001_27" theme_string="Beck"></RELATION>
+<RELATION id="100001_48" relation_type="asymmetric" gram_type="infix" theme="100001_33" theme_string="Morrisdale Coal Co. v. United States" party1="100001_34" party1_string="Morrisdale Coal Co."></RELATION>
+<RELATION id="100001_49" relation_type="asymmetric" gram_type="infix" theme="100001_33" theme_string="Morrisdale Coal Co. v. United States" party2="100001_35" party2_string="United States"></RELATION>

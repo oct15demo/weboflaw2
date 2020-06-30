@@ -1,0 +1,394 @@
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="0" volume="259" party1="FIDELITY &amp; DEPOSIT COMPANY OF MARYLAND" reporter="U.S." alternative_keys="['companystates#1']" citation_global_level_id="108.003" end="13" id="100012_1" id1="Dummy_File_93" standard_reporter="U.S." page_number="296" party2="UNITED STATES" lookup_key="u.s._259_296" start="1" party2_short="STATES" party1_short="COMPANY" line="2" >259 U.S. 296</CITATION>
+
+<DATE start="14" citation_local_level_id="0" end="18" id="100012_2" citation_global_level_id="108.003" >1922</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="COMPANY" citation_local_level_id="1" party1="FIDELITY &amp; DEPOSIT COMPANY OF MARYLAND" alternative_keys="['u.s._259_296']" citation_global_level_id="108.003" end="77" id="100012_5" id1="Dummy_File_93" party2="UNITED STATES" lookup_key="companystates#1" start="20" party2_short="STATES" line="5" >FIDELITY &amp; DEPOSIT COMPANY OF MARYLAND v. UNITED STATES</CITATION>
+
+<ORGANIZATION party1_of="100012_5" start="20" end="58" id="100012_6" >FIDELITY &amp; DEPOSIT COMPANY OF MARYLAND</ORGANIZATION>
+
+<GPE start="64" end="77" id="100012_7" party2_of="100012_5" >UNITED STATES</GPE>
+
+<ORGANIZATION start="88" end="101" id="100012_11" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="112" local_name_id="1" end="118" id="100012_12" >States</NAME>
+
+<DATE start="127" end="141" id="100012_13" >April 21, 1922</DATE>
+
+<DATE start="151" end="163" id="100012_14" >May 29, 1922</DATE>
+
+<ORGANIZATION start="181" end="186" id="100012_15" >COURT</ORGANIZATION>
+
+<NAME all_names="OFCLAIMS" start="187" local_name_id="2" end="196" id="100012_16" >OF CLAIMS</NAME>
+
+<PERSON plural="True" start="203" end="224" id="100012_17" >Mr. George Sutherland</PERSON>
+
+<PERSON plural="True" start="236" end="250" id="100012_18" >Mr. Simon Lyon</PERSON>
+
+<PERSON start="255" end="270" id="100012_19" >Mr. R.B.H. Lyon</PERSON>
+
+<LEGAL_ROLE start="295" party="party1" end="304" id="100012_20" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="306" party="LOVETT" end="336" id="100012_21" document_level_name_id="3" >Mr. Assistant Attorney General</PROFESSION>
+
+<PERSON start="337" end="343" id="100012_22" >Lovett</PERSON>
+
+<PERSON start="383" end="400" id="100012_23" >Mr. Carl A. Mapes</PERSON>
+
+<PERSON start="405" end="423" id="100012_24" >Mr. B.H. Littleton</PERSON>
+
+<NAME all_names="STATES" start="459" local_name_id="1" end="465" id="100012_25" >States</NAME>
+
+<PROFESSION start="467" end="487" id="100012_27" >MR. JUSTICE BRANDEIS</PROFESSION>
+
+<ORGANIZATION start="553" end="558" id="100012_38" >Court</ORGANIZATION>
+
+<ORGANIZATION start="597" end="604" id="100012_39" >Company</ORGANIZATION>
+
+<GPE start="608" end="616" id="100012_40" >Maryland</GPE>
+
+<DATE start="722" end="726" id="100012_31" >1898</DATE>
+
+<DATE start="730" end="734" id="100012_32" >1901</DATE>
+
+<NAME all_names="SPANISHWARREVENUEACT" start="753" local_name_id="3" end="776" id="100012_41" >Spanish War Revenue Act</NAME>
+
+<DATE start="780" end="793" id="100012_33" >June 13, 1898</DATE>
+
+<NAME all_names="STAT" start="806" local_name_id="4" end="810" id="100012_42" >Stat</NAME>
+
+<DATE start="840" end="857" id="100012_34" >November 22, 1913</DATE>
+
+<DATE start="896" end="909" id="100012_35" >July 27, 1912</DATE>
+
+<NAME all_names="STAT" start="922" local_name_id="4" end="926" id="100012_43" >Stat</NAME>
+
+<LEGAL_ROLE start="992" end="1001" id="100012_44" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="1129" end="1138" id="100012_45" >Secretary</PROFESSION>
+
+<DATE start="1158" end="1172" id="100012_36" >April 19, 1917</DATE>
+
+<DATE start="1201" end="1214" id="100012_37" >July 25, 1918</DATE>
+
+<PROFESSION start="1220" end="1230" id="100012_46" >Government</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Trust" party1="Union Trust Co." citation_global_level_id="109.001" citation_local_level_id="2" end="1448" id="100012_28" id1="Dummy_File_94" party2="United States" lookup_key="truststates#2" start="1416" party2_short="States" line="14" >Union Trust Co. v. United States</CITATION>
+
+<ORGANIZATION party1_of="100012_28" start="1416" end="1431" id="100012_29" >Union Trust Co.</ORGANIZATION>
+
+<ORGANIZATION start="1416" end="1430" id="100012_47" >Union Trust Co</ORGANIZATION>
+
+<GPE start="1435" end="1448" id="100012_30" party2_of="100012_28" >United States</GPE>
+
+<GPE start="1453" end="1455" id="100012_48" >Ct</GPE>
+
+<NAME all_names="CLMS" start="1457" local_name_id="5" end="1461" id="100012_49" >Clms</NAME>
+
+<LEGAL_ROLE start="1561" party="party1" end="1570" id="100012_50" >appellant</LEGAL_ROLE>
+
+<DATE start="1641" end="1645" id="100012_53" >1898</DATE>
+
+<ORGANIZATION start="2165" end="2181" id="100012_55" >Fidelity Company</ORGANIZATION>
+
+<ORGANIZATION plural="True" start="2244" end="2255" id="100012_56" >departments</ORGANIZATION>
+
+<PROFESSION plural="True" start="2406" end="2416" id="100012_57" >principals</PROFESSION>
+
+<PROFESSION start="2549" end="2556" id="100012_58" >trustee</PROFESSION>
+
+<DATE start="2709" end="2713" id="100012_54" >1898</DATE>
+
+<DATE start="2827" end="2831" id="100012_59" >1898</DATE>
+
+<DATE start="2850" end="2854" id="100012_60" >1899</DATE>
+
+<DATE start="2880" end="2884" id="100012_61" >1900</DATE>
+
+<DATE start="2889" end="2893" id="100012_62" >1901</DATE>
+
+<LEGAL_ROLE start="3202" end="3219" id="100012_63" >plaintiff company</LEGAL_ROLE>
+
+<ORGANIZATION start="3625" end="3630" id="100012_64" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="3987" party="party1" end="3996" id="100012_65" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="4477" end="4487" id="100012_66" >Government</PROFESSION>
+
+<ORGANIZATION start="5507" end="5512" id="100012_70" >Court</ORGANIZATION>
+
+<DATE start="5608" end="5612" id="100012_67" >1898</DATE>
+
+<DATE start="5656" end="5660" id="100012_68" >1901</DATE>
+
+<PERSON start="5875" end="5884" id="100012_71" >Baltimore</PERSON>
+
+<NAME all_names="CAPITALSTOCKINVESTMENTS" start="6041" local_name_id="6" end="6066" id="100012_72" >Capital Stock Investments</NAME>
+
+<DATE start="6651" end="6655" id="100012_69" >1901</DATE>
+
+<ORGANIZATION plural="True" start="6961" end="6972" id="100012_73" >departments</ORGANIZATION>
+
+<ORGANIZATION plural="True" start="7152" end="7163" id="100012_74" >departments</ORGANIZATION>
+
+<ORGANIZATION start="7738" end="7754" id="100012_82" >Fidelity Company</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Banking" citation_local_level_id="3" party1="Canal &amp; Banking Co." alternative_keys="['u.s._99_97']" citation_global_level_id="110.003" end="8766" id="100012_76" id1="Dummy_File_95" standard_reporter="U.S." volume="99" party2="New Orleans" lookup_key="bankingorleans#1" start="8732" page_number="97" party2_short="Orleans" line="19" >Canal &amp; Banking Co. v. New Orleans</CITATION>
+
+<ORGANIZATION party1_of="100012_76" start="8732" end="8751" id="100012_78" >Canal &amp; Banking Co.</ORGANIZATION>
+
+<ORGANIZATION start="8732" end="8750" id="100012_83" >Canal &amp; Banking Co</ORGANIZATION>
+
+<PERSON start="8755" end="8766" id="100012_79" party2_of="100012_76" >New Orleans</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="4" volume="99" reporter="U.S." alternative_keys="['bankingorleans#1']" citation_global_level_id="110.003" end="8778" id="100012_75" id1="Dummy_File_95" standard_reporter="U.S." page_number="97" lookup_key="u.s._99_97" start="8768" line="19" >99 U.S. 97</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Bank" party1="Leather Manufacturers' National Bank" citation_global_level_id="111.001" citation_local_level_id="5" end="9036" id="100012_77" id1="Dummy_File_96" party2="Treat" lookup_key="banktreat#1" start="8991" party2_short="Treat" line="19" >Leather Manufacturers' National Bank v. Treat</CITATION>
+
+<ORGANIZATION party1_of="100012_77" start="8991" end="9027" id="100012_80" >Leather Manufacturers' National Bank</ORGANIZATION>
+
+<PERSON start="9031" end="9036" id="100012_81" party2_of="100012_77" >Treat</PERSON>
+
+<ORGANIZATION plural="True" start="9469" end="9480" id="100012_84" >departments</ORGANIZATION>
+
+<PERSON start="9513" end="9521" id="100012_85" >Congress</PERSON>
+
+<ORGANIZATION plural="True" start="9673" end="9684" id="100012_106" >departments</ORGANIZATION>
+
+<PROFESSION plural="True" start="9728" end="9740" id="100012_107" >legislatures</PROFESSION>
+
+<NAME all_names="STATES" start="9865" local_name_id="1" end="9871" id="100012_108" >States</NAME>
+
+<NAME all_names="STATES" start="9971" local_name_id="1" end="9977" id="100012_109" >States</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Express" citation_local_level_id="6" party1="Adams Express Co." alternative_keys="['u.s._165_194']" citation_global_level_id="112.003" end="10046" id="100012_95" id1="Dummy_File_97" standard_reporter="U.S." volume="165" party2="Ohio" lookup_key="expressohio#1" start="10021" page_number="194" party2_short="Ohio" line="20" >Adams Express Co. v. Ohio</CITATION>
+
+<ORGANIZATION party1_of="100012_95" start="10021" end="10038" id="100012_98" >Adams Express Co.</ORGANIZATION>
+
+<ORGANIZATION start="10021" end="10037" id="100012_110" >Adams Express Co</ORGANIZATION>
+
+<GPE start="10042" end="10046" id="100012_99" party2_of="100012_95" >Ohio</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="7" volume="165" reporter="U.S." alternative_keys="['expressohio#1']" citation_global_level_id="112.003" end="10060" id="100012_91" id1="Dummy_File_97" standard_reporter="U.S." page_number="194" lookup_key="u.s._165_194" start="10048" line="20" >165 U.S. 194</CITATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="166" reporter="U.S." citation_global_level_id="113.001" citation_local_level_id="8" end="10074" id="100012_92" id1="Dummy_File_98" standard_reporter="U.S." page_number="185" lookup_key="u.s._166_185" start="10062" line="20" >166 U.S. 185</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Packing" citation_local_level_id="9" party1="Cudahy Packing Co." alternative_keys="['u.s._246_450']" citation_global_level_id="114.003" end="10107" id="100012_96" id1="Dummy_File_99" standard_reporter="U.S." volume="246" party2="Minnesota" lookup_key="packingminnesota#1" start="10076" page_number="450" party2_short="Minnesota" line="20" >Cudahy Packing Co. v. Minnesota</CITATION>
+
+<ORGANIZATION party1_of="100012_96" start="10076" end="10094" id="100012_100" >Cudahy Packing Co.</ORGANIZATION>
+
+<GPE start="10098" end="10107" id="100012_101" party2_of="100012_96" >Minnesota</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="10" volume="246" reporter="U.S." alternative_keys="['packingminnesota#1']" citation_global_level_id="114.003" end="10121" id="100012_93" id1="Dummy_File_99" standard_reporter="U.S." page_number="450" lookup_key="u.s._246_450" start="10109" line="20" >246 U.S. 450</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Fargo" citation_local_level_id="11" party1="Wells, Fargo &amp; Co." alternative_keys="['u.s._248_165']" citation_global_level_id="115.003" end="10151" id="100012_97" id1="Dummy_File_100" standard_reporter="U.S." volume="248" party2="Nevada" lookup_key="fargonevada#1" start="10123" page_number="165" party2_short="Nevada" line="20" >Wells, Fargo &amp; Co. v. Nevada</CITATION>
+
+<ORGANIZATION party1_of="100012_97" start="10123" end="10141" id="100012_102" >Wells, Fargo &amp; Co.</ORGANIZATION>
+
+<ORGANIZATION start="10130" end="10140" id="100012_111" >Fargo &amp; Co</ORGANIZATION>
+
+<GPE start="10145" end="10151" id="100012_103" party2_of="100012_97" >Nevada</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="12" volume="248" reporter="U.S." alternative_keys="['fargonevada#1']" citation_global_level_id="115.003" end="10165" id="100012_94" id1="Dummy_File_100" standard_reporter="U.S." page_number="165" lookup_key="u.s._248_165" start="10153" line="20" >248 U.S. 165</CITATION>
+
+<NAME all_names="STATE" start="10287" local_name_id="7" end="10292" id="100012_112" >State</NAME>
+
+<NAME all_names="STATE" start="10389" local_name_id="7" end="10394" id="100012_113" >State</NAME>
+
+<DATE start="10521" end="10525" id="100012_104" >1898</DATE>
+
+<PERSON start="10591" end="10599" id="100012_114" >Congress</PERSON>
+
+<ORGANIZATION plural="True" start="10990" end="11001" id="100012_115" >departments</ORGANIZATION>
+
+<PERSON start="11121" end="11129" id="100012_116" >Congress</PERSON>
+
+<DATE start="11130" end="11146" id="100012_105" >October 22, 1914</DATE>
+
+<NAME all_names="STAT" start="11159" local_name_id="4" end="11163" id="100012_117" >Stat</NAME>
+
+<ORGANIZATION start="11412" end="11417" id="100012_127" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="11747" party="party1" end="11756" id="100012_128" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="11860" end="11870" id="100012_129" >Government</PROFESSION>
+
+<DATE start="12004" end="12016" id="100012_141" >May 22, 1914</DATE>
+
+<PROFESSION start="12077" end="12089" id="100012_145" >Commissioner</PROFESSION>
+
+<NAME all_names="INTERNALREVENUE" start="12093" local_name_id="8" end="12109" id="100012_146" >Internal Revenue</NAME>
+
+<ORGANIZATION start="12259" end="12278" id="100012_147" >Treasury Department</ORGANIZATION>
+
+<DATE start="12285" end="12296" id="100012_142" >April, 1917</DATE>
+
+<DATE start="12361" end="12371" id="100012_143" >July, 1918</DATE>
+
+<ORGANIZATION start="12415" end="12420" id="100012_148" >Court</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Kahn" party1="Kahn" citation_global_level_id="116.001" citation_local_level_id="13" end="12485" id="100012_132" id1="Dummy_File_101" party2="United States" lookup_key="kahnstates#1" start="12464" party2_short="States" line="22" >Kahn v. United States</CITATION>
+
+<PERSON party1_of="100012_132" start="12464" end="12468" id="100012_135" >Kahn</PERSON>
+
+<GPE start="12472" end="12485" id="100012_136" party2_of="100012_132" >United States</GPE>
+
+<GPE start="12490" end="12492" id="100012_149" >Ct</GPE>
+
+<NAME all_names="CLMS" start="12494" local_name_id="5" end="12498" id="100012_150" >Clms</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Sage" citation_local_level_id="14" party1="Sage" alternative_keys="['u.s._250_33']" citation_global_level_id="117.003" end="12545" id="100012_133" id1="Dummy_File_102" standard_reporter="U.S." volume="250" party2="United States" lookup_key="sagestates#1" start="12524" page_number="33" party2_short="States" line="22" >Sage v. United States</CITATION>
+
+<PERSON party1_of="100012_133" start="12524" end="12528" id="100012_137" >Sage</PERSON>
+
+<GPE start="12532" end="12545" id="100012_138" party2_of="100012_133" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="15" volume="250" reporter="U.S." alternative_keys="['sagestates#1']" citation_global_level_id="117.003" end="12562" id="100012_130" paragraph_number="39" standard_reporter="U.S." page_number="33" lookup_key="u.s._250_33" start="12547" id1="Dummy_File_102" line="22" >250 U.S. 33, 39</CITATION>
+
+<DATE start="12642" end="12655" id="100012_144" >July 27, 1912</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Henry" citation_local_level_id="16" party1="Henry" alternative_keys="['u.s._251_393']" citation_global_level_id="118.003" end="12696" id="100012_134" id1="Dummy_File_103" standard_reporter="U.S." volume="251" party2="United States" lookup_key="henrystates#1" start="12674" page_number="393" party2_short="States" line="22" >Henry v. United States</CITATION>
+
+<PERSON party1_of="100012_134" start="12674" end="12679" id="100012_139" >Henry</PERSON>
+
+<GPE start="12683" end="12696" id="100012_140" party2_of="100012_134" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="17" volume="251" reporter="U.S." alternative_keys="['henrystates#1']" citation_global_level_id="118.003" end="12715" id="100012_131" paragraph_number="394" standard_reporter="U.S." page_number="393" lookup_key="u.s._251_393" start="12698" id1="Dummy_File_103" line="22" >251 U.S. 393, 394</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Anderson" party1="Anderson" citation_global_level_id="119.001" citation_local_level_id="18" end="12910" id="100012_159" id1="Dummy_File_104" party2="Farmers' Loan &amp; Trust Co" lookup_key="andersontrust#1" start="12874" party2_short="Trust" line="25" >Anderson v. Farmers' Loan &amp; Trust Co</CITATION>
+
+<PERSON party1_of="100012_159" start="12874" end="12882" id="100012_166" >Anderson</PERSON>
+
+<ORGANIZATION start="12886" end="12910" id="100012_167" party2_of="100012_159" >Farmers' Loan &amp; Trust Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Trust" party1="Title Guarantee &amp; Trust Co." citation_global_level_id="120.001" citation_local_level_id="19" end="12963" id="100012_160" id1="Dummy_File_105" party2="Miles" lookup_key="trustmiles#1" start="12927" party2_short="Miles" line="25" >Title Guarantee &amp; Trust Co. v. Miles</CITATION>
+
+<ORGANIZATION party1_of="100012_160" start="12927" end="12954" id="100012_168" >Title Guarantee &amp; Trust Co.</ORGANIZATION>
+
+<ORGANIZATION start="12927" end="12953" id="100012_180" >Title Guarantee &amp; Trust Co</ORGANIZATION>
+
+<PERSON start="12958" end="12963" id="100012_169" party2_of="100012_160" >Miles</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Trust" party1="Real Estate Title Insurance &amp; Trust Co." citation_global_level_id="121.001" citation_local_level_id="20" end="13029" id="100012_161" id1="Dummy_File_106" party2="Lederer" lookup_key="trustlederer#1" start="12979" party2_short="Lederer" line="25" >Real Estate Title Insurance &amp; Trust Co. v. Lederer</CITATION>
+
+<ORGANIZATION party1_of="100012_161" start="12979" end="13018" id="100012_170" >Real Estate Title Insurance &amp; Trust Co.</ORGANIZATION>
+
+<ORGANIZATION start="12979" end="13017" id="100012_181" >Real Estate Title Insurance &amp; Trust Co</ORGANIZATION>
+
+<PERSON start="13022" end="13029" id="100012_171" party2_of="100012_161" >Lederer</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Trust" party1="Central Trust Co." citation_global_level_id="122.001" citation_local_level_id="21" end="13079" id="100012_162" id1="Dummy_File_107" party2="Treat" lookup_key="trusttreat#1" start="13053" party2_short="Treat" line="25" >Central Trust Co. v. Treat</CITATION>
+
+<ORGANIZATION party1_of="100012_162" start="13053" end="13070" id="100012_172" >Central Trust Co.</ORGANIZATION>
+
+<ORGANIZATION start="13053" end="13069" id="100012_182" >Central Trust Co</ORGANIZATION>
+
+<PERSON start="13074" end="13079" id="100012_173" party2_of="100012_162" >Treat</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Treat" party1="Treat" citation_global_level_id="123.001" citation_local_level_id="22" end="13128" id="100012_163" id1="Dummy_File_108" party2="Farmers' Loan &amp; Trust Co" lookup_key="treattrust#1" start="13095" party2_short="Trust" line="25" >Treat v. Farmers' Loan &amp; Trust Co</CITATION>
+
+<PERSON party1_of="100012_163" start="13095" end="13100" id="100012_174" >Treat</PERSON>
+
+<ORGANIZATION start="13104" end="13128" id="100012_175" party2_of="100012_163" >Farmers' Loan &amp; Trust Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Trust" party1="Fidelity Trust Co." citation_global_level_id="124.001" citation_local_level_id="23" end="13172" id="100012_164" id1="Dummy_File_109" party2="Miles" start="13145" party2_short="Miles" line="25" >Fidelity Trust Co. v. Miles</CITATION>
+
+<ORGANIZATION party1_of="100012_164" start="13145" end="13163" id="100012_176" >Fidelity Trust Co.</ORGANIZATION>
+
+<ORGANIZATION start="13145" end="13162" id="100012_183" >Fidelity Trust Co</ORGANIZATION>
+
+<PERSON start="13167" end="13172" id="100012_177" party2_of="100012_164" >Miles</PERSON>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Trust" party1="Germantown Trust Co." citation_global_level_id="125.001" citation_local_level_id="24" end="13219" id="100012_165" id1="Dummy_File_110" party2="Lederer" start="13188" party2_short="Lederer" line="25" >Germantown Trust Co. v. Lederer</CITATION>
+
+<ORGANIZATION party1_of="100012_165" start="13188" end="13208" id="100012_178" >Germantown Trust Co.</ORGANIZATION>
+
+<ORGANIZATION start="13188" end="13207" id="100012_184" >Germantown Trust Co</ORGANIZATION>
+
+<PERSON start="13212" end="13219" id="100012_179" party2_of="100012_165" >Lederer</PERSON>
+
+<RELATION at_date_string="1922" relation_type="asymmetric" at_date="100012_2" theme="100012_1" gram_type="pre_nom" theme_string="259 U.S. 296" id="100012_3" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_6" party1_string="FIDELITY &amp; DEPOSIT COMPANY OF MARYLAND" theme="100012_5" gram_type="infix" theme_string="FIDELITY &amp; DEPOSIT COMPANY OF MARYLAND  v.  UNITED STATES" id="100012_8" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="UNITED STATES" party2="100012_7" theme="100012_5" gram_type="infix" theme_string="FIDELITY &amp; DEPOSIT COMPANY OF MARYLAND  v.  UNITED STATES" id="100012_9" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100012_5" X_vs_Y_string="FIDELITY &amp; DEPOSIT COMPANY OF MARYLAND  v.  UNITED STATES" standard_case_string="259 U.S. 296" standard_case="100012_1" gram_type="multi_line" id="100012_10" ></RELATION>
+
+<RELATION relation_type="asymmetric" theme_string="Lovett" theme="100012_22" gram_type="pre_nom" profession="100012_21" id="100012_26" profession_string="Mr. Assistant Attorney General" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_29" party1_string="Union Trust Co." theme="100012_28" gram_type="infix" theme_string="Union Trust Co. v. United States" id="100012_51" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100012_30" theme="100012_28" gram_type="infix" theme_string="Union Trust Co. v. United States" id="100012_52" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100012_76" X_vs_Y_string="Canal &amp; Banking Co. v. New Orleans" standard_case_string="99 U.S. 97" standard_case="100012_75" gram_type="apposition" id="100012_88" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_78" party1_string="Canal &amp; Banking Co." theme="100012_76" gram_type="infix" theme_string="Canal &amp; Banking Co. v. New Orleans" id="100012_86" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="New Orleans" party2="100012_79" theme="100012_76" gram_type="infix" theme_string="Canal &amp; Banking Co. v. New Orleans" id="100012_87" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_80" party1_string="Leather Manufacturers' National Bank" theme="100012_77" gram_type="infix" theme_string="Leather Manufacturers' National Bank v. Treat" id="100012_89" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Treat" party2="100012_81" theme="100012_77" gram_type="infix" theme_string="Leather Manufacturers' National Bank v. Treat" id="100012_90" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100012_95" X_vs_Y_string="Adams Express Co. v. Ohio" standard_case_string="165 U.S. 194" standard_case="100012_91" gram_type="apposition" id="100012_120" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_98" party1_string="Adams Express Co." theme="100012_95" gram_type="infix" theme_string="Adams Express Co. v. Ohio" id="100012_118" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Ohio" party2="100012_99" theme="100012_95" gram_type="infix" theme_string="Adams Express Co. v. Ohio" id="100012_119" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100012_96" X_vs_Y_string="Cudahy Packing Co. v. Minnesota" standard_case_string="246 U.S. 450" standard_case="100012_93" gram_type="apposition" id="100012_123" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_100" party1_string="Cudahy Packing Co." theme="100012_96" gram_type="infix" theme_string="Cudahy Packing Co. v. Minnesota" id="100012_121" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Minnesota" party2="100012_101" theme="100012_96" gram_type="infix" theme_string="Cudahy Packing Co. v. Minnesota" id="100012_122" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100012_97" X_vs_Y_string="Wells, Fargo &amp; Co. v. Nevada" standard_case_string="248 U.S. 165" standard_case="100012_94" gram_type="apposition" id="100012_126" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_102" party1_string="Wells, Fargo &amp; Co." theme="100012_97" gram_type="infix" theme_string="Wells, Fargo &amp; Co. v. Nevada" id="100012_124" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Nevada" party2="100012_103" theme="100012_97" gram_type="infix" theme_string="Wells, Fargo &amp; Co. v. Nevada" id="100012_125" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_135" party1_string="Kahn" theme="100012_132" gram_type="infix" theme_string="Kahn v. United States" id="100012_151" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100012_136" theme="100012_132" gram_type="infix" theme_string="Kahn v. United States" id="100012_152" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100012_133" X_vs_Y_string="Sage v. United States" standard_case_string="250 U.S. 33, 39" standard_case="100012_130" gram_type="apposition" id="100012_155" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_137" party1_string="Sage" theme="100012_133" gram_type="infix" theme_string="Sage v. United States" id="100012_153" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100012_138" theme="100012_133" gram_type="infix" theme_string="Sage v. United States" id="100012_154" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100012_134" X_vs_Y_string="Henry v. United States" standard_case_string="251 U.S. 393, 394" standard_case="100012_131" gram_type="apposition" id="100012_158" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_139" party1_string="Henry" theme="100012_134" gram_type="infix" theme_string="Henry v. United States" id="100012_156" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100012_140" theme="100012_134" gram_type="infix" theme_string="Henry v. United States" id="100012_157" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_166" party1_string="Anderson" theme="100012_159" gram_type="infix" theme_string="Anderson v. Farmers' Loan &amp; Trust Co" id="100012_185" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Farmers' Loan &amp; Trust Co" party2="100012_167" theme="100012_159" gram_type="infix" theme_string="Anderson v. Farmers' Loan &amp; Trust Co" id="100012_186" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_168" party1_string="Title Guarantee &amp; Trust Co." theme="100012_160" gram_type="infix" theme_string="Title Guarantee &amp; Trust Co. v. Miles" id="100012_187" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Miles" party2="100012_169" theme="100012_160" gram_type="infix" theme_string="Title Guarantee &amp; Trust Co. v. Miles" id="100012_188" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_170" party1_string="Real Estate Title Insurance &amp; Trust Co." theme="100012_161" gram_type="infix" theme_string="Real Estate Title Insurance &amp; Trust Co. v. Lederer" id="100012_189" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Lederer" party2="100012_171" theme="100012_161" gram_type="infix" theme_string="Real Estate Title Insurance &amp; Trust Co. v. Lederer" id="100012_190" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_172" party1_string="Central Trust Co." theme="100012_162" gram_type="infix" theme_string="Central Trust Co. v. Treat" id="100012_191" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Treat" party2="100012_173" theme="100012_162" gram_type="infix" theme_string="Central Trust Co. v. Treat" id="100012_192" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_174" party1_string="Treat" theme="100012_163" gram_type="infix" theme_string="Treat v. Farmers' Loan &amp; Trust Co" id="100012_193" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Farmers' Loan &amp; Trust Co" party2="100012_175" theme="100012_163" gram_type="infix" theme_string="Treat v. Farmers' Loan &amp; Trust Co" id="100012_194" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_176" party1_string="Fidelity Trust Co." theme="100012_164" gram_type="infix" theme_string="Fidelity Trust Co. v. Miles" id="100012_195" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Miles" party2="100012_177" theme="100012_164" gram_type="infix" theme_string="Fidelity Trust Co. v. Miles" id="100012_196" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100012_178" party1_string="Germantown Trust Co." theme="100012_165" gram_type="infix" theme_string="Germantown Trust Co. v. Lederer" id="100012_197" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Lederer" party2="100012_179" theme="100012_165" gram_type="infix" theme_string="Germantown Trust Co. v. Lederer" id="100012_198" ></RELATION>
+

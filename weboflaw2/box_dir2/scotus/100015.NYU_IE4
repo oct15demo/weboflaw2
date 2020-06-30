@@ -1,0 +1,352 @@
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="0" volume="259" party1="CITY OF HOUSTON" reporter="U.S." alternative_keys="['companycity#1', 'citycompany#1']" citation_global_level_id="170.004" end="13" id="100015_1" id1="Dummy_File_155" standard_reporter="U.S." page_number="318" party2="SOUTHWESTERN BELL TELEPHONE COMPANY" lookup_key="u.s._259_318" start="1" party2_short="COMPANY" party1_short="CITY" line="2" >259 U.S. 318</CITATION>
+
+<DATE start="14" citation_local_level_id="0" end="18" id="100015_2" citation_global_level_id="170.004" >1922</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="CITY" citation_local_level_id="1" party1="CITY OF HOUSTON" alternative_keys="['u.s._259_318', 'companycity#1']" citation_global_level_id="170.004" end="76" id="100015_5" id1="Dummy_File_155" party2="SOUTHWESTERN BELL TELEPHONE COMPANY" lookup_key="citycompany#1" start="20" party2_short="COMPANY" line="5" >CITY OF HOUSTON v. SOUTHWESTERN BELL TELEPHONE COMPANY</CITATION>
+
+<NAME all_names="CITYOFHOUSTON" party1_of="100015_5" start="20" local_name_id="1" end="35" id="100015_6" >CITY OF HOUSTON</NAME>
+
+<ORGANIZATION start="41" end="76" id="100015_7" party2_of="100015_5" >SOUTHWESTERN BELL TELEPHONE COMPANY</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="COMPANY" citation_local_level_id="2" party1="SOUTHWESTERN BELL TELEPHONE COMPANY" alternative_keys="['u.s._259_318', 'citycompany#1']" citation_global_level_id="170.004" end="135" id="100015_12" id1="Dummy_File_155" party2="CITY OF HOUSTON" lookup_key="companycity#1" start="79" party2_short="CITY" line="8" >SOUTHWESTERN BELL TELEPHONE COMPANY v. CITY OF HOUSTON</CITATION>
+
+<ORGANIZATION party1_of="100015_12" start="79" end="114" id="100015_13" >SOUTHWESTERN BELL TELEPHONE COMPANY</ORGANIZATION>
+
+<NAME all_names="CITYOFHOUSTON" start="120" local_name_id="1" end="135" id="100015_14" party2_of="100015_12" >CITY OF HOUSTON</NAME>
+
+<ORGANIZATION start="152" end="165" id="100015_19" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="176" local_name_id="2" end="182" id="100015_20" >States</NAME>
+
+<DATE start="205" end="209" id="100015_21" >1922</DATE>
+
+<DATE start="219" end="231" id="100015_22" >May 29, 1922</DATE>
+
+<ORGANIZATION start="250" end="320" id="100015_23" >DISTRICT COURT OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF TEXAS</ORGANIZATION>
+
+<PERSON start="327" end="342" id="100015_24" >Mr. W.J. Howard</PERSON>
+
+<PERSON plural="True" start="347" end="362" id="100015_25" >Mr. Sewall Myer</PERSON>
+
+<NAME all_names="CITY" start="418" local_name_id="3" end="422" id="100015_26" >City</NAME>
+
+<PERSON start="426" end="433" id="100015_27" >Houston</PERSON>
+
+<PERSON start="435" end="452" id="100015_28" >Mr. C.M. Bracelen</PERSON>
+
+<PERSON plural="True" start="457" end="476" id="100015_29" >Mr. Nelson Phillips</PERSON>
+
+<PERSON start="488" end="501" id="100015_30" >Mr. W.H. Duls</PERSON>
+
+<PERSON start="506" end="523" id="100015_31" >Mr. N.T. Guernsey</PERSON>
+
+<ORGANIZATION start="547" end="577" id="100015_32" >Southwestern Bell Telephone Co</ORGANIZATION>
+
+<PROFESSION start="579" end="597" id="100015_33" >MR. JUSTICE CLARKE</PROFESSION>
+
+<NAME all_names="CITY" start="727" local_name_id="3" end="731" id="100015_34" >City</NAME>
+
+<PERSON start="735" end="742" id="100015_35" >Houston</PERSON>
+
+<GPE start="744" end="749" id="100015_36" >Texas</GPE>
+
+<NAME all_names="CITY" start="781" local_name_id="3" end="785" id="100015_37" >City</NAME>
+
+<PROFESSION start="887" end="893" id="100015_38" >master</PROFESSION>
+
+<ORGANIZATION start="979" end="993" id="100015_39" >District Court</ORGANIZATION>
+
+<GPE start="1251" end="1256" id="100015_41" >Texas</GPE>
+
+<DATE start="1269" end="1273" id="100015_40" >1876</DATE>
+
+<PROFESSION start="1442" end="1453" id="100015_42" >legislature</PROFESSION>
+
+<GPE start="1598" end="1603" id="100015_55" >Texas</GPE>
+
+<NAME all_names="STATE" start="1624" local_name_id="4" end="1629" id="100015_56" >State</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Traction" citation_local_level_id="3" party1="San Antonio Traction Co." alternative_keys="['u.s._200_304']" citation_global_level_id="171.003" end="1906" id="100015_46" id1="Dummy_File_156" standard_reporter="U.S." volume="200" party2="Altgelt" lookup_key="tractionaltgelt#1" start="1871" page_number="304" party2_short="Altgelt" line="21" >San Antonio Traction Co. v. Altgelt</CITATION>
+
+<ORGANIZATION party1_of="100015_46" start="1871" end="1895" id="100015_49" >San Antonio Traction Co.</ORGANIZATION>
+
+<ORGANIZATION start="1871" end="1894" id="100015_57" >San Antonio Traction Co</ORGANIZATION>
+
+<NAME all_names="ALTGELT" start="1899" local_name_id="5" end="1906" id="100015_50" party2_of="100015_46" >Altgelt</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="4" volume="200" reporter="U.S." alternative_keys="['tractionaltgelt#1']" citation_global_level_id="171.003" end="1920" id="100015_43" id1="Dummy_File_156" standard_reporter="U.S." page_number="304" lookup_key="u.s._200_304" start="1908" line="21" >200 U.S. 304</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Antonio" citation_local_level_id="5" party1="San Antonio" alternative_keys="['u.s._255_547']" citation_global_level_id="172.003" end="1966" id="100015_47" id1="Dummy_File_157" standard_reporter="U.S." volume="255" party2="San Antonio Public Service Co" lookup_key="antonioservice#1" start="1922" page_number="547" party2_short="Service" line="21" >San Antonio v. San Antonio Public Service Co</CITATION>
+
+<PERSON party1_of="100015_47" start="1922" end="1933" id="100015_51" >San Antonio</PERSON>
+
+<ORGANIZATION start="1937" end="1966" id="100015_52" party2_of="100015_47" >San Antonio Public Service Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="6" volume="255" reporter="U.S." alternative_keys="['antonioservice#1']" citation_global_level_id="172.003" end="1981" id="100015_44" id1="Dummy_File_157" standard_reporter="U.S." page_number="547" lookup_key="u.s._255_547" start="1969" line="21" >255 U.S. 547</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Electric" citation_local_level_id="7" party1="Southern Iowa Electric Co." alternative_keys="['u.s._255_539']" citation_global_level_id="173.003" end="2025" id="100015_48" id1="Dummy_File_158" standard_reporter="U.S." volume="255" party2="Chariton" lookup_key="electricchariton#1" start="1987" page_number="539" party2_short="Chariton" line="21" >Southern Iowa Electric Co. v. Chariton</CITATION>
+
+<ORGANIZATION party1_of="100015_48" start="1987" end="2013" id="100015_53" >Southern Iowa Electric Co.</ORGANIZATION>
+
+<ORGANIZATION start="1987" end="2012" id="100015_58" >Southern Iowa Electric Co</ORGANIZATION>
+
+<NAME all_names="CHARITON" start="2017" local_name_id="6" end="2025" id="100015_54" party2_of="100015_48" >Chariton</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="8" volume="255" reporter="U.S." alternative_keys="['electricchariton#1']" citation_global_level_id="173.003" end="2039" id="100015_45" id1="Dummy_File_158" standard_reporter="U.S." page_number="539" lookup_key="u.s._255_539" start="2027" line="21" >255 U.S. 539</CITATION>
+
+<DATE start="2083" end="2087" id="100015_68" >1909</DATE>
+
+<DATE start="2200" end="2204" id="100015_69" >1915</DATE>
+
+<LEGAL_ROLE start="2209" party="party2" end="2217" id="100015_70" >appellee</LEGAL_ROLE>
+
+<ORGANIZATION start="2234" end="2269" id="100015_71" >Southwestern Bell Telephone Company</ORGANIZATION>
+
+<ORGANIZATION start="2301" end="2308" id="100015_72" >Company</ORGANIZATION>
+
+<ORGANIZATION start="2392" end="2422" id="100015_73" >Houston Home Telephone Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="2469" local_name_id="3" end="2473" id="100015_74" >City</NAME>
+
+<ORGANIZATION start="2543" end="2550" id="100015_75" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="2638" local_name_id="3" end="2642" id="100015_76" >City</NAME>
+
+<PERSON start="2646" end="2653" id="100015_77" >Houston</PERSON>
+
+<PERSON start="2861" end="2868" id="100015_78" >Houston</PERSON>
+
+<NAME all_names="CITY" start="2904" local_name_id="3" end="2908" id="100015_79" >City</NAME>
+
+<ORGANIZATION start="2958" end="2965" id="100015_80" >Company</ORGANIZATION>
+
+<ORGANIZATION start="3145" end="3152" id="100015_81" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="3227" local_name_id="3" end="3231" id="100015_82" >City</NAME>
+
+<PROFESSION start="3345" end="3351" id="100015_85" >master</PROFESSION>
+
+<ORGANIZATION start="3471" end="3478" id="100015_86" >Company</ORGANIZATION>
+
+<DATE start="3552" end="3556" id="100015_83" >1919</DATE>
+
+<ORGANIZATION start="3585" end="3592" id="100015_87" >Company</ORGANIZATION>
+
+<DATE start="3614" end="3618" id="100015_84" >1919</DATE>
+
+<ORGANIZATION start="3756" end="3763" id="100015_88" >Company</ORGANIZATION>
+
+<PROFESSION start="3890" end="3896" id="100015_91" >master</PROFESSION>
+
+<ORGANIZATION start="3902" end="3916" id="100015_92" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="3934" end="3941" id="100015_93" >Company</ORGANIZATION>
+
+<DATE start="3979" end="3983" id="100015_89" >1915</DATE>
+
+<ORGANIZATION start="4150" end="4157" id="100015_94" >Company</ORGANIZATION>
+
+<PROFESSION start="4275" end="4281" id="100015_95" >master</PROFESSION>
+
+<ORGANIZATION start="4421" end="4428" id="100015_96" >Company</ORGANIZATION>
+
+<DATE start="4512" end="4516" id="100015_90" >1919</DATE>
+
+<ORGANIZATION start="4565" end="4579" id="100015_97" >District Court</ORGANIZATION>
+
+<NAME all_names="CITY" start="4784" local_name_id="3" end="4788" id="100015_99" >City</NAME>
+
+<NAME all_names="CITY" start="4842" local_name_id="3" end="4846" id="100015_100" >City</NAME>
+
+<DATE start="5037" end="5041" id="100015_98" >1909</DATE>
+
+<ORGANIZATION start="5105" end="5112" id="100015_101" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="5199" local_name_id="3" end="5203" id="100015_102" >City</NAME>
+
+<NAME all_names="CITY" start="5469" local_name_id="3" end="5473" id="100015_103" >City</NAME>
+
+<ORGANIZATION start="5575" end="5582" id="100015_104" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="5828" local_name_id="3" end="5832" id="100015_105" >City</NAME>
+
+<ORGANIZATION start="5970" end="5977" id="100015_106" >Company</ORGANIZATION>
+
+<ORGANIZATION start="6063" end="6070" id="100015_107" >Company</ORGANIZATION>
+
+<PERSON start="6093" end="6100" id="100015_108" >Houston</PERSON>
+
+<GPE start="6231" end="6236" id="100015_109" >Texas</GPE>
+
+<NAME all_names="STATES" start="6255" local_name_id="2" end="6261" id="100015_110" >States</NAME>
+
+<ORGANIZATION start="6615" end="6622" id="100015_111" >Company</ORGANIZATION>
+
+<PERSON start="6779" end="6786" id="100015_112" >Houston</PERSON>
+
+<NAME all_names="CITY" start="6879" local_name_id="3" end="6883" id="100015_113" >City</NAME>
+
+<PROFESSION start="6987" end="6993" id="100015_114" >master</PROFESSION>
+
+<NAME all_names="STATE" start="7137" local_name_id="4" end="7142" id="100015_115" >State</NAME>
+
+<GPE start="7146" end="7151" id="100015_116" >Texas</GPE>
+
+<ORGANIZATION start="7272" end="7279" id="100015_117" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="7569" local_name_id="3" end="7573" id="100015_118" >City</NAME>
+
+<ORGANIZATION start="7631" end="7645" id="100015_119" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="7740" end="7778" id="100015_120" >American Telephone &amp; Telegraph Company</ORGANIZATION>
+
+<ORGANIZATION start="7822" end="7829" id="100015_121" >Company</ORGANIZATION>
+
+<ORGANIZATION start="7871" end="7895" id="100015_122" >Western Electric Company</ORGANIZATION>
+
+<ORGANIZATION start="7906" end="7944" id="100015_123" >American Telephone &amp; Telegraph Company</ORGANIZATION>
+
+<ORGANIZATION start="7949" end="7956" id="100015_124" >Company</ORGANIZATION>
+
+<ORGANIZATION start="8035" end="8059" id="100015_125" >Western Electric Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="8179" local_name_id="3" end="8183" id="100015_126" >City</NAME>
+
+<ORGANIZATION start="8368" end="8375" id="100015_127" >Company</ORGANIZATION>
+
+<ORGANIZATION start="8471" end="8478" id="100015_128" >Company</ORGANIZATION>
+
+<ORGANIZATION start="8912" end="8950" id="100015_129" >American Telephone &amp; Telegraph Company</ORGANIZATION>
+
+<ORGANIZATION start="8966" end="8973" id="100015_130" >Company</ORGANIZATION>
+
+<ORGANIZATION start="8982" end="9006" id="100015_131" >Western Electric Company</ORGANIZATION>
+
+<ORGANIZATION start="9148" end="9155" id="100015_132" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="9248" local_name_id="3" end="9252" id="100015_133" >City</NAME>
+
+<ORGANIZATION start="9298" end="9305" id="100015_134" >Company</ORGANIZATION>
+
+<ORGANIZATION start="9404" end="9411" id="100015_147" >Company</ORGANIZATION>
+
+<ORGANIZATION start="9448" end="9462" id="100015_148" >District Court</ORGANIZATION>
+
+<DATE start="9497" end="9501" id="100015_144" >1915</DATE>
+
+<ORGANIZATION start="9514" end="9521" id="100015_149" >Company</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Willcox" citation_local_level_id="9" party1="Willcox" alternative_keys="['u.s._212_19']" citation_global_level_id="174.003" end="9746" id="100015_138" id1="Dummy_File_159" standard_reporter="U.S." volume="212" party2="Consolidated Gas Co" lookup_key="willcoxgas#1" start="9716" page_number="19" party2_short="Gas" line="31" >Willcox v. Consolidated Gas Co</CITATION>
+
+<PERSON party1_of="100015_138" start="9716" end="9723" id="100015_140" >Willcox</PERSON>
+
+<ORGANIZATION start="9727" end="9746" id="100015_141" party2_of="100015_138" >Consolidated Gas Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="10" volume="212" reporter="U.S." alternative_keys="['willcoxgas#1']" citation_global_level_id="174.003" end="9764" id="100015_135" paragraph_number="52" standard_reporter="U.S." page_number="19" lookup_key="u.s._212_19" start="9749" id1="Dummy_File_159" line="31" >212 U.S. 19, 52</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="11" alternative_keys="['u.s._230_352']" name="Minnesota Rate Cases" citation_global_level_id="175.003" end="9786" id="100015_146" id1="Dummy_File_160" standard_reporter="U.S." volume="230" lookup_key="minnesotaratecases#1" start="9766" page_number="352" line="31" >Minnesota Rate Cases</CITATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="12" volume="230" reporter="U.S." alternative_keys="['minnesotaratecases#1']" name="Minnesota Rate Cases" citation_global_level_id="175.003" end="9800" id="100015_136" id1="Dummy_File_160" standard_reporter="U.S." page_number="352" lookup_key="u.s._230_352" start="9788" line="31" >230 U.S. 352</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Denver" citation_local_level_id="13" party1="Denver" alternative_keys="['u.s._246_178']" citation_global_level_id="176.003" end="9833" id="100015_139" id1="Dummy_File_161" standard_reporter="U.S." volume="246" party2="Denver Union Water Co" lookup_key="denverwater#1" start="9802" page_number="178" party2_short="Water" line="31" >Denver v. Denver Union Water Co</CITATION>
+
+<PERSON party1_of="100015_139" start="9802" end="9808" id="100015_142" >Denver</PERSON>
+
+<ORGANIZATION start="9812" end="9833" id="100015_143" party2_of="100015_139" >Denver Union Water Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="14" volume="246" reporter="U.S." alternative_keys="['denverwater#1']" citation_global_level_id="176.003" end="9848" id="100015_137" id1="Dummy_File_161" standard_reporter="U.S." page_number="178" lookup_key="u.s._246_178" start="9836" line="31" >246 U.S. 178</CITATION>
+
+<DATE start="9923" end="9927" id="100015_145" >1915</DATE>
+
+<ORGANIZATION start="9960" end="9967" id="100015_150" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="10022" local_name_id="3" end="10026" id="100015_151" >City</NAME>
+
+<ORGANIZATION start="10034" end="10041" id="100015_152" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="10190" local_name_id="3" end="10194" id="100015_153" >City</NAME>
+
+<ORGANIZATION start="10419" end="10426" id="100015_154" >Company</ORGANIZATION>
+
+<NAME all_names="CITY" start="10701" local_name_id="3" end="10705" id="100015_155" >City</NAME>
+
+<ORGANIZATION start="10877" end="10891" id="100015_156" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="11020" end="11027" id="100015_157" >Company</ORGANIZATION>
+
+<PROFESSION start="11061" end="11067" id="100015_165" >master</PROFESSION>
+
+<ORGANIZATION start="11178" end="11185" id="100015_166" >Company</ORGANIZATION>
+
+<PROFESSION start="11628" end="11634" id="100015_167" >master</PROFESSION>
+
+<ORGANIZATION start="11699" end="11706" id="100015_168" >Company</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Electric" citation_local_level_id="15" party1="Company Galveston Electric Co." alternative_keys="['u.s._258_388']" citation_global_level_id="177.003" end="11950" id="100015_170" id1="Dummy_File_162" standard_reporter="U.S." volume="258" party2="Galveston" lookup_key="electricgalveston#1" start="11907" page_number="388" party2_short="Galveston" line="33" >Company Galveston Electric Co. v. Galveston</CITATION>
+
+<ORGANIZATION party1_of="100015_170" start="11907" end="11937" id="100015_171" >Company Galveston Electric Co.</ORGANIZATION>
+
+<ORGANIZATION start="11907" end="11914" id="100015_173" >Company</ORGANIZATION>
+
+<NAME all_names="GALVESTON" start="11941" local_name_id="7" end="11950" id="100015_172" party2_of="100015_170" >Galveston</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="16" volume="258" reporter="U.S." alternative_keys="['electricgalveston#1']" citation_global_level_id="177.003" end="11964" id="100015_169" id1="Dummy_File_162" standard_reporter="U.S." page_number="388" lookup_key="u.s._258_388" start="11952" line="33" >258 U.S. 388</CITATION>
+
+<NAME all_names="RULE" start="12366" local_name_id="8" end="12370" id="100015_177" >Rule</NAME>
+
+<ORGANIZATION start="13225" end="13239" id="100015_178" >District Court</ORGANIZATION>
+
+<PROFESSION start="13258" end="13278" id="100015_179" >MR. JUSTICE BRANDEIS</PROFESSION>
+
+<RELATION at_date_string="1922" relation_type="asymmetric" at_date="100015_2" theme="100015_1" gram_type="pre_nom" theme_string="259 U.S. 318" id="100015_3" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100015_6" party1_string="CITY OF HOUSTON" theme="100015_5" gram_type="infix" theme_string="CITY OF HOUSTON  v.  SOUTHWESTERN BELL TELEPHONE COMPANY" id="100015_8" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="SOUTHWESTERN BELL TELEPHONE COMPANY" party2="100015_7" theme="100015_5" gram_type="infix" theme_string="CITY OF HOUSTON  v.  SOUTHWESTERN BELL TELEPHONE COMPANY" id="100015_9" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100015_13" party1_string="SOUTHWESTERN BELL TELEPHONE COMPANY" theme="100015_12" gram_type="infix" theme_string="SOUTHWESTERN BELL TELEPHONE COMPANY  v.  CITY OF HOUSTON" id="100015_15" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="CITY OF HOUSTON" party2="100015_14" theme="100015_12" gram_type="infix" theme_string="SOUTHWESTERN BELL TELEPHONE COMPANY  v.  CITY OF HOUSTON" id="100015_16" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100015_12" X_vs_Y_string="SOUTHWESTERN BELL TELEPHONE COMPANY  v.  CITY OF HOUSTON" standard_case_string="259 U.S. 318" standard_case="100015_1" gram_type="multi_line" id="100015_18" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100015_5" X_vs_Y_string="CITY OF HOUSTON  v.  SOUTHWESTERN BELL TELEPHONE COMPANY" standard_case_string="259 U.S. 318" standard_case="100015_1" gram_type="multi_line" id="100015_17" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100015_46" X_vs_Y_string="San Antonio Traction Co. v. Altgelt" standard_case_string="200 U.S. 304" standard_case="100015_43" gram_type="apposition" id="100015_61" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100015_49" party1_string="San Antonio Traction Co." theme="100015_46" gram_type="infix" theme_string="San Antonio Traction Co. v. Altgelt" id="100015_59" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Altgelt" party2="100015_50" theme="100015_46" gram_type="infix" theme_string="San Antonio Traction Co. v. Altgelt" id="100015_60" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100015_47" X_vs_Y_string="San Antonio v. San Antonio Public Service Co" standard_case_string="255 U.S. 547" standard_case="100015_44" gram_type="apposition" id="100015_64" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100015_51" party1_string="San Antonio" theme="100015_47" gram_type="infix" theme_string="San Antonio v. San Antonio Public Service Co" id="100015_62" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="San Antonio Public Service Co" party2="100015_52" theme="100015_47" gram_type="infix" theme_string="San Antonio v. San Antonio Public Service Co" id="100015_63" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100015_48" X_vs_Y_string="Southern Iowa Electric Co. v. Chariton" standard_case_string="255 U.S. 539" standard_case="100015_45" gram_type="apposition" id="100015_67" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100015_53" party1_string="Southern Iowa Electric Co." theme="100015_48" gram_type="infix" theme_string="Southern Iowa Electric Co. v. Chariton" id="100015_65" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Chariton" party2="100015_54" theme="100015_48" gram_type="infix" theme_string="Southern Iowa Electric Co. v. Chariton" id="100015_66" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100015_138" X_vs_Y_string="Willcox v. Consolidated Gas Co" standard_case_string="212 U.S. 19, 52" standard_case="100015_135" gram_type="apposition" id="100015_160" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100015_140" party1_string="Willcox" theme="100015_138" gram_type="infix" theme_string="Willcox v. Consolidated Gas Co" id="100015_158" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Consolidated Gas Co" party2="100015_141" theme="100015_138" gram_type="infix" theme_string="Willcox v. Consolidated Gas Co" id="100015_159" ></RELATION>
+
+<RELATION case_citation_other_string="Minnesota Rate Cases" relation_type="equivalence" case_citation_other="100015_146" standard_case_string="230 U.S. 352" standard_case="100015_136" gram_type="apposition" id="100015_161" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100015_139" X_vs_Y_string="Denver v. Denver Union Water Co" standard_case_string="246 U.S. 178" standard_case="100015_137" gram_type="apposition" id="100015_164" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100015_142" party1_string="Denver" theme="100015_139" gram_type="infix" theme_string="Denver v. Denver Union Water Co" id="100015_162" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Denver Union Water Co" party2="100015_143" theme="100015_139" gram_type="infix" theme_string="Denver v. Denver Union Water Co" id="100015_163" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100015_170" X_vs_Y_string="Company Galveston Electric Co. v. Galveston" standard_case_string="258 U.S. 388" standard_case="100015_169" gram_type="apposition" id="100015_176" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100015_171" party1_string="Company Galveston Electric Co." theme="100015_170" gram_type="infix" theme_string="Company Galveston Electric Co. v. Galveston" id="100015_174" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Galveston" party2="100015_172" theme="100015_170" gram_type="infix" theme_string="Company Galveston Electric Co. v. Galveston" id="100015_175" ></RELATION>
+

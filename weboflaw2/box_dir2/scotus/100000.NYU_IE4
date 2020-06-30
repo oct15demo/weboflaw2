@@ -1,0 +1,128 @@
+<CITATION no_current_file="True" entry_type="standard_key" volume="259" reporter="U.S." citation_global_level_id="168.001" citation_local_level_id="0" end="13" id="100000_1" id1="Dummy_File_153" standard_reporter="U.S." page_number="188" lookup_key="u.s._259_188" start="1" line="2" >259 U.S. 188</CITATION>
+
+<DATE start="14" citation_local_level_id="0" end="18" id="100000_2" citation_global_level_id="168.001" >1922</DATE>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="COMPANY" citation_local_level_id="1" party1="MORRISDALE COAL COMPANY" alternative_keys="['u.s._259_188']" citation_global_level_id="168.002" end="62" id="100000_6" id1="Dummy_File_153" party2="UNITED STATES" start="20" party2_short="STATES" line="5" >MORRISDALE COAL COMPANY v. UNITED STATES</CITATION>
+
+<ORGANIZATION party1_of="100000_6" start="20" end="43" id="100000_7" >MORRISDALE COAL COMPANY</ORGANIZATION>
+
+<GPE start="49" end="62" id="100000_8" party2_of="100000_6" >UNITED STATES</GPE>
+
+<ORGANIZATION start="72" end="85" id="100000_12" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="96" local_name_id="1" end="102" id="100000_13" >States</NAME>
+
+<DATE start="125" end="129" id="100000_14" >1922</DATE>
+
+<DATE start="139" end="151" id="100000_15" >May 29, 1922</DATE>
+
+<ORGANIZATION start="169" end="174" id="100000_16" >COURT</ORGANIZATION>
+
+<NAME all_names="OFCLAIMS" start="175" local_name_id="2" end="184" id="100000_17" >OF CLAIMS</NAME>
+
+<PERSON start="191" end="209" id="100000_18" >Mr. Gibbs L. Baker</PERSON>
+
+<PERSON plural="True" start="221" end="242" id="100000_19" >Mr. Karl Knox Gartner</PERSON>
+
+<LEGAL_ROLE start="265" party="party1" end="274" id="100000_20" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="276" party="RITER" end="306" id="100000_21" document_level_name_id="3" >Mr. Assistant Attorney General</PROFESSION>
+
+<PERSON start="307" end="312" id="100000_22" >Riter</PERSON>
+
+<PROFESSION start="324" party="BECK" end="345" id="100000_23" document_level_name_id="3" >Mr. Solicitor General</PROFESSION>
+
+<NAME all_names="BECK" start="346" local_name_id="3" end="350" id="100000_24" >Beck</NAME>
+
+<PERSON start="355" end="378" id="100000_25" >Mr. Charles S. Lawrence</PERSON>
+
+<NAME all_names="STATES" start="413" local_name_id="1" end="419" id="100000_26" >States</NAME>
+
+<PROFESSION start="421" end="439" id="100000_29" >MR. JUSTICE HOLMES</PROFESSION>
+
+<ORGANIZATION start="517" end="522" id="100000_31" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="548" party="party1" end="557" id="100000_32" >appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="614" end="622" id="100000_33" >claimant</LEGAL_ROLE>
+
+<DATE start="751" end="765" id="100000_30" >November, 1918</DATE>
+
+<ORGANIZATION start="811" end="830" id="100000_34" >Fuel Administration</ORGANIZATION>
+
+<PROFESSION start="848" end="857" id="100000_35" >President</PROFESSION>
+
+<LEGAL_ROLE start="902" end="912" id="100000_36" >petitioner</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1053" end="1061" id="100000_37" >claimant</LEGAL_ROLE>
+
+<NAME all_names="STATES" start="1152" local_name_id="1" end="1158" id="100000_38" >States</NAME>
+
+<NAME all_names="STATES" start="1213" local_name_id="1" end="1219" id="100000_40" >States</NAME>
+
+<LEGAL_ROLE start="1286" end="1294" id="100000_41" >claimant</LEGAL_ROLE>
+
+<ORGANIZATION start="1314" end="1333" id="100000_42" >Fuel Administration</ORGANIZATION>
+
+<LEGAL_ROLE start="1495" end="1506" id="100000_43" >prosecution</LEGAL_ROLE>
+
+<ORGANIZATION start="1523" end="1542" id="100000_44" >Fuel Administration</ORGANIZATION>
+
+<PROFESSION start="1577" end="1586" id="100000_45" >President</PROFESSION>
+
+<DATE start="1633" end="1648" id="100000_39" >August 10, 1917</DATE>
+
+<NAME all_names="STAT" start="1666" local_name_id="4" end="1670" id="100000_46" >Stat</NAME>
+
+<NAME all_names="STAT" start="1883" local_name_id="4" end="1887" id="100000_47" >Stat</NAME>
+
+<LEGAL_ROLE start="1898" end="1906" id="100000_48" >claimant</LEGAL_ROLE>
+
+<NAME all_names="JUDICIALCODE" start="2088" local_name_id="5" end="2101" id="100000_49" >Judicial Code</NAME>
+
+<ORGANIZATION start="2113" end="2118" id="100000_50" >Court</ORGANIZATION>
+
+<PROFESSION start="2200" end="2210" id="100000_51" >Government</PROFESSION>
+
+<PROFESSION start="2281" end="2291" id="100000_52" >Government</PROFESSION>
+
+<LEGAL_ROLE start="2462" end="2470" id="100000_56" >claimant</LEGAL_ROLE>
+
+<PROFESSION start="2646" end="2656" id="100000_57" >Government</PROFESSION>
+
+<PROFESSION start="3088" end="3096" id="100000_58" >lawmaker</PROFESSION>
+
+<PROFESSION start="3140" end="3150" id="100000_59" >Government</PROFESSION>
+
+<LEGAL_ROLE start="3175" end="3183" id="100000_60" >claimant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="3339" end="3347" id="100000_61" >claimant</LEGAL_ROLE>
+
+<PROFESSION start="3392" end="3402" id="100000_62" >Government</PROFESSION>
+
+<PROFESSION start="3553" end="3563" id="100000_63" >Government</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Refining" party1="American Smelting &amp; Refining Co." citation_global_level_id="169.001" citation_local_level_id="2" end="3633" id="100000_53" id1="Dummy_File_154" party2="United States" lookup_key="refiningstates#1" start="3584" party2_short="States" line="16" >American Smelting &amp; Refining Co. v. United States</CITATION>
+
+<ORGANIZATION party1_of="100000_53" start="3584" end="3616" id="100000_54" >American Smelting &amp; Refining Co.</ORGANIZATION>
+
+<ORGANIZATION start="3584" end="3615" id="100000_64" >American Smelting &amp; Refining Co</ORGANIZATION>
+
+<GPE start="3620" end="3633" id="100000_55" party2_of="100000_53" >United States</GPE>
+
+<RELATION at_date_string="1922" relation_type="asymmetric" at_date="100000_2" theme="100000_1" gram_type="pre_nom" theme_string="259 U.S. 188" id="100000_3" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="UNITED STATES" party2="100000_8" theme="100000_6" gram_type="infix" theme_string="MORRISDALE COAL COMPANY  v.  UNITED STATES" id="100000_10" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100000_7" party1_string="MORRISDALE COAL COMPANY" theme="100000_6" gram_type="infix" theme_string="MORRISDALE COAL COMPANY  v.  UNITED STATES" id="100000_9" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100000_6" X_vs_Y_string="MORRISDALE COAL COMPANY  v.  UNITED STATES" standard_case_string="259 U.S. 188" standard_case="100000_1" gram_type="multi_line" id="100000_11" ></RELATION>
+
+<RELATION relation_type="asymmetric" theme_string="Riter" theme="100000_22" gram_type="pre_nom" profession="100000_21" id="100000_27" profession_string="Mr. Assistant Attorney General" ></RELATION>
+
+<RELATION relation_type="asymmetric" theme_string="Beck" theme="100000_24" gram_type="pre_nom" profession="100000_23" id="100000_28" profession_string="Mr. Solicitor General" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100000_54" party1_string="American Smelting &amp; Refining Co." theme="100000_53" gram_type="infix" theme_string="American Smelting &amp; Refining Co. v. United States" id="100000_65" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100000_55" theme="100000_53" gram_type="infix" theme_string="American Smelting &amp; Refining Co. v. United States" id="100000_66" ></RELATION>
+

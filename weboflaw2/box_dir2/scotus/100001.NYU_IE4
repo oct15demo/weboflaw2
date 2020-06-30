@@ -1,0 +1,142 @@
+<CITATION no_current_file="True" entry_type="standard_key" volume="259" reporter="U.S." citation_global_level_id="180.001" citation_local_level_id="0" end="13" id="100001_1" id1="Dummy_File_165" standard_reporter="U.S." page_number="191" lookup_key="u.s._259_191" start="1" line="2" >259 U.S. 191</CITATION>
+
+<DATE start="14" citation_local_level_id="0" end="18" id="100001_2" citation_global_level_id="180.001" >1922</DATE>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="COMPANY" citation_local_level_id="1" party1="PINE HILL COAL COMPANY, INC." alternative_keys="['u.s._259_191']" citation_global_level_id="180.002" end="67" id="100001_5" id1="Dummy_File_165" party2="UNITED STATES" start="20" party2_short="STATES" line="5" >PINE HILL COAL COMPANY, INC. v. UNITED STATES</CITATION>
+
+<ORGANIZATION party1_of="100001_5" start="20" end="48" id="100001_6" >PINE HILL COAL COMPANY, INC.</ORGANIZATION>
+
+<ORGANIZATION start="20" end="47" id="100001_8" >PINE HILL COAL COMPANY, INC</ORGANIZATION>
+
+<GPE start="54" end="67" id="100001_7" party2_of="100001_5" >UNITED STATES</GPE>
+
+<ORGANIZATION start="78" end="91" id="100001_12" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="102" local_name_id="1" end="108" id="100001_13" >States</NAME>
+
+<DATE start="117" end="133" id="100001_14" >January 20, 1922</DATE>
+
+<DATE start="143" end="155" id="100001_15" >May 29, 1922</DATE>
+
+<ORGANIZATION start="173" end="178" id="100001_16" >COURT</ORGANIZATION>
+
+<NAME all_names="OFCLAIMS" start="179" local_name_id="2" end="188" id="100001_17" >OF CLAIMS</NAME>
+
+<PERSON plural="True" start="190" end="214" id="100001_18" >Mr. Henry S. Drinker, Jr</PERSON>
+
+<PERSON plural="True" start="227" end="247" id="100001_19" >Mr. Thomas Reath, Jr</PERSON>
+
+<PERSON plural="True" start="250" end="274" id="100001_20" >Mr. Percy C. Madeira, Jr</PERSON>
+
+<PERSON start="277" end="298" id="100001_21" >Mr. Douglas M. Moffat</PERSON>
+
+<PERSON plural="True" start="303" end="329" id="100001_22" >Mr. William A. Glasgow, Jr</PERSON>
+
+<LEGAL_ROLE start="355" party="party1" end="364" id="100001_23" >appellant</LEGAL_ROLE>
+
+<PROFESSION start="371" party="RITER" end="401" id="100001_24" document_level_name_id="3" >Mr. Assistant Attorney General</PROFESSION>
+
+<PERSON start="402" end="407" id="100001_25" >Riter</PERSON>
+
+<PROFESSION start="419" party="BECK" end="440" id="100001_26" document_level_name_id="3" >Mr. Solicitor General</PROFESSION>
+
+<NAME all_names="BECK" start="441" local_name_id="3" end="445" id="100001_27" >Beck</NAME>
+
+<PERSON start="450" end="473" id="100001_28" >Mr. Charles S. Lawrence</PERSON>
+
+<NAME all_names="STATES" start="508" local_name_id="1" end="514" id="100001_29" >States</NAME>
+
+<PROFESSION start="521" end="539" id="100001_32" >MR. JUSTICE HOLMES</PROFESSION>
+
+<CITATION entry_type="party_key" party1_short="Coal" party1="Morrisdale Coal Co." citation_global_level_id="9.001" citation_local_level_id="2" end="627" id="100001_33" id1="100000" party2="United States" lookup_key="coalstates#2" start="591" party2_short="States" line="14" >Morrisdale Coal Co. v. United States</CITATION>
+
+<ORGANIZATION party1_of="100001_33" start="591" end="610" id="100001_34" >Morrisdale Coal Co.</ORGANIZATION>
+
+<ORGANIZATION start="591" end="609" id="100001_39" >Morrisdale Coal Co</ORGANIZATION>
+
+<GPE start="614" end="627" id="100001_35" party2_of="100001_33" >United States</GPE>
+
+<ORGANIZATION start="680" end="699" id="100001_40" >Fuel Administration</ORGANIZATION>
+
+<DATE start="717" end="732" id="100001_36" >August 10, 1917</DATE>
+
+<NAME all_names="STAT" start="750" local_name_id="4" end="754" id="100001_41" >Stat</NAME>
+
+<LEGAL_ROLE start="867" end="875" id="100001_42" >claimant</LEGAL_ROLE>
+
+<DATE start="895" end="910" id="100001_37" >September, 1917</DATE>
+
+<DATE start="920" end="933" id="100001_38" >January, 1919</DATE>
+
+<PROFESSION start="988" end="998" id="100001_43" >government</PROFESSION>
+
+<LEGAL_ROLE start="1096" end="1104" id="100001_44" >claimant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1227" end="1235" id="100001_45" >claimant</LEGAL_ROLE>
+
+<NAME all_names="STATES" start="1388" local_name_id="1" end="1394" id="100001_46" >States</NAME>
+
+<ORGANIZATION start="1483" end="1488" id="100001_47" >Court</ORGANIZATION>
+
+<PROFESSION start="1585" end="1594" id="100001_50" >President</PROFESSION>
+
+<ORGANIZATION start="1621" end="1645" id="100001_51" >Federal Trade Commission</ORGANIZATION>
+
+<PROFESSION start="1773" end="1781" id="100001_52" >producer</PROFESSION>
+
+<PROFESSION start="2068" end="2076" id="100001_53" >producer</PROFESSION>
+
+<NAME all_names="STATES" start="2356" local_name_id="1" end="2362" id="100001_54" >States</NAME>
+
+<NAME all_names="JUDICIALCODE" start="2599" local_name_id="5" end="2612" id="100001_55" >Judicial Code</NAME>
+
+<NAME all_names="JUDICIALCODE" start="2641" local_name_id="5" end="2654" id="100001_56" >Judicial Code</NAME>
+
+<ORGANIZATION start="2697" end="2702" id="100001_57" >Court</ORGANIZATION>
+
+<ORGANIZATION plural="True" start="2786" end="2801" id="100001_58" >District Courts</ORGANIZATION>
+
+<PROFESSION plural="True" start="2876" end="2885" id="100001_59" >producers</PROFESSION>
+
+<NAME all_names="STATES" start="2954" local_name_id="1" end="2960" id="100001_60" >States</NAME>
+
+<LEGAL_ROLE start="3136" end="3144" id="100001_61" >claimant</LEGAL_ROLE>
+
+<PROFESSION start="3332" end="3339" id="100001_62" >general</PROFESSION>
+
+<PROFESSION start="3794" end="3804" id="100001_63" >Government</PROFESSION>
+
+<PROFESSION start="4041" end="4051" id="100001_64" >Government</PROFESSION>
+
+<NAME all_names="STATES" start="4517" local_name_id="1" end="4523" id="100001_65" >States</NAME>
+
+<PROFESSION start="4568" end="4575" id="100001_66" >general</PROFESSION>
+
+<LEGAL_ROLE start="4851" end="4859" id="100001_67" >claimant</LEGAL_ROLE>
+
+<PROFESSION start="4998" end="5008" id="100001_68" >government</PROFESSION>
+
+<PROFESSION start="5290" end="5297" id="100001_69" >general</PROFESSION>
+
+<PROFESSION start="5586" end="5596" id="100001_70" >Government</PROFESSION>
+
+<LEGAL_ROLE start="5663" end="5671" id="100001_71" >claimant</LEGAL_ROLE>
+
+<NAME all_names="STATES" start="5844" local_name_id="1" end="5850" id="100001_72" >States</NAME>
+
+<RELATION at_date_string="1922" relation_type="asymmetric" at_date="100001_2" theme="100001_1" gram_type="pre_nom" theme_string="259 U.S. 191" id="100001_3" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="UNITED STATES" party2="100001_7" theme="100001_5" gram_type="infix" theme_string="PINE HILL COAL COMPANY, INC.  v.  UNITED STATES" id="100001_10" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100001_6" party1_string="PINE HILL COAL COMPANY, INC." theme="100001_5" gram_type="infix" theme_string="PINE HILL COAL COMPANY, INC.  v.  UNITED STATES" id="100001_9" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100001_5" X_vs_Y_string="PINE HILL COAL COMPANY, INC.  v.  UNITED STATES" standard_case_string="259 U.S. 191" standard_case="100001_1" gram_type="multi_line" id="100001_11" ></RELATION>
+
+<RELATION relation_type="asymmetric" theme_string="Riter" theme="100001_25" gram_type="pre_nom" profession="100001_24" id="100001_30" profession_string="Mr. Assistant Attorney General" ></RELATION>
+
+<RELATION relation_type="asymmetric" theme_string="Beck" theme="100001_27" gram_type="pre_nom" profession="100001_26" id="100001_31" profession_string="Mr. Solicitor General" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100001_34" party1_string="Morrisdale Coal Co." theme="100001_33" gram_type="infix" theme_string="Morrisdale Coal Co. v. United States" id="100001_48" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100001_35" theme="100001_33" gram_type="infix" theme_string="Morrisdale Coal Co. v. United States" id="100001_49" ></RELATION>
+

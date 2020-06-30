@@ -1,0 +1,818 @@
+<citation id="100005_1" entry_type="standard_case" start="1" end="13" reporter="U.S." standard_reporter="U.S." volume="259" page_number="214" line="2">259 U.S. 214</citation>
+<date id="100005_2" start="14" end="18">1922</date>
+<citation id="100005_5" entry_type="case_X_vs_Y" start="20" end="69" party1="UNITED STATES" party2="SOUTHERN PACIFIC COMPANY ET AL" line="5">UNITED STATES  v.  SOUTHERN PACIFIC COMPANY ET AL</citation>
+<GPE id="100005_6" start="20" end="33" party1_of="100005_5">UNITED STATES</GPE>
+<ORGANIZATION id="100005_7" start="39" end="69" party2_of="100005_5">SOUTHERN PACIFIC COMPANY ET AL</ORGANIZATION>
+<ORGANIZATION id="100005_11" start="78" end="91">Supreme Court</ORGANIZATION>
+<NAME id="100005_12" start="102" end="108">States</NAME>
+<date id="100005_13" start="135" end="139">1921</date>
+<date id="100005_14" start="165" end="180">January 9, 1922</date>
+<NAME id="100005_16" start="182" end="196">Reargued April</NAME>
+<date id="100005_15" start="209" end="213">1922</date>
+<date id="100005_17" start="223" end="235">May 29, 1922</date>
+<ORGANIZATION id="100005_18" start="253" end="313">DISTRICT COURT OF THE UNITED STATES FOR THE DISTRICT OF UTAH</ORGANIZATION>
+<PERSON id="100005_19" start="320" end="343">Mr. Edward F. McClennen</PERSON>
+<PROFESSION id="100005_20" start="345" end="362">Special Assistant</PROFESSION>
+<PROFESSION id="100005_21" start="370" end="386">Attorney General</PROFESSION>
+<PROFESSION id="100005_22" start="392" end="413">Mr. Solicitor General</PROFESSION>
+<NAME id="100005_23" start="414" end="418">Beck</NAME>
+<PERSON id="100005_24" start="430" end="446">Mr. James W. Orr</PERSON>
+<PROFESSION id="100005_25" start="448" end="465">Special Assistant</PROFESSION>
+<PROFESSION id="100005_26" start="473" end="489">Attorney General</PROFESSION>
+<NAME id="100005_27" start="524" end="530">States</NAME>
+<PERSON id="100005_32" start="535" end="559">Mr. Garrett W. McEnerney</PERSON>
+<PERSON id="100005_33" start="564" end="583">Mr. Joseph P. Blair</PERSON>
+<PERSON id="100005_34" start="595" end="616">Mr. William F. Herrin</PERSON>
+<LEGAL_ROLE id="100005_35" start="640" end="649" plural="True">appellees</LEGAL_ROLE>
+<PERSON id="100005_36" start="651" end="672">Mr. Perry D. Trafford</PERSON>
+<PROFESSION id="100005_37" start="677" end="696">Mr. James Gore King</PROFESSION>
+<ORGANIZATION id="100005_38" start="728" end="733">Union</ORGANIZATION>
+<ORGANIZATION id="100005_39" start="738" end="751">Central Union</ORGANIZATION>
+<ORGANIZATION id="100005_40" start="753" end="766">Trust Company</ORGANIZATION>
+<LEGAL_ROLE id="100005_41" start="770" end="788">New York, appellee</LEGAL_ROLE>
+<date id="100005_43" start="824" end="839">January 9, 1922</date>
+<PROFESSION id="100005_44" start="846" end="861">MR. JUSTICE DAY</PROFESSION>
+<NAME id="100005_53" start="909" end="915">States</NAME>
+<date id="100005_46" start="919" end="936">February 11, 1914</date>
+<ORGANIZATION id="100005_54" start="960" end="974">District Court</ORGANIZATION>
+<NAME id="100005_55" start="989" end="995">States</NAME>
+<GPE id="100005_56" start="1021" end="1025">Utah</GPE>
+<ORGANIZATION id="100005_57" start="1038" end="1062">Southern Pacific Company</ORGANIZATION>
+<ORGANIZATION id="100005_58" start="1068" end="1099">Central Pacific Railway Company</ORGANIZATION>
+<ORGANIZATION id="100005_59" start="1105" end="1124">Union Trust Company</ORGANIZATION>
+<GPE id="100005_60" start="1128" end="1136">New York</GPE>
+<PROFESSION id="100005_61" start="1146" end="1155" plural="True">directors</PROFESSION>
+<PROFESSION id="100005_62" start="1160" end="1169" plural="True">officials</PROFESSION>
+<ORGANIZATION id="100005_63" start="1177" end="1201">Southern Pacific Company</ORGANIZATION>
+<LEGAL_ROLE id="100005_64" start="1242" end="1252" plural="True">defendants</LEGAL_ROLE>
+<date id="100005_47" start="1352" end="1364">July 2, 1890</date>
+<NAME id="100005_65" start="1377" end="1381">Stat</NAME>
+<NAME id="100005_66" start="1401" end="1412">Sherman Act</NAME>
+<PERSON id="100005_67" start="1466" end="1474">Congress</PERSON>
+<date id="100005_48" start="1478" end="1490">July 1, 1862</date>
+<NAME id="100005_68" start="1503" end="1507">Stat</NAME>
+<ORGANIZATION id="100005_69" start="1566" end="1590">Southern Pacific Company</ORGANIZATION>
+<ORGANIZATION id="100005_70" start="1608" end="1639">Central Pacific Railway Company</ORGANIZATION>
+<ORGANIZATION id="100005_71" start="1725" end="1749">Southern Pacific Company</ORGANIZATION>
+<ORGANIZATION id="100005_72" start="1811" end="1842">Central Pacific Railway Company</ORGANIZATION>
+<NAME id="100005_73" start="1931" end="1942">Sherman Act</NAME>
+<ORGANIZATION id="100005_74" start="1957" end="1981">Southern Pacific Company</ORGANIZATION>
+<PROFESSION id="100005_75" start="2074" end="2084">management</PROFESSION>
+<ORGANIZATION id="100005_76" start="2136" end="2167">Central Pacific Railway Company</ORGANIZATION>
+<NAME id="100005_77" start="2175" end="2191">Southern Pacific</NAME>
+<PERSON id="100005_78" start="2236" end="2244">Congress</PERSON>
+<date id="100005_49" start="2248" end="2260">July 1, 1862</date>
+<NAME id="100005_79" start="2348" end="2362">Missouri River</NAME>
+<NAME id="100005_80" start="2370" end="2383">Pacific Ocean</NAME>
+<PROFESSION id="100005_81" start="2406" end="2416">Government</PROFESSION>
+<date id="100005_50" start="2538" end="2542">1862</date>
+<date id="100005_51" start="2555" end="2567">July 2, 1864</date>
+<NAME id="100005_82" start="2580" end="2584">Stat</NAME>
+<date id="100005_52" start="2606" end="2619">June 20, 1874</date>
+<NAME id="100005_83" start="2632" end="2636">Stat</NAME>
+<PROFESSION id="100005_84" start="2647" end="2657">Government</PROFESSION>
+<NAME id="100005_85" start="2717" end="2732">Central Pacific</NAME>
+<ORGANIZATION id="100005_86" start="2774" end="2779">Union</ORGANIZATION>
+<PERSON id="100005_87" start="2780" end="2787">Pacific</PERSON>
+<LEGAL_ROLE id="100005_88" start="2961" end="2971" plural="True">defendants</LEGAL_ROLE>
+<PROFESSION id="100005_89" start="3071" end="3085" plural="True">Circuit Judges</PROFESSION>
+<ORGANIZATION id="100005_93" start="3135" end="3167">Central Pacific Railroad Company</ORGANIZATION>
+<GPE id="100005_94" start="3171" end="3181">California</GPE>
+<GPE id="100005_95" start="3217" end="3227">California</GPE>
+<date id="100005_90" start="3231" end="3235">1861</date>
+<PERSON id="100005_96" start="3285" end="3295">Sacramento</PERSON>
+<GPE id="100005_97" start="3323" end="3333">California</GPE>
+<date id="100005_91" start="3338" end="3342">1862</date>
+<date id="100005_92" start="3347" end="3351">1864</date>
+<PERSON id="100005_98" start="3352" end="3360">Congress</PERSON>
+<ORGANIZATION id="100005_99" start="3400" end="3405">Union</ORGANIZATION>
+<NAME id="100005_100" start="3406" end="3422">Pacific Railroad</NAME>
+<ORGANIZATION id="100005_101" start="3423" end="3430">Company</ORGANIZATION>
+<NAME id="100005_102" start="3449" end="3463">Missouri River</NAME>
+<NAME id="100005_103" start="3493" end="3508">Central Pacific</NAME>
+<NAME id="100005_104" start="3538" end="3551">Pacific Coast</NAME>
+<PERSON id="100005_105" start="3564" end="3577" plural="True">San Francisco</PERSON>
+<ORGANIZATION id="100005_106" start="3614" end="3619">Union</ORGANIZATION>
+<PERSON id="100005_107" start="3620" end="3627">Pacific</PERSON>
+<PERSON id="100005_108" start="3643" end="3651">Congress</PERSON>
+<PERSON id="100005_109" start="3974" end="3989" plural="True">Leland Stanford</PERSON>
+<PERSON id="100005_110" start="3991" end="4006" plural="True">Charles Crocker</PERSON>
+<PERSON id="100005_111" start="4028" end="4040">Mark Hopkins</PERSON>
+<ORGANIZATION id="100005_112" start="4091" end="4114">Central Pacific Company</ORGANIZATION>
+<NAME id="100005_113" start="4120" end="4135">Central Pacific</NAME>
+<NAME id="100005_114" start="4152" end="4167">Western Pacific</NAME>
+<PERSON id="100005_115" start="4217" end="4227">Sacramento</PERSON>
+<PERSON id="100005_116" start="4231" end="4239" plural="True">San Jose</PERSON>
+<PERSON id="100005_117" start="4267" end="4275">Congress</PERSON>
+<NAME id="100005_123" start="4307" end="4324">Pacific Railroads</NAME>
+<date id="100005_118" start="4347" end="4351">1864</date>
+<date id="100005_119" start="4355" end="4359">1869</date>
+<NAME id="100005_124" start="4369" end="4383">Missouri River</NAME>
+<NAME id="100005_125" start="4391" end="4404">Pacific Coast</NAME>
+<NAME id="100005_126" start="4411" end="4416">Omaha</NAME>
+<PERSON id="100005_127" start="4420" end="4425">Ogden</PERSON>
+<ORGANIZATION id="100005_128" start="4433" end="4438">Union</ORGANIZATION>
+<PERSON id="100005_129" start="4439" end="4446">Pacific</PERSON>
+<PERSON id="100005_130" start="4453" end="4458">Ogden</PERSON>
+<PERSON id="100005_131" start="4462" end="4472">Sacramento</PERSON>
+<NAME id="100005_132" start="4480" end="4495">Central Pacific</NAME>
+<PERSON id="100005_133" start="4502" end="4512">Sacramento</PERSON>
+<PERSON id="100005_134" start="4516" end="4524" plural="True">San Jose</PERSON>
+<NAME id="100005_135" start="4532" end="4547">Western Pacific</NAME>
+<NAME id="100005_136" start="4582" end="4597">Central Pacific</NAME>
+<NAME id="100005_137" start="4628" end="4645">defendants' brief</NAME>
+<NAME id="100005_138" start="4720" end="4735">Central Pacific</NAME>
+<PERSON id="100005_139" start="4758" end="4763">Niles</PERSON>
+<PERSON id="100005_140" start="4767" end="4774">Oakland</PERSON>
+<PERSON id="100005_141" start="4781" end="4788">Lathrop</PERSON>
+<PERSON id="100005_142" start="4792" end="4798">Goshen</PERSON>
+<NAME id="100005_143" start="4809" end="4818">Roseville</NAME>
+<PERSON id="100005_144" start="4822" end="4829">Redding</PERSON>
+<NAME id="100005_145" start="4861" end="4866">State</NAME>
+<GPE id="100005_146" start="4870" end="4880">California</GPE>
+<date id="100005_120" start="4896" end="4900">1869</date>
+<date id="100005_121" start="4904" end="4908">1872</date>
+<date id="100005_122" start="4913" end="4917">1870</date>
+<NAME id="100005_147" start="4922" end="4937">Central Pacific</NAME>
+<NAME id="100005_148" start="4973" end="4988">Western Pacific</NAME>
+<PERSON id="100005_149" start="5007" end="5017">Sacramento</PERSON>
+<PERSON id="100005_150" start="5021" end="5029" plural="True">San Jose</PERSON>
+<ORGANIZATION id="100005_151" start="5035" end="5050">Alameda Company</ORGANIZATION>
+<PERSON id="100005_152" start="5068" end="5073">Niles</PERSON>
+<PERSON id="100005_153" start="5077" end="5084">Oakland</PERSON>
+<PERSON id="100005_154" start="5090" end="5101" plural="True">San Joaquin</PERSON>
+<PERSON id="100005_155" start="5120" end="5127">Lathrop</PERSON>
+<PERSON id="100005_156" start="5131" end="5137">Goshen</PERSON>
+<GPE id="100005_157" start="5147" end="5157">California</GPE>
+<ORGANIZATION id="100005_158" start="5162" end="5176">Oregon Company</ORGANIZATION>
+<NAME id="100005_159" start="5194" end="5203">Roseville</NAME>
+<GPE id="100005_160" start="5226" end="5232">Oregon</GPE>
+<ORGANIZATION id="100005_165" start="5243" end="5276">Southern Pacific Railroad Company</ORGANIZATION>
+<date id="100005_161" start="5297" end="5301">1865</date>
+<GPE id="100005_166" start="5320" end="5330">California</GPE>
+<PERSON id="100005_167" start="5379" end="5396">San Francisco Bay</PERSON>
+<PERSON id="100005_168" start="5411" end="5420" plural="True">San Diego</PERSON>
+<GPE id="100005_169" start="5448" end="5458">California</GPE>
+<date id="100005_162" start="5463" end="5467">1866</date>
+<PERSON id="100005_170" start="5468" end="5476">Congress</PERSON>
+<ORGANIZATION id="100005_171" start="5510" end="5545">Atlantic &amp; Pacific Railroad Company</ORGANIZATION>
+<PERSON id="100005_172" start="5610" end="5621">Springfield</PERSON>
+<GPE id="100005_173" start="5623" end="5631">Missouri</GPE>
+<NAME id="100005_174" start="5640" end="5653">Pacific Ocean</NAME>
+<NAME id="100005_175" start="5679" end="5695">Southern Pacific</NAME>
+<PERSON id="100005_176" start="5716" end="5734">Atlantic &amp; Pacific</PERSON>
+<GPE id="100005_177" start="5764" end="5774">California</GPE>
+<date id="100005_163" start="5825" end="5829">1867</date>
+<NAME id="100005_178" start="5834" end="5850">Southern Pacific</NAME>
+<PERSON id="100005_179" start="5967" end="5975">Congress</PERSON>
+<PROFESSION id="100005_180" start="5984" end="5995">legislature</PROFESSION>
+<GPE id="100005_181" start="5999" end="6009">California</GPE>
+<date id="100005_164" start="6013" end="6017">1870</date>
+<date id="100005_182" start="6022" end="6026">1871</date>
+<PERSON id="100005_184" start="6027" end="6035">Congress</PERSON>
+<ORGANIZATION id="100005_185" start="6053" end="6083">Texas Pacific Railroad Company</ORGANIZATION>
+<NAME id="100005_186" start="6151" end="6159">Marshall</NAME>
+<GPE id="100005_187" start="6161" end="6166">Texas</GPE>
+<NAME id="100005_188" start="6185" end="6189">Paso</NAME>
+<NAME id="100005_189" start="6197" end="6210">Pacific Ocean</NAME>
+<PERSON id="100005_190" start="6214" end="6223" plural="True">San Diego</PERSON>
+<NAME id="100005_191" start="6299" end="6324">Southern Pacific Railroad</NAME>
+<NAME id="100005_192" start="6330" end="6346">Southern Pacific</NAME>
+<NAME id="100005_193" start="6391" end="6405">Tehachapi Pass</NAME>
+<NAME id="100005_194" start="6427" end="6449">Texas Pacific Railroad</NAME>
+<GPE id="100005_195" start="6477" end="6487">California</GPE>
+<date id="100005_183" start="6533" end="6537">1872</date>
+<NAME id="100005_196" start="6542" end="6557">Central Pacific</NAME>
+<PERSON id="100005_197" start="6584" end="6590">Goshen</PERSON>
+<date id="100005_198" start="6598" end="6602">1870</date>
+<NAME id="100005_203" start="6624" end="6639">Central Pacific</NAME>
+<NAME id="100005_204" start="6664" end="6680">Southern Pacific</NAME>
+<PERSON id="100005_205" start="6731" end="6737">Goshen</PERSON>
+<NAME id="100005_206" start="6746" end="6760">Tehachapi Pass</NAME>
+<PERSON id="100005_207" start="6799" end="6817">Atlantic &amp; Pacific</PERSON>
+<citation id="100005_202" entry_type="case_citation_other" start="6821" end="6832" name="The Needles" line="24">The Needles</citation>
+<PERSON id="100005_208" start="6860" end="6874">Colorado River</PERSON>
+<NAME id="100005_209" start="6906" end="6911">State</NAME>
+<NAME id="100005_210" start="6971" end="6976">State</NAME>
+<GPE id="100005_211" start="7011" end="7018">Arizona</GPE>
+<GPE id="100005_212" start="7023" end="7033">New Mexico</GPE>
+<GPE id="100005_213" start="7051" end="7056">Texas</GPE>
+<ORGANIZATION id="100005_214" start="7066" end="7081">Texas &amp; Pacific</ORGANIZATION>
+<NAME id="100005_215" start="7112" end="7116">Paso</NAME>
+<NAME id="100005_216" start="7126" end="7135">Galveston</NAME>
+<ORGANIZATION id="100005_217" start="7137" end="7170">Harrisburg &amp; San Antonio Railroad</ORGANIZATION>
+<PERSON id="100005_218" start="7192" end="7200">Southern</PERSON>
+<NAME id="100005_219" start="7247" end="7254">Central</NAME>
+<date id="100005_199" start="7259" end="7263">1881</date>
+<NAME id="100005_220" start="7268" end="7284">Southern Pacific</NAME>
+<PERSON id="100005_221" start="7310" end="7318">Atchison</PERSON>
+<PERSON id="100005_222" start="7320" end="7337" plural="True">Topeka &amp; Santa Fe</PERSON>
+<PERSON id="100005_223" start="7341" end="7348">Demming</PERSON>
+<GPE id="100005_224" start="7350" end="7360">New Mexico</GPE>
+<date id="100005_200" start="7365" end="7369">1882</date>
+<PERSON id="100005_225" start="7374" end="7382">Southern</PERSON>
+<ORGANIZATION id="100005_226" start="7408" end="7423">Texas &amp; Pacific</ORGANIZATION>
+<GPE id="100005_227" start="7427" end="7447">Sierra Blanca, Texas</GPE>
+<date id="100005_201" start="7452" end="7456">1883</date>
+<PERSON id="100005_228" start="7480" end="7488">Southern</PERSON>
+<NAME id="100005_229" start="7509" end="7518">Galveston</NAME>
+<PERSON id="100005_230" start="7520" end="7544" plural="True">Harrisburg &amp; San Antonio</PERSON>
+<PERSON id="100005_231" start="7598" end="7609">New Orleans</PERSON>
+<PERSON id="100005_232" start="7655" end="7673">Atlantic &amp; Pacific</PERSON>
+<PERSON id="100005_233" start="7681" end="7688">Needles</PERSON>
+<NAME id="100005_239" start="7707" end="7713">Mojave</NAME>
+<PERSON id="100005_240" start="7717" end="7724">Needles</PERSON>
+<PERSON id="100005_241" start="7743" end="7751" plural="True">Santa Fe</PERSON>
+<date id="100005_234" start="7755" end="7759">1883</date>
+<date id="100005_235" start="7779" end="7783">1911</date>
+<date id="100005_236" start="7790" end="7794">1883</date>
+<date id="100005_237" start="7798" end="7802">1885</date>
+<NAME id="100005_242" start="7807" end="7822">Central Pacific</NAME>
+<NAME id="100005_243" start="7900" end="7924">Central Pacific Railroad</NAME>
+<NAME id="100005_244" start="7936" end="7941">Lines</NAME>
+<date id="100005_238" start="7947" end="7961">February, 1885</date>
+<ORGANIZATION id="100005_245" start="7990" end="8014">Southern Pacific Company</ORGANIZATION>
+<GPE id="100005_246" start="8018" end="8026">Kentucky</GPE>
+<NAME id="100005_247" start="8384" end="8408">Central Pacific Railroad</NAME>
+<PERSON id="100005_248" start="8426" end="8429">Bay</PERSON>
+<PERSON id="100005_249" start="8433" end="8446" plural="True">San Francisco</PERSON>
+<PERSON id="100005_250" start="8450" end="8455">Ogden</PERSON>
+<GPE id="100005_251" start="8457" end="8461">Utah</GPE>
+<NAME id="100005_252" start="8498" end="8507">Roseville</NAME>
+<GPE id="100005_253" start="8519" end="8529">California</GPE>
+<GPE id="100005_254" start="8558" end="8568">California</GPE>
+<NAME id="100005_255" start="8577" end="8581">Kirk</NAME>
+<GPE id="100005_256" start="8585" end="8591">Oregon</GPE>
+<PERSON id="100005_257" start="8627" end="8634">Lathrop</PERSON>
+<GPE id="100005_258" start="8646" end="8656">California</GPE>
+<PERSON id="100005_259" start="8660" end="8666">Goshen</PERSON>
+<GPE id="100005_260" start="8668" end="8678">California</GPE>
+<PERSON id="100005_261" start="8714" end="8719">Hazen</PERSON>
+<GPE id="100005_262" start="8723" end="8729">Nevada</GPE>
+<NAME id="100005_263" start="8733" end="8739">Mojave</NAME>
+<GPE id="100005_264" start="8743" end="8753">California</GPE>
+<NAME id="100005_265" start="8773" end="8780">Fernley</NAME>
+<GPE id="100005_266" start="8784" end="8790">Nevada</GPE>
+<NAME id="100005_267" start="8794" end="8804">Susanville</NAME>
+<GPE id="100005_268" start="8806" end="8816">California</GPE>
+<GPE id="100005_269" start="8838" end="8844">Oregon</GPE>
+<NAME id="100005_270" start="8850" end="8858">Oakridge</NAME>
+<NAME id="100005_271" start="8862" end="8868">Natron</NAME>
+<PERSON id="100005_272" start="8873" end="8878">Ogden</PERSON>
+<NAME id="100005_273" start="8884" end="8899">Central Pacific</NAME>
+<ORGANIZATION id="100005_274" start="8923" end="8928">Union</ORGANIZATION>
+<PERSON id="100005_275" start="8929" end="8936">Pacific</PERSON>
+<NAME id="100005_276" start="8951" end="8956">Omaha</NAME>
+<GPE id="100005_277" start="8958" end="8966">Nebraska</GPE>
+<GPE id="100005_278" start="8975" end="8986">Kansas City</GPE>
+<GPE id="100005_279" start="8988" end="8996">Missouri</GPE>
+<PERSON id="100005_280" start="9012" end="9017">Ogden</PERSON>
+<ORGANIZATION id="100005_281" start="9027" end="9055">Denver &amp; Rio Grande Railroad</ORGANIZATION>
+<NAME id="100005_282" start="9107" end="9121">Missouri River</NAME>
+<NAME id="100005_283" start="9136" end="9150">Missouri River</NAME>
+<NAME id="100005_284" start="9198" end="9204">States</NAME>
+<NAME id="100005_285" start="9210" end="9226">Southern Pacific</NAME>
+<PERSON id="100005_286" start="9247" end="9264">San Francisco Bay</PERSON>
+<NAME id="100005_287" start="9278" end="9282">Paso</NAME>
+<NAME id="100005_288" start="9286" end="9295">Galveston</NAME>
+<GPE id="100005_289" start="9297" end="9302">Texas</GPE>
+<PERSON id="100005_290" start="9311" end="9322">New Orleans</PERSON>
+<NAME id="100005_291" start="9365" end="9378">New York City</NAME>
+<NAME id="100005_292" start="9397" end="9413">Southern Pacific</NAME>
+<NAME id="100005_293" start="9421" end="9425">Paso</NAME>
+<NAME id="100005_294" start="9447" end="9458">Rock Island</NAME>
+<NAME id="100005_295" start="9473" end="9478">Omaha</NAME>
+<NAME id="100005_296" start="9483" end="9490">Chicago</NAME>
+<PERSON id="100005_297" start="9495" end="9506">New Orleans</PERSON>
+<NAME id="100005_298" start="9598" end="9604">States</NAME>
+<GPE id="100005_299" start="9626" end="9631">Texas</GPE>
+<GPE id="100005_300" start="9633" end="9640">Arizona</GPE>
+<GPE id="100005_301" start="9642" end="9652">New Mexico</GPE>
+<GPE id="100005_302" start="9654" end="9660">Oregon</GPE>
+<GPE id="100005_303" start="9673" end="9683">California</GPE>
+<NAME id="100005_304" start="9689" end="9704">Central Pacific</NAME>
+<PERSON id="100005_305" start="9736" end="9741">Ogden</PERSON>
+<NAME id="100005_306" start="9822" end="9838">Southern Pacific</NAME>
+<NAME id="100005_307" start="9980" end="9995">Central Pacific</NAME>
+<NAME id="100005_308" start="10079" end="10095">Southern Pacific</NAME>
+<GPE id="100005_309" start="10174" end="10182">New York</GPE>
+<NAME id="100005_310" start="10187" end="10196">Galveston</NAME>
+<PERSON id="100005_311" start="10201" end="10212">New Orleans</PERSON>
+<citation id="100005_314" entry_type="case_citation_other" start="10246" end="10264" name="Union Pacific Case" line="29">Union Pacific Case</citation>
+<ORGANIZATION id="100005_316" start="10246" end="10251">Union</ORGANIZATION>
+<citation id="100005_312" entry_type="standard_case" start="10266" end="10281" reporter="U.S." standard_reporter="U.S." volume="226" page_number="61" paragraph_number="86" line="29">226 U.S. 61, 86</citation>
+<ORGANIZATION id="100005_317" start="10306" end="10330">Southern Pacific Company</ORGANIZATION>
+<ORGANIZATION id="100005_318" start="10351" end="10382">Central Pacific Railway Company</ORGANIZATION>
+<date id="100005_313" start="10386" end="10390">1899</date>
+<citation id="100005_315" entry_type="case_citation_other" start="10646" end="10664" name="Union Pacific Case" line="29">Union Pacific Case</citation>
+<ORGANIZATION id="100005_319" start="10646" end="10651">Union</ORGANIZATION>
+<ORGANIZATION id="100005_320" start="10709" end="10714">Union</ORGANIZATION>
+<PERSON id="100005_321" start="10715" end="10722">Pacific</PERSON>
+<NAME id="100005_322" start="10842" end="10863">Southern *230 Pacific</NAME>
+<NAME id="100005_323" start="10913" end="10924">Sherman Act</NAME>
+<GPE id="100005_324" start="11169" end="11179">California</GPE>
+<NAME id="100005_325" start="11291" end="11308">Atlantic Seaboard</NAME>
+<PERSON id="100005_326" start="11413" end="11426" plural="True">San Francisco</PERSON>
+<NAME id="100005_327" start="11436" end="11449">Pacific Coast</NAME>
+<PROFESSION id="100005_331" start="11458" end="11465">Counsel</PROFESSION>
+<LEGAL_ROLE id="100005_332" start="11474" end="11484" plural="True">defendants</LEGAL_ROLE>
+<citation id="100005_330" entry_type="case_citation_other" start="11565" end="11583" name="Union Pacific Case" line="30">Union Pacific Case</citation>
+<ORGANIZATION id="100005_333" start="11565" end="11570">Union</ORGANIZATION>
+<ORGANIZATION id="100005_334" start="11723" end="11728">Union</ORGANIZATION>
+<PERSON id="100005_335" start="11729" end="11736">Pacific</PERSON>
+<NAME id="100005_336" start="11759" end="11775">Southern Pacific</NAME>
+<date id="100005_329" start="11779" end="11783">1901</date>
+<PERSON id="100005_349" start="12271" end="12279">Congress</PERSON>
+<citation id="100005_339" entry_type="case_X_vs_Y" start="12368" end="12408" party1="Northern Securities Co." party2="United States" line="31">Northern Securities Co. v. United States</citation>
+<ORGANIZATION id="100005_342" start="12368" end="12391" party1_of="100005_339">Northern Securities Co.</ORGANIZATION>
+<ORGANIZATION id="100005_350" start="12368" end="12390">Northern Securities Co</ORGANIZATION>
+<GPE id="100005_343" start="12395" end="12408" party2_of="100005_339">United States</GPE>
+<citation id="100005_337" entry_type="standard_case" start="12410" end="12427" reporter="U.S." standard_reporter="U.S." volume="193" page_number="197" paragraph_number="327" line="31">193 U.S. 197, 327</citation>
+<citation id="100005_340" entry_type="case_X_vs_Y" start="12472" end="12506" party1="United States" party2="Union Pacific R.R" line="31">United States v. Union Pacific R.R</citation>
+<GPE id="100005_344" start="12472" end="12485" party1_of="100005_340">United States</GPE>
+<ORGANIZATION id="100005_345" start="12489" end="12506" party2_of="100005_340">Union Pacific R.R</ORGANIZATION>
+<ORGANIZATION id="100005_351" start="12489" end="12494">Union</ORGANIZATION>
+<NAME id="100005_352" start="12583" end="12595">October Term</NAME>
+<date id="100005_348" start="12597" end="12601">1919</date>
+<citation id="100005_341" entry_type="case_X_vs_Y" start="12603" end="12630" party1="United States" party2="Reading Co" line="31">United States v. Reading Co</citation>
+<GPE id="100005_346" start="12603" end="12616" party1_of="100005_341">United States</GPE>
+<ORGANIZATION id="100005_347" start="12620" end="12630" party2_of="100005_341">Reading Co</ORGANIZATION>
+<citation id="100005_338" entry_type="standard_case" start="12633" end="12648" reporter="U.S." standard_reporter="U.S." volume="253" page_number="26" paragraph_number="57" line="31">253 U.S. 26, 57</citation>
+<NAME id="100005_365" start="13075" end="13091">Southern Pacific</NAME>
+<NAME id="100005_366" start="13290" end="13314">Central Pacific Railroad</NAME>
+<ORGANIZATION id="100005_367" start="13458" end="13463">Union</ORGANIZATION>
+<PERSON id="100005_368" start="13464" end="13471">Pacific</PERSON>
+<NAME id="100005_369" start="13486" end="13502">Southern Pacific</NAME>
+<date id="100005_362" start="13530" end="13534">1901</date>
+<date id="100005_363" start="13569" end="13573">1913</date>
+<citation id="100005_364" entry_type="case_citation_other" start="13624" end="13642" name="Union Pacific Case" line="33">Union Pacific Case</citation>
+<ORGANIZATION id="100005_370" start="13624" end="13629">Union</ORGANIZATION>
+<NAME id="100005_371" start="13708" end="13724">Southern Pacific</NAME>
+<NAME id="100005_372" start="13864" end="13879">Central Pacific</NAME>
+<ORGANIZATION id="100005_373" start="13940" end="13945">Union</ORGANIZATION>
+<PERSON id="100005_374" start="13946" end="13953">Pacific</PERSON>
+<PERSON id="100005_375" start="14010" end="14015">Ogden</PERSON>
+<NAME id="100005_376" start="14123" end="14139">Southern Pacific</NAME>
+<PERSON id="100005_377" start="14225" end="14233">Congress</PERSON>
+<PROFESSION id="100005_378" start="14610" end="14617">counsel</PROFESSION>
+<LEGAL_ROLE id="100005_379" start="14626" end="14636" plural="True">defendants</LEGAL_ROLE>
+<NAME id="100005_382" start="14823" end="14838">Central Pacific</NAME>
+<NAME id="100005_383" start="14855" end="14871">Southern Pacific</NAME>
+<NAME id="100005_384" start="14892" end="14903">Sherman Act</NAME>
+<citation id="100005_381" entry_type="case_citation_other" start="14985" end="15009" name="Northern Securities Case" line="35">Northern Securities Case</citation>
+<date id="100005_380" start="15014" end="15018">1904</date>
+<ORGANIZATION id="100005_385" start="15076" end="15100">Southern Pacific Company</ORGANIZATION>
+<LEGAL_ROLE id="100005_386" start="15177" end="15187" plural="True">defendants</LEGAL_ROLE>
+<PROFESSION id="100005_389" start="15242" end="15248" plural="True">judges</PROFESSION>
+<ORGANIZATION id="100005_390" start="15264" end="15278">District Court</ORGANIZATION>
+<NAME id="100005_391" start="15322" end="15338">Southern Pacific</NAME>
+<NAME id="100005_392" start="15347" end="15362">Central Pacific</NAME>
+<GPE id="100005_393" start="15492" end="15502">California</GPE>
+<GPE id="100005_394" start="15507" end="15513">Oregon</GPE>
+<NAME id="100005_395" start="15549" end="15571">Central Pacific System</NAME>
+<NAME id="100005_396" start="15624" end="15647">Southern Pacific System</NAME>
+<NAME id="100005_397" start="15707" end="15722">Central Pacific</NAME>
+<NAME id="100005_398" start="15737" end="15753">Southern Pacific</NAME>
+<NAME id="100005_399" start="15925" end="15936">Sherman Act</NAME>
+<NAME id="100005_400" start="15948" end="15963">Central Pacific</NAME>
+<PERSON id="100005_401" start="16059" end="16075" plural="True">Messrs. Stanford</PERSON>
+<PERSON id="100005_402" start="16077" end="16084">Hopkins</PERSON>
+<PERSON id="100005_403" start="16086" end="16096">Huntington</PERSON>
+<PERSON id="100005_404" start="16101" end="16108">Crocker</PERSON>
+<date id="100005_387" start="16130" end="16134">1870</date>
+<NAME id="100005_405" start="16212" end="16228">Southern Pacific</NAME>
+<PERSON id="100005_406" start="16327" end="16335">Congress</PERSON>
+<NAME id="100005_407" start="16418" end="16423">State</NAME>
+<PERSON id="100005_408" start="16500" end="16508">Congress</PERSON>
+<PROFESSION id="100005_409" start="16575" end="16584" plural="True">directors</PROFESSION>
+<NAME id="100005_410" start="16684" end="16699">Central Pacific</NAME>
+<date id="100005_388" start="16718" end="16722">1885</date>
+<NAME id="100005_411" start="16730" end="16746">Southern Pacific</NAME>
+<NAME id="100005_412" start="16891" end="16897">States</NAME>
+<GPE id="100005_413" start="16902" end="16908">Europe</GPE>
+<NAME id="100005_415" start="17283" end="17294">Sherman Act</NAME>
+<date id="100005_414" start="17340" end="17344">1899</date>
+<date id="100005_416" start="17384" end="17398">February, 1885</date>
+<NAME id="100005_418" start="17407" end="17422">Central Pacific</NAME>
+<NAME id="100005_419" start="17430" end="17446">Southern Pacific</NAME>
+<date id="100005_417" start="17474" end="17478">1884</date>
+<NAME id="100005_420" start="17483" end="17499">Southern Pacific</NAME>
+<NAME id="100005_421" start="17558" end="17563">State</NAME>
+<GPE id="100005_422" start="17567" end="17575">Kentucky</GPE>
+<NAME id="100005_423" start="17643" end="17666">Southern Pacific System</NAME>
+<NAME id="100005_424" start="17697" end="17712">Central Pacific</NAME>
+<GPE id="100005_425" start="17745" end="17753">New York</GPE>
+<PERSON id="100005_426" start="17757" end="17773" plural="True">Messrs. Stanford</PERSON>
+<PERSON id="100005_427" start="17775" end="17785">Huntington</PERSON>
+<PERSON id="100005_428" start="17787" end="17794">Crocker</PERSON>
+<PERSON id="100005_429" start="17800" end="17815">Timothy Hopkins</PERSON>
+<PERSON id="100005_430" start="17834" end="17846">Mark Hopkins</PERSON>
+<date id="100005_431" start="17954" end="17958">1885</date>
+<NAME id="100005_439" start="18067" end="18082">Central Pacific</NAME>
+<date id="100005_432" start="18092" end="18096">1899</date>
+<date id="100005_433" start="18114" end="18131">February 17, 1885</date>
+<date id="100005_434" start="18149" end="18162">January, 1888</date>
+<date id="100005_435" start="18171" end="18187">December 7, 1893</date>
+<NAME id="100005_440" start="18287" end="18303">Southern Pacific</NAME>
+<NAME id="100005_441" start="18312" end="18327">Central Pacific</NAME>
+<date id="100005_436" start="18335" end="18352">February 17, 1885</date>
+<date id="100005_437" start="18358" end="18373">January 1, 1888</date>
+<date id="100005_438" start="18490" end="18505">January 1, 1894</date>
+<PROFESSION id="100005_450" start="18594" end="18604">Government</PROFESSION>
+<NAME id="100005_451" start="18775" end="18790">Central Pacific</NAME>
+<PERSON id="100005_452" start="18864" end="18872">Congress</PERSON>
+<citation id="100005_444" entry_type="case_X_vs_Y" start="18874" end="18907" party1="California" party2="Central Pacific R.R" line="40">California v. Central Pacific R.R</citation>
+<GPE id="100005_446" start="18874" end="18884" party1_of="100005_444">California</GPE>
+<NAME id="100005_447" start="18888" end="18907" party2_of="100005_444">Central Pacific R.R</NAME>
+<ORGANIZATION id="100005_453" start="18909" end="18911">Co</ORGANIZATION>
+<citation id="100005_442" entry_type="standard_case" start="18914" end="18924" reporter="U.S." standard_reporter="U.S." volume="127" page_number="1" line="40">127 U.S. 1</citation>
+<citation id="100005_445" entry_type="case_X_vs_Y" start="18929" end="18967" party1="Central Pacific R.R. Co." party2="California" line="40">Central Pacific R.R. Co. v. California</citation>
+<ORGANIZATION id="100005_448" start="18929" end="18953" party1_of="100005_445">Central Pacific R.R. Co.</ORGANIZATION>
+<GPE id="100005_449" start="18957" end="18967" party2_of="100005_445">California</GPE>
+<citation id="100005_443" entry_type="standard_case" start="18969" end="18980" reporter="U.S." standard_reporter="U.S." volume="162" page_number="91" line="40">162 U.S. 91</citation>
+<ORGANIZATION id="100005_454" start="19047" end="19079">Central Pacific Railroad Company</ORGANIZATION>
+<NAME id="100005_455" start="19152" end="19157">State</NAME>
+<GPE id="100005_456" start="19161" end="19171">California</GPE>
+<NAME id="100005_457" start="19220" end="19225">State</NAME>
+<PROFESSION id="100005_458" start="19321" end="19338">Mr. Justice Field</PROFESSION>
+<PROFESSION id="100005_459" start="19343" end="19361">Mr. Justice Harlan</PROFESSION>
+<PROFESSION id="100005_460" start="19403" end="19420">Mr. Chief Justice</PROFESSION>
+<NAME id="100005_461" start="19421" end="19427">Fuller</NAME>
+<NAME id="100005_462" start="19500" end="19515">Central Pacific</NAME>
+<NAME id="100005_463" start="19593" end="19606">Pacific Ocean</NAME>
+<PERSON id="100005_464" start="19610" end="19615">Ogden</PERSON>
+<GPE id="100005_465" start="19641" end="19645">Utah</GPE>
+<PROFESSION id="100005_488" start="19685" end="19692">counsel</PROFESSION>
+<LEGAL_ROLE id="100005_489" start="19701" end="19711" plural="True">defendants</LEGAL_ROLE>
+<PERSON id="100005_490" start="19718" end="19726">Congress</PERSON>
+<PERSON id="100005_491" start="19864" end="19872">Congress</PERSON>
+<NAME id="100005_492" start="19947" end="19962">Central Pacific</NAME>
+<NAME id="100005_493" start="20104" end="20119">Central Pacific</NAME>
+<citation id="100005_476" entry_type="case_X_vs_Y" start="20170" end="20233" party1="Pennsylvania R.R. Co." party2="St. Louis, Alton &amp; Terre Haute R.R. Co" line="41">Pennsylvania R.R. Co. v. St. Louis, Alton &amp; Terre Haute R.R. Co</citation>
+<ORGANIZATION id="100005_480" start="20170" end="20191" party1_of="100005_476">Pennsylvania R.R. Co.</ORGANIZATION>
+<ORGANIZATION id="100005_494" start="20170" end="20190">Pennsylvania R.R. Co</ORGANIZATION>
+<ORGANIZATION id="100005_481" start="20195" end="20233" party2_of="100005_476">St. Louis, Alton &amp; Terre Haute R.R. Co</ORGANIZATION>
+<ORGANIZATION id="100005_495" start="20206" end="20233">Alton &amp; Terre Haute R.R. Co</ORGANIZATION>
+<citation id="100005_472" entry_type="standard_case" start="20236" end="20248" reporter="U.S." standard_reporter="U.S." volume="118" page_number="290" line="41">118 U.S. 290</citation>
+<citation id="100005_477" entry_type="case_X_vs_Y" start="20250" end="20303" party1="Central Transportation Co." party2="Pullman's Palace Car Co" line="41">Central Transportation Co. v. Pullman's Palace Car Co</citation>
+<ORGANIZATION id="100005_482" start="20250" end="20276" party1_of="100005_477">Central Transportation Co.</ORGANIZATION>
+<ORGANIZATION id="100005_496" start="20258" end="20275">Transportation Co</ORGANIZATION>
+<ORGANIZATION id="100005_483" start="20280" end="20303" party2_of="100005_477">Pullman's Palace Car Co</ORGANIZATION>
+<ORGANIZATION id="100005_497" start="20290" end="20303">Palace Car Co</ORGANIZATION>
+<citation id="100005_473" entry_type="standard_case" start="20306" end="20317" reporter="U.S." standard_reporter="U.S." volume="139" page_number="24" line="41">139 U.S. 24</citation>
+<NAME id="100005_498" start="20464" end="20475">Sherman Act</NAME>
+<PERSON id="100005_499" start="20537" end="20545">Congress</PERSON>
+<citation id="100005_478" entry_type="case_X_vs_Y" start="20788" end="20830" party1="Addyston Pipe &amp; Steel Co." party2="United States" line="41">Addyston Pipe &amp; Steel Co. v. United States</citation>
+<ORGANIZATION id="100005_484" start="20788" end="20813" party1_of="100005_478">Addyston Pipe &amp; Steel Co.</ORGANIZATION>
+<ORGANIZATION id="100005_500" start="20788" end="20812">Addyston Pipe &amp; Steel Co</ORGANIZATION>
+<GPE id="100005_485" start="20817" end="20830" party2_of="100005_478">United States</GPE>
+<citation id="100005_474" entry_type="standard_case" start="20832" end="20849" reporter="U.S." standard_reporter="U.S." volume="175" page_number="211" paragraph_number="228" line="41">175 U.S. 211, 228</citation>
+<citation id="100005_479" entry_type="case_X_vs_Y" start="20964" end="21021" party1="Philadelphia, Baltimore &amp; Washington R.R. Co." party2="Schubert" line="41">Philadelphia, Baltimore &amp; Washington R.R. Co. v. Schubert</citation>
+<ORGANIZATION id="100005_486" start="20964" end="21009" party1_of="100005_479">Philadelphia, Baltimore &amp; Washington R.R. Co.</ORGANIZATION>
+<ORGANIZATION id="100005_501" start="20978" end="21008">Baltimore &amp; Washington R.R. Co</ORGANIZATION>
+<PERSON id="100005_487" start="21013" end="21021" party2_of="100005_479">Schubert</PERSON>
+<citation id="100005_475" entry_type="standard_case" start="21023" end="21040" reporter="U.S." standard_reporter="U.S." volume="224" page_number="603" paragraph_number="613" line="41">224 U.S. 603, 613</citation>
+<ORGANIZATION id="100005_514" start="21086" end="21110">Southern Pacific Company</ORGANIZATION>
+<NAME id="100005_515" start="21156" end="21171">Central Pacific</NAME>
+<NAME id="100005_516" start="21179" end="21195">Southern Pacific</NAME>
+<NAME id="100005_517" start="21206" end="21217">Sherman Act</NAME>
+<NAME id="100005_520" start="21273" end="21288">Central Pacific</NAME>
+<date id="100005_518" start="21298" end="21302">1899</date>
+<NAME id="100005_521" start="21369" end="21380">Sherman Act</NAME>
+<NAME id="100005_522" start="21421" end="21437">Southern Pacific</NAME>
+<NAME id="100005_523" start="21453" end="21468">Central Pacific</NAME>
+<PERSON id="100005_524" start="21557" end="21565">Congress</PERSON>
+<NAME id="100005_525" start="21638" end="21653">Central Pacific</NAME>
+<NAME id="100005_526" start="21658" end="21683">Western Pacific Railroads</NAME>
+<NAME id="100005_527" start="21698" end="21704">States</NAME>
+<date id="100005_519" start="21726" end="21738">July 7, 1898</date>
+<NAME id="100005_528" start="21751" end="21755">Stat</NAME>
+<PROFESSION id="100005_529" start="21782" end="21791">Secretary</PROFESSION>
+<PROFESSION id="100005_530" start="21813" end="21822">Secretary</PROFESSION>
+<PROFESSION id="100005_531" start="21847" end="21863">Attorney General</PROFESSION>
+<PROFESSION id="100005_532" start="21927" end="21937">Government</PROFESSION>
+<NAME id="100005_533" start="22002" end="22017">Central Pacific</NAME>
+<NAME id="100005_534" start="22022" end="22037">Western Pacific</NAME>
+<PROFESSION id="100005_535" start="22246" end="22255">President</PROFESSION>
+<NAME id="100005_536" start="22270" end="22276">States</NAME>
+<PROFESSION id="100005_537" start="22360" end="22369">principal</PROFESSION>
+<NAME id="100005_538" start="22433" end="22439">States</NAME>
+<PROFESSION id="100005_539" start="22775" end="22784">principal</PROFESSION>
+<PROFESSION id="100005_540" start="22960" end="22969">principal</PROFESSION>
+<PROFESSION id="100005_541" start="23142" end="23151">President</PROFESSION>
+<NAME id="100005_542" start="23166" end="23172">States</NAME>
+<NAME id="100005_543" start="23238" end="23244">States</NAME>
+<NAME id="100005_544" start="23464" end="23470">States</NAME>
+<date id="100005_545" start="23524" end="23540">February 1, 1899</date>
+<NAME id="100005_546" start="23546" end="23561">Central Pacific</NAME>
+<NAME id="100005_547" start="23583" end="23589">States</NAME>
+<PROFESSION id="100005_548" start="23594" end="23604">government</PROFESSION>
+<PERSON id="100005_549" start="23646" end="23656">Sacramento</PERSON>
+<PERSON id="100005_550" start="23661" end="23666">Ogden</PERSON>
+<PERSON id="100005_551" start="23672" end="23682">Sacramento</PERSON>
+<PERSON id="100005_552" start="23687" end="23695" plural="True">San Jose</PERSON>
+<NAME id="100005_553" start="23869" end="23884">Central Pacific</NAME>
+<ORGANIZATION id="100005_556" start="24032" end="24056">Messrs. Speyer &amp; Company</ORGANIZATION>
+<GPE id="100005_557" start="24058" end="24066">New York</GPE>
+<PROFESSION id="100005_558" start="24159" end="24172" plural="True">commissioners</PROFESSION>
+<NAME id="100005_559" start="24197" end="24203">States</NAME>
+<ORGANIZATION id="100005_560" start="24209" end="24241">Central Pacific Railroad Company</ORGANIZATION>
+<ORGANIZATION id="100005_561" start="24246" end="24270">Messrs. Speyer &amp; Company</ORGANIZATION>
+<PROFESSION id="100005_562" start="24295" end="24304">President</PROFESSION>
+<NAME id="100005_563" start="24341" end="24356">Central Pacific</NAME>
+<NAME id="100005_564" start="24386" end="24392">States</NAME>
+<date id="100005_555" start="24423" end="24439">February 1, 1899</date>
+<NAME id="100005_565" start="24801" end="24816">Central Pacific</NAME>
+<ORGANIZATION id="100005_566" start="24915" end="24947">Central Pacific Railroad Company</ORGANIZATION>
+<NAME id="100005_567" start="24995" end="25011">Southern Pacific</NAME>
+<PROFESSION id="100005_568" start="25107" end="25120" plural="True">commissioners</PROFESSION>
+<PROFESSION id="100005_569" start="25220" end="25229">Treasurer</PROFESSION>
+<NAME id="100005_570" start="25244" end="25250">States</NAME>
+<ORGANIZATION id="100005_571" start="25296" end="25312">Speyer &amp; Company</ORGANIZATION>
+<NAME id="100005_572" start="25409" end="25415">States</NAME>
+<date id="100005_573" start="25601" end="25618">February 15, 1899</date>
+<ORGANIZATION id="100005_575" start="25665" end="25670">House</ORGANIZATION>
+<NAME id="100005_576" start="25674" end="25689">Representatives</NAME>
+<NAME id="100005_577" start="25727" end="25743">Southern Pacific</NAME>
+<PROFESSION id="100005_578" start="25811" end="25827">Attorney General</PROFESSION>
+<NAME id="100005_579" start="25835" end="25841">Senate</NAME>
+<ORGANIZATION id="100005_580" start="25846" end="25851">House</ORGANIZATION>
+<date id="100005_574" start="25855" end="25869">November, 1899</date>
+<NAME id="100005_581" start="25963" end="25979">Southern Pacific</NAME>
+<NAME id="100005_582" start="26112" end="26118">States</NAME>
+<NAME id="100005_583" start="26161" end="26177">Southern Pacific</NAME>
+<NAME id="100005_584" start="26216" end="26231">Central Pacific</NAME>
+<date id="100005_585" start="26236" end="26249">March 3, 1899</date>
+<NAME id="100005_587" start="26262" end="26266">Stat</NAME>
+<PERSON id="100005_588" start="26274" end="26282">Congress</PERSON>
+<PROFESSION id="100005_589" start="26298" end="26307">Secretary</PROFESSION>
+<ORGANIZATION id="100005_590" start="26399" end="26431">Central Pacific Railroad Company</ORGANIZATION>
+<NAME id="100005_591" start="26451" end="26457">States</NAME>
+<date id="100005_586" start="26462" end="26475">March 3, 1901</date>
+<NAME id="100005_592" start="26488" end="26492">Stat</NAME>
+<PROFESSION id="100005_593" start="26504" end="26513">Secretary</PROFESSION>
+<PROFESSION id="100005_594" start="26635" end="26645">Government</PROFESSION>
+<NAME id="100005_595" start="26679" end="26695">Southern Pacific</NAME>
+<NAME id="100005_596" start="26704" end="26719">Central Pacific</NAME>
+<NAME id="100005_597" start="26752" end="26767">Central Pacific</NAME>
+<PROFESSION id="100005_603" start="26809" end="26822" plural="True">commissioners</PROFESSION>
+<ORGANIZATION id="100005_604" start="26837" end="26844">Company</ORGANIZATION>
+<ORGANIZATION id="100005_605" start="26849" end="26865">Speyer &amp; Company</ORGANIZATION>
+<PERSON id="100005_606" start="26903" end="26911">Congress</PERSON>
+<NAME id="100005_607" start="26984" end="26999">Central Pacific</NAME>
+<NAME id="100005_608" start="27007" end="27023">Southern Pacific</NAME>
+<PERSON id="100005_609" start="27029" end="27035">Speyer</PERSON>
+<NAME id="100005_610" start="27082" end="27097">Central Pacific</NAME>
+<date id="100005_598" start="27108" end="27124">February 8, 1899</date>
+<NAME id="100005_611" start="27286" end="27305">Financial Chronicle</NAME>
+<date id="100005_599" start="27313" end="27327">February, 1899</date>
+<ORGANIZATION id="100005_612" start="27385" end="27416">Central Pacific Railway Company</ORGANIZATION>
+<ORGANIZATION id="100005_613" start="27435" end="27467">Central Pacific Railroad Company</ORGANIZATION>
+<NAME id="100005_614" start="27507" end="27512">State</NAME>
+<GPE id="100005_615" start="27516" end="27520">Utah</GPE>
+<date id="100005_600" start="27524" end="27537">July 29, 1899</date>
+<ORGANIZATION id="100005_616" start="27543" end="27575">Central Pacific Railroad Company</ORGANIZATION>
+<date id="100005_601" start="27599" end="27603">1861</date>
+<date id="100005_602" start="27658" end="27672">August 1, 1899</date>
+<ORGANIZATION id="100005_617" start="27678" end="27709">Central Pacific Railway Company</ORGANIZATION>
+<ORGANIZATION id="100005_618" start="27763" end="27784">Central Trust Company</ORGANIZATION>
+<GPE id="100005_619" start="27788" end="27796">New York</GPE>
+<PROFESSION id="100005_620" start="27798" end="27805">trustee</PROFESSION>
+<ORGANIZATION id="100005_621" start="27844" end="27863">Union Trust Company</ORGANIZATION>
+<GPE id="100005_622" start="27867" end="27875">New York</GPE>
+<ORGANIZATION id="100005_623" start="27881" end="27905">Southern Pacific Company</ORGANIZATION>
+<PERSON id="100005_624" start="28011" end="28017">Speyer</PERSON>
+<NAME id="100005_625" start="28031" end="28047">Southern Pacific</NAME>
+<ORGANIZATION id="100005_626" start="28080" end="28111">Central Pacific Railway Company</ORGANIZATION>
+<NAME id="100005_627" start="28208" end="28224">Southern Pacific</NAME>
+<NAME id="100005_628" start="28266" end="28281">Central Pacific</NAME>
+<NAME id="100005_629" start="28299" end="28315">Southern Pacific</NAME>
+<NAME id="100005_630" start="28363" end="28379">Southern Pacific</NAME>
+<NAME id="100005_631" start="28417" end="28433">Southern Pacific</NAME>
+<NAME id="100005_632" start="28538" end="28553">Central Pacific</NAME>
+<NAME id="100005_633" start="28678" end="28693">Central Pacific</NAME>
+<NAME id="100005_634" start="28741" end="28757">Southern Pacific</NAME>
+<PERSON id="100005_635" start="28768" end="28774">Speyer</PERSON>
+<ORGANIZATION id="100005_636" start="28811" end="28842">Central Pacific Railway Company</ORGANIZATION>
+<ORGANIZATION id="100005_637" start="28872" end="28886">District Court</ORGANIZATION>
+<PERSON id="100005_638" start="29003" end="29011">Congress</PERSON>
+<NAME id="100005_639" start="29161" end="29177">Southern Pacific</NAME>
+<NAME id="100005_640" start="29245" end="29260">Central Pacific</NAME>
+<NAME id="100005_641" start="29694" end="29710">Southern Pacific</NAME>
+<PROFESSION id="100005_643" start="29894" end="29903">President</PROFESSION>
+<NAME id="100005_644" start="29933" end="29948">Central Pacific</NAME>
+<date id="100005_642" start="29997" end="30001">1898</date>
+<NAME id="100005_645" start="30113" end="30124">Sherman Act</NAME>
+<PROFESSION id="100005_646" start="30130" end="30146">Attorney General</PROFESSION>
+<ORGANIZATION id="100005_647" start="30225" end="30249">Southern Pacific Company</ORGANIZATION>
+<PROFESSION id="100005_648" start="30442" end="30455" plural="True">commissioners</PROFESSION>
+<PROFESSION id="100005_649" start="30472" end="30482">Government</PROFESSION>
+<NAME id="100005_650" start="30604" end="30615">Sherman Act</NAME>
+<PROFESSION id="100005_651" start="30653" end="30663">Government</PROFESSION>
+<citation id="100005_660" entry_type="case_citation_other" start="30762" end="30780" name="Union Pacific Case" line="52">Union Pacific Case</citation>
+<ORGANIZATION id="100005_661" start="30762" end="30767">Union</ORGANIZATION>
+<PROFESSION id="100005_662" start="30857" end="30867">Government</PROFESSION>
+<NAME id="100005_663" start="30945" end="30960">Central Pacific</NAME>
+<citation id="100005_654" entry_type="case_X_vs_Y" start="31189" end="31214" party1="Cromwell" party2="County of Sac" line="52">Cromwell v. County of Sac</citation>
+<PERSON id="100005_656" start="31189" end="31197" party1_of="100005_654">Cromwell</PERSON>
+<NAME id="100005_657" start="31201" end="31214" party2_of="100005_654">County of Sac</NAME>
+<citation id="100005_652" entry_type="standard_case" start="31216" end="31227" reporter="U.S." standard_reporter="U.S." volume="94" page_number="351" line="52">94 U.S. 351</citation>
+<citation id="100005_655" entry_type="case_X_vs_Y" start="31229" end="31271" party1="United Shoe Machinery Co." party2="United States" line="52">United Shoe Machinery Co. v. United States</citation>
+<ORGANIZATION id="100005_658" start="31229" end="31254" party1_of="100005_655">United Shoe Machinery Co.</ORGANIZATION>
+<ORGANIZATION id="100005_664" start="31236" end="31253">Shoe Machinery Co</ORGANIZATION>
+<GPE id="100005_659" start="31258" end="31271" party2_of="100005_655">United States</GPE>
+<citation id="100005_653" entry_type="standard_case" start="31273" end="31285" reporter="U.S." standard_reporter="U.S." volume="258" page_number="451" line="52">258 U.S. 451</citation>
+<LEGAL_ROLE id="100005_676" start="31291" end="31301" plural="True">defendants</LEGAL_ROLE>
+<PROFESSION id="100005_677" start="31363" end="31373">Government</PROFESSION>
+<PERSON id="100005_678" start="31500" end="31508">Congress</PERSON>
+<NAME id="100005_679" start="31532" end="31543">Sherman Act</NAME>
+<LEGAL_ROLE id="100005_680" start="31600" end="31611">prosecution</LEGAL_ROLE>
+<PROFESSION id="100005_681" start="31648" end="31664">Attorney General</PROFESSION>
+<date id="100005_671" start="31805" end="31809">1899</date>
+<date id="100005_672" start="31814" end="31818">1901</date>
+<ORGANIZATION id="100005_682" start="31823" end="31828">Union</ORGANIZATION>
+<PERSON id="100005_683" start="31829" end="31836">Pacific</PERSON>
+<NAME id="100005_684" start="31861" end="31877">Southern Pacific</NAME>
+<ORGANIZATION id="100005_685" start="31942" end="31947">Union</ORGANIZATION>
+<NAME id="100005_686" start="31948" end="31960">Pacific Case</NAME>
+<date id="100005_673" start="31974" end="31978">1908</date>
+<date id="100005_674" start="32010" end="32014">1913</date>
+<date id="100005_675" start="32023" end="32027">1914</date>
+<LEGAL_ROLE id="100005_687" start="32133" end="32143" plural="True">defendants</LEGAL_ROLE>
+<ORGANIZATION id="100005_688" start="32321" end="32335">District Court</ORGANIZATION>
+<PROFESSION id="100005_690" start="32382" end="32392">Government</PROFESSION>
+<NAME id="100005_691" start="32429" end="32445">Southern Pacific</NAME>
+<NAME id="100005_692" start="32475" end="32490">Central Pacific</NAME>
+<NAME id="100005_693" start="32540" end="32561">Pacific Railroad Acts</NAME>
+<PERSON id="100005_694" start="32565" end="32573">Congress</PERSON>
+<date id="100005_689" start="32577" end="32581">1862</date>
+<NAME id="100005_695" start="32686" end="32702">Southern Pacific</NAME>
+<NAME id="100005_696" start="32710" end="32725">Central Pacific</NAME>
+<ORGANIZATION id="100005_697" start="32880" end="32907">Central Union Trust Company</ORGANIZATION>
+<PERSON id="100005_698" start="32992" end="33009">San Francisco Bay</PERSON>
+<PERSON id="100005_699" start="33160" end="33163">Bay</PERSON>
+<PROFESSION id="100005_700" start="33175" end="33184">principal</PROFESSION>
+<PERSON id="100005_701" start="33215" end="33218">Bay</PERSON>
+<PERSON id="100005_702" start="33408" end="33411">Bay</PERSON>
+<PERSON id="100005_703" start="33703" end="33720">San Francisco Bay</PERSON>
+<PERSON id="100005_704" start="33724" end="33734">Sacramento</PERSON>
+<GPE id="100005_705" start="33742" end="33758">Portland, Oregon</GPE>
+<ORGANIZATION id="100005_706" start="33817" end="33831">District Court</ORGANIZATION>
+<PROFESSION id="100005_707" start="33974" end="33996">MR. JUSTICE McREYNOLDS</PROFESSION>
+<PROFESSION id="100005_708" start="34001" end="34021">MR. JUSTICE BRANDEIS</PROFESSION>
+<PROFESSION id="100005_709" start="34087" end="34106">MR. JUSTICE McKENNA</PROFESSION>
+<PROFESSION id="100005_710" start="34248" end="34258">Government</PROFESSION>
+<ORGANIZATION id="100005_711" start="34321" end="34352">Central Pacific Railway Company</ORGANIZATION>
+<ORGANIZATION id="100005_712" start="34361" end="34385">Southern Pacific Company</ORGANIZATION>
+<PROFESSION id="100005_713" start="34482" end="34492">Government</PROFESSION>
+<LEGAL_ROLE id="100005_714" start="34514" end="34532">appellee companies</LEGAL_ROLE>
+<date id="100005_719" start="34716" end="34720">1885</date>
+<ORGANIZATION id="100005_720" start="34728" end="34760">Central Pacific Railroad Company</ORGANIZATION>
+<NAME id="100005_721" start="34768" end="34784">Southern Pacific</NAME>
+<citation id="100005_716" entry_type="case_X_vs_Y" start="34837" end="34855" party1="Waskey" party2="Chambers" line="63">Waskey v. Chambers</citation>
+<PERSON id="100005_717" start="34837" end="34843" party1_of="100005_716">Waskey</PERSON>
+<PERSON id="100005_718" start="34847" end="34855" party2_of="100005_716">Chambers</PERSON>
+<citation id="100005_715" entry_type="standard_case" start="34857" end="34874" reporter="U.S." standard_reporter="U.S." volume="224" page_number="564" paragraph_number="565" line="63">224 U.S. 564, 565</citation>
+<ORGANIZATION id="100005_726" start="34880" end="34912">Central Pacific Railroad Company</ORGANIZATION>
+<PROFESSION id="100005_727" start="34990" end="35000">Government</PROFESSION>
+<PERSON id="100005_728" start="35030" end="35038">Congress</PERSON>
+<date id="100005_725" start="35056" end="35068">July 7, 1898</date>
+<NAME id="100005_729" start="35073" end="35077">Stat</NAME>
+<NAME id="100005_730" start="35193" end="35209">Southern Pacific</NAME>
+<ORGANIZATION id="100005_731" start="35332" end="35364">Central Pacific Railroad Company</ORGANIZATION>
+<PROFESSION id="100005_732" start="35373" end="35383">Government</PROFESSION>
+<ORGANIZATION id="100005_733" start="35448" end="35464">Speyer &amp; Company</ORGANIZATION>
+<NAME id="100005_734" start="35639" end="35655">Southern Pacific</NAME>
+<ORGANIZATION id="100005_735" start="35679" end="35711">Central Pacific Railroad Company</ORGANIZATION>
+<date id="100005_736" start="35803" end="35807">1898</date>
+<PROFESSION id="100005_737" start="35909" end="35925" plural="True">Cabinet officers</PROFESSION>
+<PROFESSION id="100005_738" start="35968" end="35977">Secretary</PROFESSION>
+<PROFESSION id="100005_739" start="35999" end="36008">Secretary</PROFESSION>
+<PROFESSION id="100005_740" start="36034" end="36050">Attorney General</PROFESSION>
+<PROFESSION id="100005_741" start="36076" end="36086">Government</PROFESSION>
+<PROFESSION id="100005_742" start="36094" end="36102">official</PROFESSION>
+<PROFESSION id="100005_743" start="36543" end="36553">Government</PROFESSION>
+<PROFESSION id="100005_744" start="36585" end="36595">government</PROFESSION>
+<ORGANIZATION id="100005_745" start="36721" end="36753">Central Pacific Railroad Company</ORGANIZATION>
+<PROFESSION id="100005_746" start="36960" end="36973" plural="True">commissioners</PROFESSION>
+<PROFESSION id="100005_747" start="37339" end="37344">judge</PROFESSION>
+<NAME id="100005_748" start="37609" end="37625">Southern Pacific</NAME>
+<NAME id="100005_749" start="37635" end="37650">Central Pacific</NAME>
+<PROFESSION id="100005_750" start="37833" end="37842">President</PROFESSION>
+<PERSON id="100005_751" start="37864" end="37872">Congress</PERSON>
+<PERSON id="100005_752" start="38145" end="38153">Congress</PERSON>
+<PROFESSION id="100005_753" start="38215" end="38225">Government</PROFESSION>
+<PERSON id="100005_754" start="38362" end="38370">Congress</PERSON>
+<NAME id="100005_755" start="38408" end="38424">Southern Pacific</NAME>
+<PROFESSION id="100005_756" start="38556" end="38572">Attorney General</PROFESSION>
+<PERSON id="100005_757" start="38585" end="38593">Congress</PERSON>
+<NAME id="100005_758" start="38680" end="38696">Southern Pacific</NAME>
+<PROFESSION id="100005_759" start="38826" end="38835">Secretary</PROFESSION>
+<NAME id="100005_760" start="38897" end="38913">Southern Pacific</NAME>
+<PERSON id="100005_761" start="39054" end="39062">Congress</PERSON>
+<PROFESSION id="100005_762" start="39078" end="39087">Secretary</PROFESSION>
+<NAME id="100005_763" start="39147" end="39163">Southern Pacific</NAME>
+<NAME id="100005_764" start="39230" end="39246">Southern Pacific</NAME>
+<PROFESSION id="100005_765" start="39295" end="39305">Government</PROFESSION>
+<ORGANIZATION id="100005_766" start="39390" end="39404">District Court</ORGANIZATION>
+<NAME id="100005_767" start="39460" end="39476">Southern Pacific</NAME>
+<NAME id="100005_768" start="39592" end="39608">Southern Pacific</NAME>
+<NAME id="100005_769" start="39989" end="40005">Southern Pacific</NAME>
+<ORGANIZATION id="100005_770" start="40185" end="40216">Central Pacific Railway Company</ORGANIZATION>
+<NAME id="100005_771" start="40307" end="40322">Central Pacific</NAME>
+<PROFESSION id="100005_772" start="40389" end="40399">Government</PROFESSION>
+<NAME id="100005_773" start="40436" end="40451">Central Pacific</NAME>
+<NAME id="100005_774" start="40804" end="40820">Southern Pacific</NAME>
+<PROFESSION id="100005_775" start="40950" end="40960">Government</PROFESSION>
+<NAME id="100005_776" start="41032" end="41048">Southern Pacific</NAME>
+<NAME id="100005_777" start="41149" end="41164">Central Pacific</NAME>
+<NAME id="100005_778" start="41198" end="41214">Southern Pacific</NAME>
+<PROFESSION id="100005_779" start="41241" end="41251">management</PROFESSION>
+<PROFESSION id="100005_780" start="41353" end="41363">Government</PROFESSION>
+<NAME id="100005_782" start="41519" end="41535">Southern Pacific</NAME>
+<NAME id="100005_783" start="41543" end="41558">Central Pacific</NAME>
+<NAME id="100005_784" start="41796" end="41812">Southern Pacific</NAME>
+<ORGANIZATION id="100005_785" start="41853" end="41868">Railway Company</ORGANIZATION>
+<ORGANIZATION id="100005_786" start="41964" end="41971">Company</ORGANIZATION>
+<PROFESSION id="100005_787" start="42177" end="42187">Government</PROFESSION>
+<NAME id="100005_788" start="42248" end="42262">Anti-Trust Law</NAME>
+<date id="100005_781" start="42388" end="42392">1914</date>
+<PROFESSION id="100005_789" start="42450" end="42460">government</PROFESSION>
+<PROFESSION id="100005_790" start="42489" end="42499">government</PROFESSION>
+<ORGANIZATION id="100005_791" start="42565" end="42579">District Court</ORGANIZATION>
+<PERSON id="100005_792" start="42634" end="42647" plural="True">Mr. McClennen</PERSON>
+<NAME id="100005_793" start="42688" end="42694">States</NAME>
+<PROFESSION id="100005_794" start="42696" end="42717">Mr. Solicitor General</PROFESSION>
+<PERSON id="100005_795" start="42718" end="42726">Frierson</PERSON>
+<PERSON id="100005_796" start="42731" end="42738" plural="True">Mr. Orr</PERSON>
+<PERSON id="100005_799" start="42769" end="42781" plural="True">James Speyer</PERSON>
+<ORGANIZATION id="100005_800" start="42797" end="42813">Speyer &amp; Company</ORGANIZATION>
+<NAME id="100005_802" start="42912" end="42927">Central Pacific</NAME>
+<PERSON id="100005_803" start="42991" end="42999">Congress</PERSON>
+<date id="100005_801" start="43008" end="43012">1898</date>
+<PERSON id="100005_804" start="43398" end="43407" plural="True">Mr. Blair</PERSON>
+<PERSON id="100005_805" start="43557" end="43570" plural="True">Mr. Ruhlender</PERSON>
+<PERSON id="100005_806" start="43670" end="43680" plural="True">Mr. Speyer</PERSON>
+<ORGANIZATION id="100005_807" start="43800" end="43824">Southern Pacific Company</ORGANIZATION>
+<NAME id="100005_808" start="43889" end="43905">Southern Pacific</NAME>
+<NAME id="100005_809" start="43951" end="43967">Southern Pacific</NAME>
+<ORGANIZATION id="100005_810" start="44096" end="44120">Southern Pacific Company</ORGANIZATION>
+<ORGANIZATION id="100005_811" start="44229" end="44253">Southern Pacific Company</ORGANIZATION>
+<PERSON id="100005_812" start="44290" end="44300" plural="True">Mr. Speyer</PERSON>
+<PERSON id="100005_813" start="44347" end="44355">Congress</PERSON>
+<NAME id="100005_814" start="44585" end="44600">Central Pacific</NAME>
+<NAME id="100005_815" start="44623" end="44638">Central Pacific</NAME>
+<NAME id="100005_816" start="44801" end="44816">Central Pacific</NAME>
+<NAME id="100005_817" start="44986" end="44992">States</NAME>
+<NAME id="100005_818" start="45075" end="45081">States</NAME>
+<NAME id="100005_819" start="45133" end="45148">Central Pacific</NAME>
+<ORGANIZATION id="100005_820" start="45160" end="45184">Southern Pacific Company</ORGANIZATION>
+<RELATION id="100005_3" relation_type="asymmetric" gram_type="pre_nom" theme="100005_1" theme_string="259 U.S. 214" at_date="100005_2" at_date_string="1922"></RELATION>
+<RELATION id="100005_8" relation_type="asymmetric" gram_type="infix" theme="100005_5" theme_string="UNITED STATES  v.  SOUTHERN PACIFIC COMPANY ET AL" party1="100005_6" party1_string="UNITED STATES"></RELATION>
+<RELATION id="100005_9" relation_type="asymmetric" gram_type="infix" theme="100005_5" theme_string="UNITED STATES  v.  SOUTHERN PACIFIC COMPANY ET AL" party2="100005_7" party2_string="SOUTHERN PACIFIC COMPANY ET AL"></RELATION>
+<RELATION id="100005_10" relation_type="equivalence" gram_type="multi_line" standard_case="100005_1" standard_case_string="259 U.S. 214" X_vs_Y="100005_5" X_vs_Y_string="UNITED STATES  v.  SOUTHERN PACIFIC COMPANY ET AL"></RELATION>
+<RELATION id="100005_28" relation_type="asymmetric" gram_type="apposition" profession="100005_20" profession_string="Special Assistant" theme="100005_19" theme_string="Mr. Edward F. McClennen"></RELATION>
+<RELATION id="100005_30" relation_type="asymmetric" gram_type="pre_nom" profession="100005_21" profession_string="Attorney General" theme="100005_23" theme_string="Beck"></RELATION>
+<RELATION id="100005_29" relation_type="asymmetric" gram_type="pre_nom" profession="100005_22" profession_string="Mr. Solicitor General" theme="100005_23" theme_string="Beck"></RELATION>
+<RELATION id="100005_31" relation_type="asymmetric" gram_type="apposition" profession="100005_25" profession_string="Special Assistant" theme="100005_24" theme_string="Mr. James W. Orr"></RELATION>
+<RELATION id="100005_42" legal_role="100005_41" legal_role_string="New York, appellee" relation_type="asymmetric" gram_type="preposition" preposition="of" theme="100005_40" theme_string="Trust Company"></RELATION>
+<RELATION id="100005_328" relation_type="equivalence" gram_type="apposition" standard_case="100005_312" standard_case_string="226 U.S. 61, 86" case_citation_other="100005_314" case_citation_other_string="Union Pacific Case"></RELATION>
+<RELATION id="100005_355" relation_type="equivalence" gram_type="apposition" standard_case="100005_337" standard_case_string="193 U.S. 197, 327" X_vs_Y="100005_339" X_vs_Y_string="Northern Securities Co. v. United States"></RELATION>
+<RELATION id="100005_353" relation_type="asymmetric" gram_type="infix" theme="100005_339" theme_string="Northern Securities Co. v. United States" party1="100005_342" party1_string="Northern Securities Co."></RELATION>
+<RELATION id="100005_354" relation_type="asymmetric" gram_type="infix" theme="100005_339" theme_string="Northern Securities Co. v. United States" party2="100005_343" party2_string="United States"></RELATION>
+<RELATION id="100005_356" relation_type="asymmetric" gram_type="infix" theme="100005_340" theme_string="United States v. Union Pacific R.R" party1="100005_344" party1_string="United States"></RELATION>
+<RELATION id="100005_357" relation_type="asymmetric" gram_type="infix" theme="100005_340" theme_string="United States v. Union Pacific R.R" party2="100005_345" party2_string="Union Pacific R.R"></RELATION>
+<RELATION id="100005_358" relation_type="asymmetric" gram_type="apposition" theme="100005_341" theme_string="United States v. Reading Co" at_date="100005_348" at_date_string="1919"></RELATION>
+<RELATION id="100005_361" relation_type="equivalence" gram_type="apposition" standard_case="100005_338" standard_case_string="253 U.S. 26, 57" X_vs_Y="100005_341" X_vs_Y_string="United States v. Reading Co"></RELATION>
+<RELATION id="100005_359" relation_type="asymmetric" gram_type="infix" theme="100005_341" theme_string="United States v. Reading Co" party1="100005_346" party1_string="United States"></RELATION>
+<RELATION id="100005_360" relation_type="asymmetric" gram_type="infix" theme="100005_341" theme_string="United States v. Reading Co" party2="100005_347" party2_string="Reading Co"></RELATION>
+<RELATION id="100005_466" relation_type="asymmetric" gram_type="infix" theme="100005_444" theme_string="California v. Central Pacific R.R" party1="100005_446" party1_string="California"></RELATION>
+<RELATION id="100005_467" relation_type="asymmetric" gram_type="infix" theme="100005_444" theme_string="California v. Central Pacific R.R" party2="100005_447" party2_string="Central Pacific R.R"></RELATION>
+<RELATION id="100005_470" relation_type="equivalence" gram_type="apposition" standard_case="100005_443" standard_case_string="162 U.S. 91" X_vs_Y="100005_445" X_vs_Y_string="Central Pacific R.R. Co. v. California"></RELATION>
+<RELATION id="100005_468" relation_type="asymmetric" gram_type="infix" theme="100005_445" theme_string="Central Pacific R.R. Co. v. California" party1="100005_448" party1_string="Central Pacific R.R. Co."></RELATION>
+<RELATION id="100005_469" relation_type="asymmetric" gram_type="infix" theme="100005_445" theme_string="Central Pacific R.R. Co. v. California" party2="100005_449" party2_string="California"></RELATION>
+<RELATION id="100005_471" relation_type="asymmetric" gram_type="pre_nom" profession="100005_460" profession_string="Mr. Chief Justice" theme="100005_461" theme_string="Fuller"></RELATION>
+<RELATION id="100005_504" relation_type="equivalence" gram_type="apposition" standard_case="100005_472" standard_case_string="118 U.S. 290" X_vs_Y="100005_476" X_vs_Y_string="Pennsylvania R.R. Co. v. St. Louis, Alton &amp; Terre Haute R.R. Co"></RELATION>
+<RELATION id="100005_502" relation_type="asymmetric" gram_type="infix" theme="100005_476" theme_string="Pennsylvania R.R. Co. v. St. Louis, Alton &amp; Terre Haute R.R. Co" party1="100005_480" party1_string="Pennsylvania R.R. Co."></RELATION>
+<RELATION id="100005_503" relation_type="asymmetric" gram_type="infix" theme="100005_476" theme_string="Pennsylvania R.R. Co. v. St. Louis, Alton &amp; Terre Haute R.R. Co" party2="100005_481" party2_string="St. Louis, Alton &amp; Terre Haute R.R. Co"></RELATION>
+<RELATION id="100005_507" relation_type="equivalence" gram_type="apposition" standard_case="100005_473" standard_case_string="139 U.S. 24" X_vs_Y="100005_477" X_vs_Y_string="Central Transportation Co. v. Pullman's Palace Car Co"></RELATION>
+<RELATION id="100005_505" relation_type="asymmetric" gram_type="infix" theme="100005_477" theme_string="Central Transportation Co. v. Pullman's Palace Car Co" party1="100005_482" party1_string="Central Transportation Co."></RELATION>
+<RELATION id="100005_506" relation_type="asymmetric" gram_type="infix" theme="100005_477" theme_string="Central Transportation Co. v. Pullman's Palace Car Co" party2="100005_483" party2_string="Pullman's Palace Car Co"></RELATION>
+<RELATION id="100005_510" relation_type="equivalence" gram_type="apposition" standard_case="100005_474" standard_case_string="175 U.S. 211, 228" X_vs_Y="100005_478" X_vs_Y_string="Addyston Pipe &amp; Steel Co. v. United States"></RELATION>
+<RELATION id="100005_508" relation_type="asymmetric" gram_type="infix" theme="100005_478" theme_string="Addyston Pipe &amp; Steel Co. v. United States" party1="100005_484" party1_string="Addyston Pipe &amp; Steel Co."></RELATION>
+<RELATION id="100005_509" relation_type="asymmetric" gram_type="infix" theme="100005_478" theme_string="Addyston Pipe &amp; Steel Co. v. United States" party2="100005_485" party2_string="United States"></RELATION>
+<RELATION id="100005_513" relation_type="equivalence" gram_type="apposition" standard_case="100005_475" standard_case_string="224 U.S. 603, 613" X_vs_Y="100005_479" X_vs_Y_string="Philadelphia, Baltimore &amp; Washington R.R. Co. v. Schubert"></RELATION>
+<RELATION id="100005_511" relation_type="asymmetric" gram_type="infix" theme="100005_479" theme_string="Philadelphia, Baltimore &amp; Washington R.R. Co. v. Schubert" party1="100005_486" party1_string="Philadelphia, Baltimore &amp; Washington R.R. Co."></RELATION>
+<RELATION id="100005_512" relation_type="asymmetric" gram_type="infix" theme="100005_479" theme_string="Philadelphia, Baltimore &amp; Washington R.R. Co. v. Schubert" party2="100005_487" party2_string="Schubert"></RELATION>
+<RELATION id="100005_554" relation_type="asymmetric" gram_type="preposition" preposition="for" profession="100005_548" profession_string="government" theme="100005_547" theme_string="States"></RELATION>
+<RELATION id="100005_667" relation_type="equivalence" gram_type="apposition" standard_case="100005_652" standard_case_string="94 U.S. 351" X_vs_Y="100005_654" X_vs_Y_string="Cromwell v. County of Sac"></RELATION>
+<RELATION id="100005_665" relation_type="asymmetric" gram_type="infix" theme="100005_654" theme_string="Cromwell v. County of Sac" party1="100005_656" party1_string="Cromwell"></RELATION>
+<RELATION id="100005_666" relation_type="asymmetric" gram_type="infix" theme="100005_654" theme_string="Cromwell v. County of Sac" party2="100005_657" party2_string="County of Sac"></RELATION>
+<RELATION id="100005_670" relation_type="equivalence" gram_type="apposition" standard_case="100005_653" standard_case_string="258 U.S. 451" X_vs_Y="100005_655" X_vs_Y_string="United Shoe Machinery Co. v. United States"></RELATION>
+<RELATION id="100005_668" relation_type="asymmetric" gram_type="infix" theme="100005_655" theme_string="United Shoe Machinery Co. v. United States" party1="100005_658" party1_string="United Shoe Machinery Co."></RELATION>
+<RELATION id="100005_669" relation_type="asymmetric" gram_type="infix" theme="100005_655" theme_string="United Shoe Machinery Co. v. United States" party2="100005_659" party2_string="United States"></RELATION>
+<RELATION id="100005_724" relation_type="equivalence" gram_type="apposition" standard_case="100005_715" standard_case_string="224 U.S. 564, 565" X_vs_Y="100005_716" X_vs_Y_string="Waskey v. Chambers"></RELATION>
+<RELATION id="100005_722" relation_type="asymmetric" gram_type="infix" theme="100005_716" theme_string="Waskey v. Chambers" party1="100005_717" party1_string="Waskey"></RELATION>
+<RELATION id="100005_723" relation_type="asymmetric" gram_type="infix" theme="100005_716" theme_string="Waskey v. Chambers" party2="100005_718" party2_string="Chambers"></RELATION>
+<RELATION id="100005_797" relation_type="asymmetric" gram_type="apposition" profession="100005_794" profession_string="Mr. Solicitor General" theme="100005_793" theme_string="States"></RELATION>
+<RELATION id="100005_798" relation_type="asymmetric" gram_type="pre_nom" profession="100005_794" profession_string="Mr. Solicitor General" theme="100005_795" theme_string="Frierson"></RELATION>

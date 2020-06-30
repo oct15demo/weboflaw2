@@ -1,0 +1,654 @@
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="0" volume="259" party1="STATE INDUSTRIAL COMMISSION OF THE STATE OF NEW YORK" reporter="U.S." alternative_keys="['commissioncorporation#1']" citation_global_level_id="76.003" end="13" id="100009_1" id1="Dummy_File_61" standard_reporter="U.S." page_number="263" party2="NORDENHOLT CORPORATION ET AL" lookup_key="u.s._259_263" start="1" party2_short="CORPORATION" party1_short="COMMISSION" line="2" >259 U.S. 263</CITATION>
+
+<DATE start="14" citation_local_level_id="0" end="18" id="100009_2" citation_global_level_id="76.003" >1922</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="COMMISSION" citation_local_level_id="1" party1="STATE INDUSTRIAL COMMISSION OF THE STATE OF NEW YORK" alternative_keys="['u.s._259_263']" citation_global_level_id="76.003" end="106" id="100009_6" id1="Dummy_File_61" party2="NORDENHOLT CORPORATION ET AL" lookup_key="commissioncorporation#1" start="20" party2_short="CORPORATION" line="5" >STATE INDUSTRIAL COMMISSION OF THE STATE OF NEW YORK v. NORDENHOLT CORPORATION ET AL</CITATION>
+
+<ORGANIZATION party1_of="100009_6" start="20" end="72" id="100009_7" >STATE INDUSTRIAL COMMISSION OF THE STATE OF NEW YORK</ORGANIZATION>
+
+<ORGANIZATION start="78" end="106" id="100009_8" party2_of="100009_6" >NORDENHOLT CORPORATION ET AL</ORGANIZATION>
+
+<ORGANIZATION start="117" end="130" id="100009_12" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="141" local_name_id="1" end="147" id="100009_13" >States</NAME>
+
+<DATE start="156" end="169" id="100009_14" >March 9, 1922</DATE>
+
+<DATE start="179" end="191" id="100009_15" >May 29, 1922</DATE>
+
+<ORGANIZATION start="193" end="249" id="100009_16" >CERTIORARI TO THE SUPREME COURT OF THE STATE OF NEW YORK</ORGANIZATION>
+
+<PERSON start="256" end="277" id="100009_17" >Mr. E. Clarence Aiken</PERSON>
+
+<PERSON start="289" end="310" id="100009_18" >Mr. Charles D. Newton</PERSON>
+
+<PROFESSION start="312" party="MRCHARLESDNEWTON" end="328" id="100009_19" document_level_name_id="2" >Attorney General</PROFESSION>
+
+<NAME all_names="STATE" start="336" local_name_id="2" end="341" id="100009_20" >State</NAME>
+
+<GPE start="345" end="353" id="100009_21" >New York</GPE>
+
+<LEGAL_ROLE start="377" end="387" id="100009_22" >petitioner</LEGAL_ROLE>
+
+<PERSON start="389" end="406" id="100009_24" >Mr. E.C. Sherwood</PERSON>
+
+<PERSON start="418" end="439" id="100009_25" >Mr. Benjamin C. Loder</PERSON>
+
+<PERSON start="444" end="464" id="100009_26" >Mr. William B. Davis</PERSON>
+
+<LEGAL_ROLE plural="True" start="488" end="499" id="100009_27" >respondents</LEGAL_ROLE>
+
+<PROFESSION start="506" end="528" id="100009_28" >MR. JUSTICE McREYNOLDS</PROFESSION>
+
+<NAME all_names="SEBASTIANAINSANA" start="565" local_name_id="3" end="582" id="100009_30" >Sebastiana Insana</NAME>
+
+<FAMILY start="584" end="590" id="100009_31" >mother</FAMILY>
+
+<NAME all_names="GUISEPPEINSANA" start="594" local_name_id="4" end="609" id="100009_32" >Guiseppe Insana</NAME>
+
+<ORGANIZATION start="624" end="660" id="100009_33" >New York State Industrial Commission</ORGANIZATION>
+
+<NAME all_names="COMPENSATIONLAW" start="694" local_name_id="5" end="710" id="100009_34" >Compensation Law</NAME>
+
+<FAMILY start="729" end="732" id="100009_35" >son</FAMILY>
+
+<DATE start="803" end="815" id="100009_29" >May 15, 1918</DATE>
+
+<ORGANIZATION start="874" end="896" id="100009_36" >Nordenholt Corporation</ORGANIZATION>
+
+<GPE start="955" end="963" id="100009_37" >Brooklyn</GPE>
+
+<PERSON start="1058" end="1064" id="100009_38" >Insana</PERSON>
+
+<ORGANIZATION start="1146" end="1156" id="100009_51" >Commission</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Keator" citation_local_level_id="2" party1="Keator" alternative_keys="['n.y._224_540']" citation_global_level_id="77.003" end="1575" id="100009_44" id1="Dummy_File_62" standard_reporter="N.Y." volume="224" party2="Rock Plaster Manufacturing Co" lookup_key="keatormanufacturing#1" start="1536" page_number="540" party2_short="Manufacturing" line="15" >Keator v. Rock Plaster Manufacturing Co</CITATION>
+
+<PERSON party1_of="100009_44" start="1536" end="1542" id="100009_46" >Keator</PERSON>
+
+<ORGANIZATION start="1546" end="1575" id="100009_47" party2_of="100009_44" >Rock Plaster Manufacturing Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="3" volume="224" reporter="N.Y." alternative_keys="['keatormanufacturing#1']" citation_global_level_id="77.003" end="1590" id="100009_40" id1="Dummy_File_62" standard_reporter="N.Y." page_number="540" lookup_key="n.y._224_540" start="1578" line="15" >224 N.Y. 540</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Anderson" citation_local_level_id="4" party1="Anderson" alternative_keys="['n.y._224_539']" citation_global_level_id="78.003" end="1629" id="100009_45" id1="Dummy_File_63" standard_reporter="N.Y." volume="224" party2="Johnson Lighterage Co" lookup_key="andersonlighterage#1" start="1596" page_number="539" party2_short="Lighterage" line="15" >Anderson v. Johnson Lighterage Co</CITATION>
+
+<PERSON party1_of="100009_45" start="1596" end="1604" id="100009_48" >Anderson</PERSON>
+
+<ORGANIZATION start="1608" end="1629" id="100009_49" party2_of="100009_45" >Johnson Lighterage Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="5" volume="224" reporter="N.Y." alternative_keys="['andersonlighterage#1']" citation_global_level_id="78.003" end="1644" id="100009_41" id1="Dummy_File_63" standard_reporter="N.Y." page_number="539" lookup_key="n.y._224_539" start="1632" line="15" >224 N.Y. 539</CITATION>
+
+<ORGANIZATION start="1650" end="1668" id="100009_52" >Appellate Division</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="195" reporter="App. Div." citation_global_level_id="79.001" citation_local_level_id="6" end="1706" id="100009_42" id1="Dummy_File_64" standard_reporter="APP.DIV." page_number="913" lookup_key="app.div._195_913" start="1689" line="15" >195 App. Div. 913</CITATION>
+
+<ORGANIZATION start="1716" end="1721" id="100009_53" >Court</ORGANIZATION>
+
+<DATE start="1770" end="1786" id="100009_50" >October 25, 1921</DATE>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="232" reporter="N.Y." citation_global_level_id="80.001" citation_local_level_id="7" end="1800" id="100009_43" id1="Dummy_File_65" standard_reporter="N.Y." page_number="507" lookup_key="n.y._232_507" start="1788" line="15" >232 N.Y. 507</CITATION>
+
+<PERSON start="1814" end="1820" id="100009_75" >Keator</PERSON>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="8" citation_global_level_id="81.001" name="Anderson Cases" lookup_key="andersoncases#1" start="1825" id1="Dummy_File_66" end="1839" id="100009_74" line="16" >Anderson Cases</CITATION>
+
+<ORGANIZATION start="1944" end="1949" id="100009_76" >Court</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Doey" citation_local_level_id="9" party1="Doey" alternative_keys="['n.y._224_30']" citation_global_level_id="82.003" end="2075" id="100009_65" id1="Dummy_File_67" standard_reporter="N.Y." volume="224" party2="Howland Co., Inc" lookup_key="doeyhowland#1" start="2051" page_number="30" party2_short="Howland" line="16" >Doey v. Howland Co., Inc</CITATION>
+
+<NAME all_names="DOEY" party1_of="100009_65" start="2051" local_name_id="6" end="2055" id="100009_68" >Doey</NAME>
+
+<ORGANIZATION start="2059" end="2075" id="100009_69" party2_of="100009_65" >Howland Co., Inc</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="10" volume="224" reporter="N.Y." alternative_keys="['doeyhowland#1']" citation_global_level_id="82.003" end="2089" id="100009_61" id1="Dummy_File_67" standard_reporter="N.Y." page_number="30" lookup_key="n.y._224_30" start="2078" line="16" >224 N.Y. 30</CITATION>
+
+<ORGANIZATION start="2095" end="2116" id="100009_77" >Industrial Commission</ORGANIZATION>
+
+<NAME all_names="DOEY" start="2240" local_name_id="6" end="2244" id="100009_78" >Doey</NAME>
+
+<ORGANIZATION start="2300" end="2318" id="100009_79" >Appellate Division</ORGANIZATION>
+
+<ORGANIZATION start="2362" end="2367" id="100009_80" >Court</ORGANIZATION>
+
+<NAME all_names="DOEY" start="2416" local_name_id="6" end="2420" id="100009_81" >Doey</NAME>
+
+<ORGANIZATION start="2460" end="2470" id="100009_82" >Commission</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Co" citation_local_level_id="11" party1="Southern Pacific Co." alternative_keys="['u.s._244_205']" citation_global_level_id="83.003" end="2544" id="100009_66" id1="Dummy_File_68" standard_reporter="U.S." volume="244" party2="Jensen" lookup_key="cojensen#1" start="2514" page_number="205" party2_short="Jensen" line="16" >Southern Pacific Co. v. Jensen</CITATION>
+
+<ORGANIZATION party1_of="100009_66" start="2514" end="2534" id="100009_70" >Southern Pacific Co.</ORGANIZATION>
+
+<ORGANIZATION start="2514" end="2533" id="100009_83" >Southern Pacific Co</ORGANIZATION>
+
+<PERSON start="2538" end="2544" id="100009_71" party2_of="100009_66" >Jensen</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="12" volume="244" reporter="U.S." alternative_keys="['cojensen#1']" citation_global_level_id="83.003" end="2558" id="100009_62" id1="Dummy_File_68" standard_reporter="U.S." page_number="205" lookup_key="u.s._244_205" start="2546" line="16" >244 U.S. 205</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="S" citation_local_level_id="13" party1="Clyde S.S. Co." alternative_keys="['u.s._244_255']" citation_global_level_id="84.003" end="2588" id="100009_67" id1="Dummy_File_69" standard_reporter="U.S." volume="244" party2="Walker" lookup_key="swalker#1" start="2564" page_number="255" party2_short="Walker" line="16" >Clyde S.S. Co. v. Walker</CITATION>
+
+<ORGANIZATION party1_of="100009_67" start="2564" end="2578" id="100009_72" >Clyde S.S. Co.</ORGANIZATION>
+
+<ORGANIZATION start="2564" end="2577" id="100009_84" >Clyde S.S. Co</ORGANIZATION>
+
+<PERSON start="2582" end="2588" id="100009_73" party2_of="100009_67" >Walker</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="14" volume="244" reporter="U.S." alternative_keys="['swalker#1']" citation_global_level_id="84.003" end="2602" id="100009_63" id1="Dummy_File_69" standard_reporter="U.S." page_number="255" lookup_key="u.s._244_255" start="2590" line="16" >244 U.S. 255</CITATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="224" reporter="N.Y." citation_global_level_id="85.001" citation_local_level_id="15" end="2627" id="100009_64" paragraph_number="36" standard_reporter="N.Y." page_number="35" lookup_key="n.y._224_35" start="2612" id1="Dummy_File_70" line="16" >224 N.Y. 35, 36</CITATION>
+
+<NAME all_names="DOEY" start="2667" local_name_id="6" end="2671" id="100009_94" >Doey</NAME>
+
+<ORGANIZATION start="2870" end="2883" id="100009_110" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="2898" local_name_id="1" end="2904" id="100009_111" >States</NAME>
+
+<NAME all_names="SOUTHERN" start="2924" local_name_id="7" end="2932" id="100009_112" >Southern</NAME>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Co" party1="Pacific Co." citation_global_level_id="86.001" citation_local_level_id="16" end="2954" id="100009_98" id1="Dummy_File_71" party2="Jensen" start="2933" party2_short="Jensen" line="18" >Pacific Co. v. Jensen</CITATION>
+
+<ORGANIZATION party1_of="100009_98" start="2933" end="2944" id="100009_102" >Pacific Co.</ORGANIZATION>
+
+<ORGANIZATION start="2933" end="2943" id="100009_113" >Pacific Co</ORGANIZATION>
+
+<PERSON start="2948" end="2954" id="100009_103" party2_of="100009_98" >Jensen</PERSON>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="S" party1="Clyde S.S. Co." citation_global_level_id="87.001" citation_local_level_id="17" end="2985" id="100009_99" id1="Dummy_File_72" party2="Walker]" start="2960" party2_short="Walker" line="18" >Clyde S.S. Co. v. Walker]</CITATION>
+
+<ORGANIZATION party1_of="100009_99" start="2960" end="2974" id="100009_104" >Clyde S.S. Co.</ORGANIZATION>
+
+<ORGANIZATION start="2960" end="2973" id="100009_114" >Clyde S.S. Co</ORGANIZATION>
+
+<NAME all_names="WALKER]" start="2978" local_name_id="8" end="2985" id="100009_105" party2_of="100009_99" >Walker]</NAME>
+
+<PERSON start="2978" end="2984" id="100009_115" >Walker</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="R" citation_local_level_id="18" party1="Erie R.R. Co." alternative_keys="['u.s._242_303']" citation_global_level_id="88.003" end="3272" id="100009_100" id1="Dummy_File_73" standard_reporter="U.S." volume="242" party2="Welsh" lookup_key="rwelsh#1" start="3250" page_number="303" party2_short="Welsh" line="18" >Erie R.R. Co. v. Welsh</CITATION>
+
+<ORGANIZATION party1_of="100009_100" start="3250" end="3263" id="100009_106" >Erie R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="3250" end="3262" id="100009_116" >Erie R.R. Co</ORGANIZATION>
+
+<PERSON start="3267" end="3272" id="100009_107" party2_of="100009_100" >Welsh</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="19" volume="242" reporter="U.S." alternative_keys="['rwelsh#1']" citation_global_level_id="88.003" end="3286" id="100009_95" id1="Dummy_File_73" standard_reporter="U.S." page_number="303" lookup_key="u.s._242_303" start="3274" line="18" >242 U.S. 303</CITATION>
+
+<ORGANIZATION start="3469" end="3490" id="100009_117" >Atlantic Transport Co</ORGANIZATION>
+
+<NAME all_names="IMBROVEK" start="3505" local_name_id="9" end="3513" id="100009_118" >Imbrovek</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="234" reporter="U.S." citation_global_level_id="89.001" citation_local_level_id="20" end="3526" id="100009_96" id1="Dummy_File_74" standard_reporter="U.S." page_number="52" lookup_key="u.s._234_52" start="3515" line="18" >234 U.S. 52</CITATION>
+
+<NAME all_names="COMPENSATIONLAW" start="3558" local_name_id="5" end="3574" id="100009_119" >Compensation Law</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Post" citation_local_level_id="21" party1="Post" alternative_keys="['n.y._216_544']" citation_global_level_id="90.003" end="3817" id="100009_101" id1="Dummy_File_75" standard_reporter="N.Y." volume="216" party2="Burger &amp; Gohlke" lookup_key="postgohlke#1" start="3794" page_number="544" party2_short="Gohlke" line="18" >Post v. Burger &amp; Gohlke</CITATION>
+
+<PERSON party1_of="100009_101" start="3794" end="3798" id="100009_108" >Post</PERSON>
+
+<PERSON start="3802" end="3817" id="100009_109" party2_of="100009_101" >Burger &amp; Gohlke</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="22" volume="216" reporter="N.Y." alternative_keys="['postgohlke#1']" citation_global_level_id="90.003" end="3831" id="100009_97" id1="Dummy_File_75" standard_reporter="N.Y." page_number="544" lookup_key="n.y._216_544" start="3819" line="18" >216 N.Y. 544</CITATION>
+
+<NAME all_names="DOEY" start="4359" local_name_id="6" end="4363" id="100009_130" >Doey</NAME>
+
+<NAME all_names="DOEY" start="4564" local_name_id="6" end="4568" id="100009_131" >Doey</NAME>
+
+<NAME all_names="DOEY" start="5088" local_name_id="6" end="5092" id="100009_132" >Doey</NAME>
+
+<PERSON start="5204" end="5210" id="100009_138" >Newham</PERSON>
+
+<PROFESSION start="5291" end="5298" id="100009_139" >foreman</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Newham" citation_local_level_id="23" party1="Newham" alternative_keys="['n.y._232_37']" citation_global_level_id="91.003" end="5360" id="100009_134" id1="Dummy_File_76" standard_reporter="N.Y." volume="232" party2="Chile Exploration Co" lookup_key="newhamexploration#1" start="5330" page_number="37" party2_short="Exploration" line="20" >Newham v. Chile Exploration Co</CITATION>
+
+<PERSON party1_of="100009_134" start="5330" end="5336" id="100009_135" >Newham</PERSON>
+
+<ORGANIZATION start="5340" end="5360" id="100009_136" party2_of="100009_134" >Chile Exploration Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="24" volume="232" reporter="N.Y." alternative_keys="['newhamexploration#1']" citation_global_level_id="91.003" end="5374" id="100009_133" id1="Dummy_File_76" standard_reporter="N.Y." page_number="37" lookup_key="n.y._232_37" start="5363" line="20" >232 N.Y. 37</CITATION>
+
+<DATE start="5375" citation_local_level_id="24" end="5391" id="100009_137" citation_global_level_id="91.003" >October 18, 1921</DATE>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Doey" citation_local_level_id="25" party1="Doey" alternative_keys="['n.y._224_30']" citation_global_level_id="82.004" end="5455" id="100009_149" id1="Dummy_File_67" party2="Howland Co" start="5437" party2_short="Howland" line="21" >Doey v. Howland Co</CITATION>
+
+<NAME all_names="DOEY" party1_of="100009_149" start="5437" local_name_id="6" end="5441" id="100009_154" >Doey</NAME>
+
+<ORGANIZATION start="5445" end="5455" id="100009_155" party2_of="100009_149" >Howland Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="224" alternative_keys="['doeyhowland#1']" reporter="N.Y." citation_global_level_id="82.003" citation_local_level_id="26" end="5469" id="100009_144" id1="Dummy_File_67" standard_reporter="N.Y." page_number="30" lookup_key="n.y._224_30" start="5458" line="21" >224 N.Y. 30</CITATION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Anderson" citation_local_level_id="27" party1="Anderson" alternative_keys="['n.y._224_539']" citation_global_level_id="78.004" end="5521" id="100009_150" id1="Dummy_File_63" party2="Johnson Lighterage Co" start="5488" party2_short="Lighterage" line="21" >Anderson v. Johnson Lighterage Co</CITATION>
+
+<PERSON party1_of="100009_150" start="5488" end="5496" id="100009_156" >Anderson</PERSON>
+
+<ORGANIZATION start="5500" end="5521" id="100009_157" party2_of="100009_150" >Johnson Lighterage Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="224" alternative_keys="['andersonlighterage#1']" reporter="N.Y." citation_global_level_id="78.003" citation_local_level_id="28" end="5536" id="100009_145" id1="Dummy_File_63" standard_reporter="N.Y." page_number="539" lookup_key="n.y._224_539" start="5524" line="21" >224 N.Y. 539</CITATION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Keator" citation_local_level_id="29" party1="Keator" alternative_keys="['n.y._224_540']" citation_global_level_id="77.004" end="5594" id="100009_151" id1="Dummy_File_62" party2="Rock Plaster Manufacturing Co" start="5555" party2_short="Manufacturing" line="21" >Keator v. Rock Plaster Manufacturing Co</CITATION>
+
+<PERSON party1_of="100009_151" start="5555" end="5561" id="100009_158" >Keator</PERSON>
+
+<ORGANIZATION start="5565" end="5594" id="100009_159" party2_of="100009_151" >Rock Plaster Manufacturing Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="224" alternative_keys="['keatormanufacturing#1']" reporter="N.Y." citation_global_level_id="77.003" citation_local_level_id="30" end="5609" id="100009_146" id1="Dummy_File_62" standard_reporter="N.Y." page_number="540" lookup_key="n.y._224_540" start="5597" line="21" >224 N.Y. 540</CITATION>
+
+<NAME all_names="COMPENSATIONLAW" start="5780" local_name_id="5" end="5796" id="100009_164" >Compensation Law</NAME>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Co" citation_local_level_id="31" party1="Southern Pacific Co." alternative_keys="['u.s._244_205']" citation_global_level_id="83.004" end="5901" id="100009_152" id1="Dummy_File_68" party2="Jensen" start="5871" party2_short="Jensen" line="21" >Southern Pacific Co. v. Jensen</CITATION>
+
+<ORGANIZATION party1_of="100009_152" start="5871" end="5891" id="100009_160" >Southern Pacific Co.</ORGANIZATION>
+
+<ORGANIZATION start="5871" end="5890" id="100009_165" >Southern Pacific Co</ORGANIZATION>
+
+<PERSON start="5895" end="5901" id="100009_161" party2_of="100009_152" >Jensen</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="244" alternative_keys="['cojensen#1']" reporter="U.S." citation_global_level_id="83.003" citation_local_level_id="32" end="5915" id="100009_147" id1="Dummy_File_68" standard_reporter="U.S." page_number="205" lookup_key="u.s._244_205" start="5903" line="21" >244 U.S. 205</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ice" citation_local_level_id="33" party1="Knickerbocker Ice Co." alternative_keys="['u.s._253_149']" citation_global_level_id="92.003" end="5953" id="100009_153" id1="Dummy_File_77" standard_reporter="U.S." volume="253" party2="Stewart" lookup_key="icestewart#1" start="5921" page_number="149" party2_short="Stewart" line="21" >Knickerbocker Ice Co. v. Stewart</CITATION>
+
+<ORGANIZATION party1_of="100009_153" start="5921" end="5942" id="100009_162" >Knickerbocker Ice Co.</ORGANIZATION>
+
+<ORGANIZATION start="5921" end="5941" id="100009_166" >Knickerbocker Ice Co</ORGANIZATION>
+
+<PERSON start="5946" end="5953" id="100009_163" party2_of="100009_153" >Stewart</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="34" volume="253" reporter="U.S." alternative_keys="['icestewart#1']" citation_global_level_id="92.003" end="5967" id="100009_148" id1="Dummy_File_77" standard_reporter="U.S." page_number="149" lookup_key="u.s._253_149" start="5955" line="21" >253 U.S. 149</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Co" party1="Southern Pacific, Co." citation_global_level_id="93.001" citation_local_level_id="35" end="6042" id="100009_182" id1="Dummy_File_78" party2="Jensen" start="6011" party2_short="Jensen" line="22" >Southern Pacific, Co. v. Jensen</CITATION>
+
+<ORGANIZATION party1_of="100009_182" start="6011" end="6032" id="100009_185" >Southern Pacific, Co.</ORGANIZATION>
+
+<ORGANIZATION start="6011" end="6031" id="100009_191" >Southern Pacific, Co</ORGANIZATION>
+
+<PERSON start="6036" end="6042" id="100009_186" party2_of="100009_182" >Jensen</PERSON>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="S" party1="Clyde S.S. Co." citation_global_level_id="94.001" citation_local_level_id="36" end="6068" id="100009_183" id1="Dummy_File_79" party2="Walker" start="6044" party2_short="Walker" line="22" >Clyde S.S. Co. v. Walker</CITATION>
+
+<ORGANIZATION party1_of="100009_183" start="6044" end="6058" id="100009_187" >Clyde S.S. Co.</ORGANIZATION>
+
+<ORGANIZATION start="6044" end="6057" id="100009_192" >Clyde S.S. Co</ORGANIZATION>
+
+<PERSON start="6062" end="6068" id="100009_188" party2_of="100009_183" >Walker</PERSON>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Ice" party1="Knickerbocker Ice Co." citation_global_level_id="95.001" citation_local_level_id="37" end="6106" id="100009_184" id1="Dummy_File_80" party2="Stewart" start="6074" party2_short="Stewart" line="22" >Knickerbocker Ice Co. v. Stewart</CITATION>
+
+<ORGANIZATION party1_of="100009_184" start="6074" end="6095" id="100009_189" >Knickerbocker Ice Co.</ORGANIZATION>
+
+<ORGANIZATION start="6074" end="6094" id="100009_193" >Knickerbocker Ice Co</ORGANIZATION>
+
+<PERSON start="6099" end="6106" id="100009_190" party2_of="100009_184" >Stewart</PERSON>
+
+<PROFESSION start="6594" end="6601" id="100009_200" >general</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Co" party1="Southern Pacific Co." citation_global_level_id="96.001" citation_local_level_id="38" end="6959" id="100009_203" id1="Dummy_File_81" party2="Jensen" start="6929" party2_short="Jensen" line="24" >Southern Pacific Co. v. Jensen</CITATION>
+
+<ORGANIZATION party1_of="100009_203" start="6929" end="6949" id="100009_206" >Southern Pacific Co.</ORGANIZATION>
+
+<ORGANIZATION start="6929" end="6948" id="100009_213" >Southern Pacific Co</ORGANIZATION>
+
+<PERSON start="6953" end="6959" id="100009_207" party2_of="100009_203" >Jensen</PERSON>
+
+<NAME all_names="COMPENSATIONSTATUTE" start="7170" local_name_id="10" end="7190" id="100009_214" >Compensation statute</NAME>
+
+<NAME all_names="STATE" start="7198" local_name_id="2" end="7203" id="100009_215" >State</NAME>
+
+<CITATION entry_type="party_key" party1_short="Transport" citation_local_level_id="39" party1="Atlantic Transport Co." alternative_keys="['u.s._234_52']" citation_global_level_id="89.002" end="7298" id="100009_204" id1="Dummy_File_74" party2="Imbrovek" lookup_key="transportimbrovek#1" start="7264" party2_short="Imbrovek" line="24" >Atlantic Transport Co. v. Imbrovek</CITATION>
+
+<ORGANIZATION party1_of="100009_204" start="7264" end="7286" id="100009_208" >Atlantic Transport Co.</ORGANIZATION>
+
+<ORGANIZATION start="7264" end="7285" id="100009_216" >Atlantic Transport Co</ORGANIZATION>
+
+<NAME all_names="IMBROVEK" start="7290" local_name_id="9" end="7298" id="100009_209" party2_of="100009_204" >Imbrovek</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="40" volume="234" reporter="U.S." alternative_keys="['transportimbrovek#1']" citation_global_level_id="89.001" end="7315" id="100009_201" paragraph_number="59" standard_reporter="U.S." page_number="52" lookup_key="u.s._234_52" start="7300" id1="Dummy_File_74" line="24" >234 U.S. 52, 59</CITATION>
+
+<PERSON start="7378" end="7384" id="100009_217" >Jensen</PERSON>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="41" citation_global_level_id="97.001" name="Imbrovek Case" lookup_key="imbrovekcase#1" start="7769" id1="Dummy_File_82" end="7782" id="100009_212" line="24" >Imbrovek Case</CITATION>
+
+<PERSON start="7851" end="7857" id="100009_218" >Jensen</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ship" citation_local_level_id="42" party1="Grant Smith-Porter Ship Co." alternative_keys="['u.s._257_469']" citation_global_level_id="98.003" end="7944" id="100009_205" id1="Dummy_File_83" standard_reporter="U.S." volume="257" party2="Rohde" lookup_key="shiprohde#1" start="7908" page_number="469" party2_short="Rohde" line="24" >Grant Smith-Porter Ship Co. v. Rohde</CITATION>
+
+<ORGANIZATION party1_of="100009_205" start="7908" end="7935" id="100009_210" >Grant Smith-Porter Ship Co.</ORGANIZATION>
+
+<ORGANIZATION start="7908" end="7934" id="100009_219" >Grant Smith-Porter Ship Co</ORGANIZATION>
+
+<PERSON start="7939" end="7944" id="100009_211" party2_of="100009_205" >Rohde</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="43" volume="257" reporter="U.S." alternative_keys="['shiprohde#1']" citation_global_level_id="98.003" end="7958" id="100009_202" id1="Dummy_File_83" standard_reporter="U.S." page_number="469" lookup_key="u.s._257_469" start="7946" line="24" >257 U.S. 469</CITATION>
+
+<PROFESSION start="7974" end="7981" id="100009_220" >general</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Chelentis" citation_local_level_id="44" party1="Chelentis" alternative_keys="['u.s._247_372']" citation_global_level_id="99.003" end="8242" id="100009_230" id1="Dummy_File_84" standard_reporter="U.S." volume="247" party2="Luckenbach S.S. Co" lookup_key="chelentiss#1" start="8211" page_number="372" party2_short="S" line="25" >Chelentis v. Luckenbach S.S. Co</CITATION>
+
+<NAME all_names="CHELENTIS" party1_of="100009_230" start="8211" local_name_id="11" end="8220" id="100009_231" >Chelentis</NAME>
+
+<ORGANIZATION start="8224" end="8242" id="100009_232" party2_of="100009_230" >Luckenbach S.S. Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="45" volume="247" reporter="U.S." alternative_keys="['chelentiss#1']" citation_global_level_id="99.003" end="8262" id="100009_229" paragraph_number="382" standard_reporter="U.S." page_number="372" lookup_key="u.s._247_372" start="8245" id1="Dummy_File_84" line="25" >247 U.S. 372, 382</CITATION>
+
+<LEGAL_ROLE start="8392" end="8402" id="100009_243" >petitioner</LEGAL_ROLE>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Transport" citation_local_level_id="46" party1="Atlantic Transport Co." alternative_keys="['u.s._234_52']" citation_global_level_id="89.003" end="8662" id="100009_237" id1="Dummy_File_74" party2="Imbrovek" start="8628" party2_short="Imbrovek" line="26" >Atlantic Transport Co. v. Imbrovek</CITATION>
+
+<ORGANIZATION party1_of="100009_237" start="8628" end="8650" id="100009_239" >Atlantic Transport Co.</ORGANIZATION>
+
+<ORGANIZATION start="8628" end="8649" id="100009_244" >Atlantic Transport Co</ORGANIZATION>
+
+<NAME all_names="IMBROVEK" start="8654" local_name_id="9" end="8662" id="100009_240" party2_of="100009_237" >Imbrovek</NAME>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="234" reporter="U.S." citation_global_level_id="89.001" citation_local_level_id="47" end="8679" id="100009_236" paragraph_number="59" standard_reporter="U.S." page_number="52" lookup_key="u.s._234_52" start="8664" id1="Dummy_File_74" line="26" >234 U.S. 52, 59</CITATION>
+
+<LEGAL_ROLE start="8803" end="8813" id="100009_245" >petitioner</LEGAL_ROLE>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Co" party1="Southern Pacific Co." citation_global_level_id="100.001" citation_local_level_id="48" end="8931" id="100009_238" id1="Dummy_File_85" party2="Jensen" start="8901" party2_short="Jensen" line="26" >Southern Pacific Co. v. Jensen</CITATION>
+
+<ORGANIZATION party1_of="100009_238" start="8901" end="8921" id="100009_241" >Southern Pacific Co.</ORGANIZATION>
+
+<ORGANIZATION start="8901" end="8920" id="100009_246" >Southern Pacific Co</ORGANIZATION>
+
+<PERSON start="8925" end="8931" id="100009_242" party2_of="100009_238" >Jensen</PERSON>
+
+<NAME all_names="STATE" start="8936" local_name_id="2" end="8941" id="100009_247" >State</NAME>
+
+<NAME all_names="STATES" start="9361" local_name_id="1" end="9367" id="100009_248" >States</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Peters" citation_local_level_id="49" party1="Peters" alternative_keys="['u.s._251_121']" citation_global_level_id="101.003" end="9435" id="100009_256" id1="Dummy_File_86" standard_reporter="U.S." volume="251" party2="Veasey" lookup_key="petersveasey#1" start="9419" page_number="121" party2_short="Veasey" line="27" >Peters v. Veasey</CITATION>
+
+<PERSON party1_of="100009_256" start="9419" end="9425" id="100009_258" >Peters</PERSON>
+
+<PERSON start="9429" end="9435" id="100009_259" party2_of="100009_256" >Veasey</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="50" volume="251" reporter="U.S." alternative_keys="['petersveasey#1']" citation_global_level_id="101.003" end="9449" id="100009_254" id1="Dummy_File_86" standard_reporter="U.S." page_number="121" lookup_key="u.s._251_121" start="9437" line="27" >251 U.S. 121</CITATION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Ice" citation_local_level_id="51" party1="Knickerbocker Ice Co." alternative_keys="['u.s._253_149']" citation_global_level_id="92.004" end="9483" id="100009_257" id1="Dummy_File_77" party2="Stewart" start="9451" party2_short="Stewart" line="27" >Knickerbocker Ice Co. v. Stewart</CITATION>
+
+<ORGANIZATION party1_of="100009_257" start="9451" end="9472" id="100009_260" >Knickerbocker Ice Co.</ORGANIZATION>
+
+<ORGANIZATION start="9465" end="9471" id="100009_262" >Ice Co</ORGANIZATION>
+
+<PERSON start="9476" end="9483" id="100009_261" party2_of="100009_257" >Stewart</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="253" alternative_keys="['icestewart#1']" reporter="U.S." citation_global_level_id="92.003" citation_local_level_id="52" end="9497" id="100009_255" id1="Dummy_File_77" standard_reporter="U.S." page_number="149" lookup_key="u.s._253_149" start="9485" line="27" >253 U.S. 149</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Fish" citation_local_level_id="53" party1="Union Fish Co." alternative_keys="['u.s._248_308']" citation_global_level_id="102.003" end="9528" id="100009_270" id1="Dummy_File_87" standard_reporter="U.S." volume="248" party2="Erickson" lookup_key="fisherickson#1" start="9502" page_number="308" party2_short="Erickson" line="28" >Union Fish Co. v. Erickson</CITATION>
+
+<ORGANIZATION party1_of="100009_270" start="9502" end="9516" id="100009_271" >Union Fish Co.</ORGANIZATION>
+
+<ORGANIZATION start="9502" end="9507" id="100009_273" >Union</ORGANIZATION>
+
+<PERSON start="9520" end="9528" id="100009_272" party2_of="100009_270" >Erickson</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="54" volume="248" reporter="U.S." alternative_keys="['fisherickson#1']" citation_global_level_id="102.003" end="9542" id="100009_269" id1="Dummy_File_87" standard_reporter="U.S." page_number="308" lookup_key="u.s._248_308" start="9530" line="28" >248 U.S. 308</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Fuel" citation_local_level_id="55" party1="Western Fuel Co." alternative_keys="['u.s._257_233']" citation_global_level_id="103.003" end="9778" id="100009_278" id1="Dummy_File_88" standard_reporter="U.S." volume="257" party2="Garcia" lookup_key="fuelgarcia#1" start="9752" page_number="233" party2_short="Garcia" line="29" >Western Fuel Co. v. Garcia</CITATION>
+
+<ORGANIZATION party1_of="100009_278" start="9752" end="9768" id="100009_279" >Western Fuel Co.</ORGANIZATION>
+
+<ORGANIZATION start="9752" end="9767" id="100009_281" >Western Fuel Co</ORGANIZATION>
+
+<PERSON start="9772" end="9778" id="100009_280" party2_of="100009_278" >Garcia</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="56" volume="257" reporter="U.S." alternative_keys="['fuelgarcia#1']" citation_global_level_id="103.003" end="9792" id="100009_277" id1="Dummy_File_88" standard_reporter="U.S." page_number="233" lookup_key="u.s._257_233" start="9780" line="29" >257 U.S. 233</CITATION>
+
+<NAME all_names="STATE" start="9858" local_name_id="2" end="9863" id="100009_282" >State</NAME>
+
+<PROFESSION start="10317" end="10324" id="100009_283" >general</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Ship" party1="Grant Smith-Porter Ship Co." citation_global_level_id="104.001" citation_local_level_id="57" end="10496" id="100009_287" id1="Dummy_File_89" party2="Rohde" start="10460" party2_short="Rohde" line="30" >Grant Smith-Porter Ship Co. v. Rohde</CITATION>
+
+<ORGANIZATION party1_of="100009_287" start="10460" end="10487" id="100009_288" >Grant Smith-Porter Ship Co.</ORGANIZATION>
+
+<ORGANIZATION start="10460" end="10486" id="100009_290" >Grant Smith-Porter Ship Co</ORGANIZATION>
+
+<PERSON start="10491" end="10496" id="100009_289" party2_of="100009_287" >Rohde</PERSON>
+
+<NAME all_names="WILLAMETTERIVER" start="10637" local_name_id="12" end="10653" id="100009_291" >Willamette River</NAME>
+
+<NAME all_names="OREGONWORKMEN" start="10659" local_name_id="13" end="10673" id="100009_292" >Oregon Workmen</NAME>
+
+<NAME all_names="COMPENSATIONLAW" start="10676" local_name_id="5" end="10692" id="100009_293" >Compensation Law</NAME>
+
+<PROFESSION start="10819" end="10826" id="100009_294" >general</PROFESSION>
+
+<PROFESSION start="10969" end="10976" id="100009_295" >general</PROFESSION>
+
+<PROFESSION start="11377" end="11384" id="100009_298" >general</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Fuel" party1="Western Fuel Co." citation_global_level_id="105.001" citation_local_level_id="58" end="11544" id="100009_299" id1="Dummy_File_90" party2="Garcia" start="11518" party2_short="Garcia" line="32" >Western Fuel Co. v. Garcia</CITATION>
+
+<ORGANIZATION party1_of="100009_299" start="11518" end="11534" id="100009_300" >Western Fuel Co.</ORGANIZATION>
+
+<ORGANIZATION start="11518" end="11533" id="100009_302" >Western Fuel Co</ORGANIZATION>
+
+<PERSON start="11538" end="11544" id="100009_301" party2_of="100009_299" >Garcia</PERSON>
+
+<PROFESSION start="11663" end="11670" id="100009_303" >general</PROFESSION>
+
+<NAME all_names="STATE" start="11831" local_name_id="2" end="11836" id="100009_304" >State</NAME>
+
+<ORGANIZATION start="11946" end="11970" id="100009_305" >Industrial Accident Fund</ORGANIZATION>
+
+<PERSON start="12105" end="12111" id="100009_316" >Insana</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="R" citation_local_level_id="59" party1="Cleveland Terminal &amp; Valley R.R. Co." alternative_keys="['u.s._208_316']" citation_global_level_id="106.003" end="12222" id="100009_310" id1="Dummy_File_91" standard_reporter="U.S." volume="208" party2="Cleveland S.S. Co" lookup_key="rs#1" start="12165" page_number="316" party2_short="S" line="33" >Cleveland Terminal &amp; Valley R.R. Co. v. Cleveland S.S. Co</CITATION>
+
+<ORGANIZATION party1_of="100009_310" start="12165" end="12201" id="100009_312" >Cleveland Terminal &amp; Valley R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="12165" end="12200" id="100009_317" >Cleveland Terminal &amp; Valley R.R. Co</ORGANIZATION>
+
+<ORGANIZATION start="12205" end="12222" id="100009_313" party2_of="100009_310" >Cleveland S.S. Co</ORGANIZATION>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="60" volume="208" reporter="U.S." alternative_keys="['rs#1']" citation_global_level_id="106.003" end="12237" id="100009_308" id1="Dummy_File_91" standard_reporter="U.S." page_number="316" lookup_key="u.s._208_316" start="12225" line="33" >208 U.S. 316</CITATION>
+
+<NAME all_names="COMPENSATIONACT" start="12276" local_name_id="14" end="12292" id="100009_318" >Compensation Act</NAME>
+
+<NAME all_names="COMPENSATIONACT" start="12422" local_name_id="14" end="12438" id="100009_319" >Compensation Act</NAME>
+
+<PROFESSION start="12761" end="12767" id="100009_320" >master</PROFESSION>
+
+<PERSON start="12823" end="12829" id="100009_321" >Jensen</PERSON>
+
+<PROFESSION start="13153" end="13160" id="100009_322" >general</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="R" citation_local_level_id="61" party1="New York Central R.R. Co." alternative_keys="['u.s._244_147']" citation_global_level_id="107.003" end="13220" id="100009_311" id1="Dummy_File_92" standard_reporter="U.S." volume="244" party2="Winfield" lookup_key="rwinfield#1" start="13183" page_number="147" party2_short="Winfield" line="33" >New York Central R.R. Co. v. Winfield</CITATION>
+
+<ORGANIZATION party1_of="100009_311" start="13183" end="13208" id="100009_314" >New York Central R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="13183" end="13207" id="100009_323" >New York Central R.R. Co</ORGANIZATION>
+
+<PERSON start="13212" end="13220" id="100009_315" party2_of="100009_311" >Winfield</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="62" volume="244" reporter="U.S." alternative_keys="['rwinfield#1']" citation_global_level_id="107.003" end="13234" id="100009_309" id1="Dummy_File_92" standard_reporter="U.S." page_number="147" lookup_key="u.s._244_147" start="13222" line="33" >244 U.S. 147</CITATION>
+
+<RELATION at_date_string="1922" relation_type="asymmetric" at_date="100009_2" theme="100009_1" gram_type="pre_nom" theme_string="259 U.S. 263" id="100009_3" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="NORDENHOLT CORPORATION ET AL" party2="100009_8" theme="100009_6" gram_type="infix" theme_string="STATE INDUSTRIAL COMMISSION OF THE STATE OF NEW YORK  v.  NORDENHOLT CORPORATION ET AL" id="100009_10" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_7" party1_string="STATE INDUSTRIAL COMMISSION OF THE STATE OF NEW YORK" theme="100009_6" gram_type="infix" theme_string="STATE INDUSTRIAL COMMISSION OF THE STATE OF NEW YORK  v.  NORDENHOLT CORPORATION ET AL" id="100009_9" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_6" X_vs_Y_string="STATE INDUSTRIAL COMMISSION OF THE STATE OF NEW YORK  v.  NORDENHOLT CORPORATION ET AL" standard_case_string="259 U.S. 263" standard_case="100009_1" gram_type="multi_line" id="100009_11" ></RELATION>
+
+<RELATION relation_type="asymmetric" theme_string="Mr. Charles D. Newton" theme="100009_18" gram_type="apposition" profession="100009_19" id="100009_23" profession_string="Attorney General" ></RELATION>
+
+<RELATION family_string="mother" relation_type="partly_asymmetric" family="100009_31" theme="100009_30" gram_type="apposition" theme_string="Sebastiana Insana" id="100009_39" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_44" X_vs_Y_string="Keator v. Rock Plaster Manufacturing Co" standard_case_string="224 N.Y. 540" standard_case="100009_40" gram_type="apposition" id="100009_56" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_46" party1_string="Keator" theme="100009_44" gram_type="infix" theme_string="Keator v. Rock Plaster Manufacturing Co" id="100009_54" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Rock Plaster Manufacturing Co" party2="100009_47" theme="100009_44" gram_type="infix" theme_string="Keator v. Rock Plaster Manufacturing Co" id="100009_55" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_45" X_vs_Y_string="Anderson v. Johnson Lighterage Co" standard_case_string="224 N.Y. 539" standard_case="100009_41" gram_type="apposition" id="100009_59" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_48" party1_string="Anderson" theme="100009_45" gram_type="infix" theme_string="Anderson v. Johnson Lighterage Co" id="100009_57" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Johnson Lighterage Co" party2="100009_49" theme="100009_45" gram_type="infix" theme_string="Anderson v. Johnson Lighterage Co" id="100009_58" ></RELATION>
+
+<RELATION at_date_string="October 25, 1921" relation_type="asymmetric" at_date="100009_50" theme="100009_43" gram_type="apposition" theme_string="232 N.Y. 507" id="100009_60" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_65" X_vs_Y_string="Doey v. Howland Co., Inc" standard_case_string="224 N.Y. 30" standard_case="100009_61" gram_type="apposition" id="100009_87" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_68" party1_string="Doey" theme="100009_65" gram_type="infix" theme_string="Doey v. Howland Co., Inc" id="100009_85" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Howland Co., Inc" party2="100009_69" theme="100009_65" gram_type="infix" theme_string="Doey v. Howland Co., Inc" id="100009_86" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_66" X_vs_Y_string="Southern Pacific Co. v. Jensen" standard_case_string="244 U.S. 205" standard_case="100009_62" gram_type="apposition" id="100009_90" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_70" party1_string="Southern Pacific Co." theme="100009_66" gram_type="infix" theme_string="Southern Pacific Co. v. Jensen" id="100009_88" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Jensen" party2="100009_71" theme="100009_66" gram_type="infix" theme_string="Southern Pacific Co. v. Jensen" id="100009_89" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_67" X_vs_Y_string="Clyde S.S. Co. v. Walker" standard_case_string="244 U.S. 255" standard_case="100009_63" gram_type="apposition" id="100009_93" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_72" party1_string="Clyde S.S. Co." theme="100009_67" gram_type="infix" theme_string="Clyde S.S. Co. v. Walker" id="100009_91" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Walker" party2="100009_73" theme="100009_67" gram_type="infix" theme_string="Clyde S.S. Co. v. Walker" id="100009_92" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_102" party1_string="Pacific Co." theme="100009_98" gram_type="infix" theme_string="Pacific Co. v. Jensen" id="100009_120" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Jensen" party2="100009_103" theme="100009_98" gram_type="infix" theme_string="Pacific Co. v. Jensen" id="100009_121" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_104" party1_string="Clyde S.S. Co." theme="100009_99" gram_type="infix" theme_string="Clyde S.S. Co. v. Walker]" id="100009_122" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Walker]" party2="100009_105" theme="100009_99" gram_type="infix" theme_string="Clyde S.S. Co. v. Walker]" id="100009_123" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_100" X_vs_Y_string="Erie R.R. Co. v. Welsh" standard_case_string="242 U.S. 303" standard_case="100009_95" gram_type="apposition" id="100009_126" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_106" party1_string="Erie R.R. Co." theme="100009_100" gram_type="infix" theme_string="Erie R.R. Co. v. Welsh" id="100009_124" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Welsh" party2="100009_107" theme="100009_100" gram_type="infix" theme_string="Erie R.R. Co. v. Welsh" id="100009_125" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_101" X_vs_Y_string="Post v. Burger &amp; Gohlke" standard_case_string="216 N.Y. 544" standard_case="100009_97" gram_type="apposition" id="100009_129" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_108" party1_string="Post" theme="100009_101" gram_type="infix" theme_string="Post v. Burger &amp; Gohlke" id="100009_127" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Burger &amp; Gohlke" party2="100009_109" theme="100009_101" gram_type="infix" theme_string="Post v. Burger &amp; Gohlke" id="100009_128" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_134" X_vs_Y_string="Newham v. Chile Exploration Co" standard_case_string="232 N.Y. 37" standard_case="100009_133" gram_type="apposition" id="100009_142" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_135" party1_string="Newham" theme="100009_134" gram_type="infix" theme_string="Newham v. Chile Exploration Co" id="100009_140" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Chile Exploration Co" party2="100009_136" theme="100009_134" gram_type="infix" theme_string="Newham v. Chile Exploration Co" id="100009_141" ></RELATION>
+
+<RELATION at_date_string="October 18, 1921" relation_type="asymmetric" at_date="100009_137" theme="100009_133" gram_type="pre_nom" theme_string="232 N.Y. 37" id="100009_143" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_149" X_vs_Y_string="Doey v. Howland Co" standard_case_string="224 N.Y. 30" standard_case="100009_144" gram_type="apposition" id="100009_169" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_154" party1_string="Doey" theme="100009_149" gram_type="infix" theme_string="Doey v. Howland Co" id="100009_167" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Howland Co" party2="100009_155" theme="100009_149" gram_type="infix" theme_string="Doey v. Howland Co" id="100009_168" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_150" X_vs_Y_string="Anderson v. Johnson Lighterage Co" standard_case_string="224 N.Y. 539" standard_case="100009_145" gram_type="apposition" id="100009_172" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_156" party1_string="Anderson" theme="100009_150" gram_type="infix" theme_string="Anderson v. Johnson Lighterage Co" id="100009_170" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Johnson Lighterage Co" party2="100009_157" theme="100009_150" gram_type="infix" theme_string="Anderson v. Johnson Lighterage Co" id="100009_171" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_151" X_vs_Y_string="Keator v. Rock Plaster Manufacturing Co" standard_case_string="224 N.Y. 540" standard_case="100009_146" gram_type="apposition" id="100009_175" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_158" party1_string="Keator" theme="100009_151" gram_type="infix" theme_string="Keator v. Rock Plaster Manufacturing Co" id="100009_173" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Rock Plaster Manufacturing Co" party2="100009_159" theme="100009_151" gram_type="infix" theme_string="Keator v. Rock Plaster Manufacturing Co" id="100009_174" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_152" X_vs_Y_string="Southern Pacific Co. v. Jensen" standard_case_string="244 U.S. 205" standard_case="100009_147" gram_type="apposition" id="100009_178" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_160" party1_string="Southern Pacific Co." theme="100009_152" gram_type="infix" theme_string="Southern Pacific Co. v. Jensen" id="100009_176" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Jensen" party2="100009_161" theme="100009_152" gram_type="infix" theme_string="Southern Pacific Co. v. Jensen" id="100009_177" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_153" X_vs_Y_string="Knickerbocker Ice Co. v. Stewart" standard_case_string="253 U.S. 149" standard_case="100009_148" gram_type="apposition" id="100009_181" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_162" party1_string="Knickerbocker Ice Co." theme="100009_153" gram_type="infix" theme_string="Knickerbocker Ice Co. v. Stewart" id="100009_179" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Stewart" party2="100009_163" theme="100009_153" gram_type="infix" theme_string="Knickerbocker Ice Co. v. Stewart" id="100009_180" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_185" party1_string="Southern Pacific, Co." theme="100009_182" gram_type="infix" theme_string="Southern Pacific, Co. v. Jensen" id="100009_194" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Jensen" party2="100009_186" theme="100009_182" gram_type="infix" theme_string="Southern Pacific, Co. v. Jensen" id="100009_195" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_187" party1_string="Clyde S.S. Co." theme="100009_183" gram_type="infix" theme_string="Clyde S.S. Co. v. Walker" id="100009_196" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Walker" party2="100009_188" theme="100009_183" gram_type="infix" theme_string="Clyde S.S. Co. v. Walker" id="100009_197" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_189" party1_string="Knickerbocker Ice Co." theme="100009_184" gram_type="infix" theme_string="Knickerbocker Ice Co. v. Stewart" id="100009_198" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Stewart" party2="100009_190" theme="100009_184" gram_type="infix" theme_string="Knickerbocker Ice Co. v. Stewart" id="100009_199" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_206" party1_string="Southern Pacific Co." theme="100009_203" gram_type="infix" theme_string="Southern Pacific Co. v. Jensen" id="100009_221" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Jensen" party2="100009_207" theme="100009_203" gram_type="infix" theme_string="Southern Pacific Co. v. Jensen" id="100009_222" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_204" X_vs_Y_string="Atlantic Transport Co. v. Imbrovek" standard_case_string="234 U.S. 52, 59" standard_case="100009_201" gram_type="apposition" id="100009_225" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_208" party1_string="Atlantic Transport Co." theme="100009_204" gram_type="infix" theme_string="Atlantic Transport Co. v. Imbrovek" id="100009_223" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Imbrovek" party2="100009_209" theme="100009_204" gram_type="infix" theme_string="Atlantic Transport Co. v. Imbrovek" id="100009_224" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_205" X_vs_Y_string="Grant Smith-Porter Ship Co. v. Rohde" standard_case_string="257 U.S. 469" standard_case="100009_202" gram_type="apposition" id="100009_228" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_210" party1_string="Grant Smith-Porter Ship Co." theme="100009_205" gram_type="infix" theme_string="Grant Smith-Porter Ship Co. v. Rohde" id="100009_226" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Rohde" party2="100009_211" theme="100009_205" gram_type="infix" theme_string="Grant Smith-Porter Ship Co. v. Rohde" id="100009_227" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_230" X_vs_Y_string="Chelentis v. Luckenbach S.S. Co" standard_case_string="247 U.S. 372, 382" standard_case="100009_229" gram_type="apposition" id="100009_235" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_231" party1_string="Chelentis" theme="100009_230" gram_type="infix" theme_string="Chelentis v. Luckenbach S.S. Co" id="100009_233" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Luckenbach S.S. Co" party2="100009_232" theme="100009_230" gram_type="infix" theme_string="Chelentis v. Luckenbach S.S. Co" id="100009_234" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_237" X_vs_Y_string="Atlantic Transport Co. v. Imbrovek" standard_case_string="234 U.S. 52, 59" standard_case="100009_236" gram_type="apposition" id="100009_251" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_239" party1_string="Atlantic Transport Co." theme="100009_237" gram_type="infix" theme_string="Atlantic Transport Co. v. Imbrovek" id="100009_249" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Imbrovek" party2="100009_240" theme="100009_237" gram_type="infix" theme_string="Atlantic Transport Co. v. Imbrovek" id="100009_250" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_241" party1_string="Southern Pacific Co." theme="100009_238" gram_type="infix" theme_string="Southern Pacific Co. v. Jensen" id="100009_252" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Jensen" party2="100009_242" theme="100009_238" gram_type="infix" theme_string="Southern Pacific Co. v. Jensen" id="100009_253" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_256" X_vs_Y_string="Peters v. Veasey" standard_case_string="251 U.S. 121" standard_case="100009_254" gram_type="apposition" id="100009_265" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_258" party1_string="Peters" theme="100009_256" gram_type="infix" theme_string="Peters v. Veasey" id="100009_263" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Veasey" party2="100009_259" theme="100009_256" gram_type="infix" theme_string="Peters v. Veasey" id="100009_264" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_257" X_vs_Y_string="Knickerbocker Ice Co. v. Stewart" standard_case_string="253 U.S. 149" standard_case="100009_255" gram_type="apposition" id="100009_268" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_260" party1_string="Knickerbocker Ice Co." theme="100009_257" gram_type="infix" theme_string="Knickerbocker Ice Co. v. Stewart" id="100009_266" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Stewart" party2="100009_261" theme="100009_257" gram_type="infix" theme_string="Knickerbocker Ice Co. v. Stewart" id="100009_267" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_270" X_vs_Y_string="Union Fish Co. v. Erickson" standard_case_string="248 U.S. 308" standard_case="100009_269" gram_type="apposition" id="100009_276" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_271" party1_string="Union Fish Co." theme="100009_270" gram_type="infix" theme_string="Union Fish Co. v. Erickson" id="100009_274" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Erickson" party2="100009_272" theme="100009_270" gram_type="infix" theme_string="Union Fish Co. v. Erickson" id="100009_275" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_278" X_vs_Y_string="Western Fuel Co. v. Garcia" standard_case_string="257 U.S. 233" standard_case="100009_277" gram_type="apposition" id="100009_286" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_279" party1_string="Western Fuel Co." theme="100009_278" gram_type="infix" theme_string="Western Fuel Co. v. Garcia" id="100009_284" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Garcia" party2="100009_280" theme="100009_278" gram_type="infix" theme_string="Western Fuel Co. v. Garcia" id="100009_285" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_288" party1_string="Grant Smith-Porter Ship Co." theme="100009_287" gram_type="infix" theme_string="Grant Smith-Porter Ship Co. v. Rohde" id="100009_296" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Rohde" party2="100009_289" theme="100009_287" gram_type="infix" theme_string="Grant Smith-Porter Ship Co. v. Rohde" id="100009_297" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_300" party1_string="Western Fuel Co." theme="100009_299" gram_type="infix" theme_string="Western Fuel Co. v. Garcia" id="100009_306" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Garcia" party2="100009_301" theme="100009_299" gram_type="infix" theme_string="Western Fuel Co. v. Garcia" id="100009_307" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_310" X_vs_Y_string="Cleveland Terminal &amp; Valley R.R. Co. v. Cleveland S.S. Co" standard_case_string="208 U.S. 316" standard_case="100009_308" gram_type="apposition" id="100009_326" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_312" party1_string="Cleveland Terminal &amp; Valley R.R. Co." theme="100009_310" gram_type="infix" theme_string="Cleveland Terminal &amp; Valley R.R. Co. v. Cleveland S.S. Co" id="100009_324" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Cleveland S.S. Co" party2="100009_313" theme="100009_310" gram_type="infix" theme_string="Cleveland Terminal &amp; Valley R.R. Co. v. Cleveland S.S. Co" id="100009_325" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100009_311" X_vs_Y_string="New York Central R.R. Co. v. Winfield" standard_case_string="244 U.S. 147" standard_case="100009_309" gram_type="apposition" id="100009_329" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100009_314" party1_string="New York Central R.R. Co." theme="100009_311" gram_type="infix" theme_string="New York Central R.R. Co. v. Winfield" id="100009_327" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Winfield" party2="100009_315" theme="100009_311" gram_type="infix" theme_string="New York Central R.R. Co. v. Winfield" id="100009_328" ></RELATION>
+

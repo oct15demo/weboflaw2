@@ -1,0 +1,652 @@
+<CITATION entry_type="standard_key" citation_local_level_id="0" volume="259" reporter="U.S." alternative_keys="['collinsloisel#1']" citation_global_level_id="5.002" end="13" id="100014_1" id1="100014" standard_reporter="U.S." page_number="309" lookup_key="u.s._259_309" start="1" line="2" >259 U.S. 309</CITATION>
+
+<DATE start="14" citation_local_level_id="0" end="18" id="100014_2" citation_global_level_id="5.002" >1922</DATE>
+
+<CITATION entry_type="party_key" party1_short="COLLINS" citation_local_level_id="1" party1="COLLINS" alternative_keys="['u.s._259_309']" citation_global_level_id="5.001" end="100" id="100014_5" id1="100014" party2="LOISEL, UNITED STATES MARSHAL FOR THE EASTERN DISTRICT OF LOUISIANA" lookup_key="collinsloisel#1" start="20" party2_short="LOISEL" line="5" >COLLINS v. LOISEL, UNITED STATES MARSHAL FOR THE EASTERN DISTRICT OF LOUISIANA</CITATION>
+
+<PERSON party1_of="100014_5" start="20" end="27" id="100014_6" >COLLINS</PERSON>
+
+<GPE start="33" end="100" id="100014_7" party2_of="100014_5" >LOISEL, UNITED STATES MARSHAL FOR THE EASTERN DISTRICT OF LOUISIANA</GPE>
+
+<PROFESSION start="48" end="100" id="100014_8" >STATES MARSHAL FOR THE EASTERN DISTRICT OF LOUISIANA</PROFESSION>
+
+<ORGANIZATION start="111" end="124" id="100014_12" >Supreme Court</ORGANIZATION>
+
+<NAME all_names="STATES" start="135" local_name_id="1" end="141" id="100014_13" >States</NAME>
+
+<DATE start="150" end="164" id="100014_14" >April 28, 1922</DATE>
+
+<DATE start="174" end="186" id="100014_15" >May 29, 1922</DATE>
+
+<ORGANIZATION start="204" end="277" id="100014_16" >DISTRICT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF LOUISIANA</ORGANIZATION>
+
+<PERSON plural="True" start="284" end="300" id="100014_17" >Mr. Guion Miller</PERSON>
+
+<PERSON plural="True" start="305" end="324" id="100014_18" >Mr. Edgar Allen Poe</PERSON>
+
+<PERSON start="336" end="356" id="100014_19" >Mr. J. Zach Spearing</PERSON>
+
+<PERSON start="361" end="381" id="100014_20" >Mr. J. Kemp Bartlett</PERSON>
+
+<LEGAL_ROLE start="405" party="party1" end="414" id="100014_21" >appellant</LEGAL_ROLE>
+
+<PERSON start="416" end="434" id="100014_22" >Mr. Robert H. Marr</PERSON>
+
+<LEGAL_ROLE party="party2" name="Mr. Robert H. Marr" start="439" local_name_id="2" end="447" id="100014_23" >appellee</LEGAL_ROLE>
+
+<PROFESSION start="449" end="469" id="100014_25" >MR. JUSTICE BRANDEIS</PROFESSION>
+
+<PERSON start="535" end="542" id="100014_31" >Collins</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Collins" citation_local_level_id="2" party1="Collins" alternative_keys="['u.s._252_364']" citation_global_level_id="136.003" end="601" id="100014_27" id1="Dummy_File_121" standard_reporter="U.S." volume="252" party2="Miller" lookup_key="collinsmiller#1" start="584" page_number="364" party2_short="Miller" line="14" >Collins v. Miller</CITATION>
+
+<PERSON party1_of="100014_27" start="584" end="591" id="100014_28" >Collins</PERSON>
+
+<PERSON start="595" end="601" id="100014_29" party2_of="100014_27" >Miller</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="3" volume="252" reporter="U.S." alternative_keys="['collinsmiller#1']" citation_global_level_id="136.003" end="615" id="100014_26" id1="Dummy_File_121" standard_reporter="U.S." page_number="364" lookup_key="u.s._252_364" start="603" line="14" >252 U.S. 364</CITATION>
+
+<ORGANIZATION start="779" end="793" id="100014_32" >District Court</ORGANIZATION>
+
+<DATE start="849" end="865" id="100014_30" >October 25, 1921</DATE>
+
+<NAME all_names="POHOOMULLBROTHERS" start="1038" local_name_id="3" end="1056" id="100014_33" >Pohoomull Brothers</NAME>
+
+<PERSON start="1066" end="1085" id="100014_34" >Ganeshi Lall &amp; Sons</PERSON>
+
+<PERSON start="1136" end="1143" id="100014_35" >Collins</PERSON>
+
+<NAME all_names="MAHOMEDALIZAIMALALIRAZA" start="1236" local_name_id="4" end="1263" id="100014_36" >Mahomed Ali Zaimal Ali Raza</NAME>
+
+<PERSON start="1332" end="1339" id="100014_37" >Collins</PERSON>
+
+<PERSON start="1358" end="1364" id="100014_38" >Loisel</PERSON>
+
+<PROFESSION start="1370" end="1377" id="100014_39" >marshal</PROFESSION>
+
+<PROFESSION start="1391" end="1405" id="100014_40" >Consul General</PROFESSION>
+
+<PERSON start="1435" end="1442" id="100014_41" >Collins</PERSON>
+
+<PROFESSION start="1514" end="1521" id="100014_42" >marshal</PROFESSION>
+
+<PROFESSION start="1669" end="1679" id="100014_43" >magistrate</PROFESSION>
+
+<LEGAL_ROLE start="1732" party="party1" end="1741" id="100014_44" >appellant</LEGAL_ROLE>
+
+<PERSON start="1778" end="1785" id="100014_69" >Collins</PERSON>
+
+<PROFESSION start="1829" end="1843" id="100014_70" >Consul General</PROFESSION>
+
+<DATE start="2150" end="2167" id="100014_66" >December 13, 1900</DATE>
+
+<NAME all_names="STAT" start="2172" local_name_id="5" end="2176" id="100014_71" >Stat</NAME>
+
+<DATE start="2178" end="2182" id="100014_67" >1864</DATE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="State" party1="State" citation_global_level_id="137.001" citation_local_level_id="4" end="2483" id="100014_51" id1="Dummy_File_122" party2="Colly" lookup_key="statecolly#1" start="2469" party2_short="Colly" line="15" >State v. Colly</CITATION>
+
+<NAME all_names="STATE" party1_of="100014_51" start="2469" local_name_id="6" end="2474" id="100014_56" >State</NAME>
+
+<PERSON start="2478" end="2483" id="100014_57" party2_of="100014_51" >Colly</PERSON>
+
+<PERSON start="2492" end="2495" id="100014_72" >Ann</PERSON>
+
+<GPE start="2667" end="2672" id="100014_73" >India</GPE>
+
+<NAME all_names="PENALCODE" start="2697" local_name_id="7" end="2707" id="100014_74" >Penal Code</NAME>
+
+<GPE start="3023" end="3032" id="100014_75" >Louisiana</GPE>
+
+<PROFESSION start="3351" end="3365" id="100014_76" >Consul General</PROFESSION>
+
+<PERSON start="3379" end="3386" id="100014_77" >Collins</PERSON>
+
+<PROFESSION start="3409" end="3436" id="100014_78" >Chief Presidency Magistrate</PROFESSION>
+
+<ORGANIZATION start="3439" end="3444" id="100014_79" >Court</ORGANIZATION>
+
+<PROFESSION start="3542" end="3551" id="100014_80" >Secretary</PROFESSION>
+
+<PROFESSION start="3559" end="3569" id="100014_81" >Government</PROFESSION>
+
+<GPE start="3573" end="3578" id="100014_82" >India</GPE>
+
+<PERSON start="3618" end="3625" id="100014_83" >Collins</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Wright" citation_local_level_id="5" party1="Wright" alternative_keys="['u.s._190_40']" citation_global_level_id="138.003" end="4163" id="100014_52" id1="Dummy_File_123" standard_reporter="U.S." volume="190" party2="Henkel" lookup_key="wrighthenkel#1" start="4147" page_number="40" party2_short="Henkel" line="15" >Wright v. Henkel</CITATION>
+
+<PERSON party1_of="100014_52" start="4147" end="4153" id="100014_58" >Wright</PERSON>
+
+<PERSON start="4157" end="4163" id="100014_59" party2_of="100014_52" >Henkel</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="6" volume="190" reporter="U.S." alternative_keys="['wrighthenkel#1']" citation_global_level_id="138.003" end="4180" id="100014_48" paragraph_number="58" standard_reporter="U.S." page_number="40" lookup_key="u.s._190_40" start="4165" id1="Dummy_File_123" line="15" >190 U.S. 40, 58</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Kelly" citation_local_level_id="7" party1="Kelly" alternative_keys="['u.s._241_6']" citation_global_level_id="139.003" end="4198" id="100014_53" id1="Dummy_File_124" standard_reporter="U.S." volume="241" party2="Griffin" lookup_key="kellygriffin#1" start="4182" page_number="6" party2_short="Griffin" line="15" >Kelly v. Griffin</CITATION>
+
+<PERSON party1_of="100014_53" start="4182" end="4187" id="100014_60" >Kelly</PERSON>
+
+<PERSON start="4191" end="4198" id="100014_61" party2_of="100014_53" >Griffin</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="8" volume="241" reporter="U.S." alternative_keys="['kellygriffin#1']" citation_global_level_id="139.003" end="4214" id="100014_49" paragraph_number="14" standard_reporter="U.S." page_number="6" lookup_key="u.s._241_6" start="4200" id1="Dummy_File_124" line="15" >241 U.S. 6, 14</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Benson" citation_local_level_id="9" party1="Benson" alternative_keys="['u.s._127_457']" citation_global_level_id="140.003" end="4233" id="100014_54" id1="Dummy_File_125" standard_reporter="U.S." volume="127" party2="McMahon" lookup_key="bensonmcmahon#1" start="4216" page_number="457" party2_short="McMahon" line="15" >Benson v. McMahon</CITATION>
+
+<PERSON party1_of="100014_54" start="4216" end="4222" id="100014_62" >Benson</PERSON>
+
+<PERSON start="4226" end="4233" id="100014_63" party2_of="100014_54" >McMahon</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="10" volume="127" reporter="U.S." alternative_keys="['bensonmcmahon#1']" citation_global_level_id="140.003" end="4252" id="100014_50" paragraph_number="465" standard_reporter="U.S." page_number="457" lookup_key="u.s._127_457" start="4235" id1="Dummy_File_125" line="15" >127 U.S. 457, 465</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Greene" party1="Greene" citation_global_level_id="141.001" citation_local_level_id="11" end="4281" id="100014_55" id1="Dummy_File_126" party2="United States" lookup_key="greenestates#1" start="4258" party2_short="States" line="15" >Greene v. United States</CITATION>
+
+<PERSON party1_of="100014_55" start="4258" end="4264" id="100014_64" >Greene</PERSON>
+
+<GPE start="4268" end="4281" id="100014_65" party2_of="100014_55" >United States</GPE>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="12" citation_global_level_id="142.001" name="Ex parte Piot, 15" lookup_key="expartepiot15#1" start="4305" id1="Dummy_File_127" end="4322" id="100014_68" line="15" >Ex parte Piot, 15</CITATION>
+
+<NAME all_names="COXCC208THE" start="4323" local_name_id="8" end="4340" id="100014_84" >Cox C.C. 208. The</NAME>
+
+<PERSON start="4403" end="4410" id="100014_112" >Collins</PERSON>
+
+<ORGANIZATION start="4594" end="4599" id="100014_113" >Court</ORGANIZATION>
+
+<PROFESSION start="4607" end="4634" id="100014_114" >Chief Presidency Magistrate</PROFESSION>
+
+<GPE start="4636" end="4642" id="100014_115" >Bombay</GPE>
+
+<PROFESSION start="4691" end="4705" id="100014_116" >Consul General</PROFESSION>
+
+<PROFESSION start="4711" end="4725" id="100014_117" >Consul General</PROFESSION>
+
+<NAME all_names="STATES" start="4741" local_name_id="1" end="4747" id="100014_118" >States</NAME>
+
+<GPE start="4751" end="4759" id="100014_119" >Calcutta</GPE>
+
+<PERSON start="4855" end="4862" id="100014_120" >Collins</PERSON>
+
+<GPE start="4971" end="4977" id="100014_121" >Bombay</GPE>
+
+<GPE start="5118" end="5123" id="100014_122" >India</GPE>
+
+<NAME all_names="CONGRESS" start="5151" local_name_id="9" end="5159" id="100014_123" >Congress</NAME>
+
+<DATE start="5163" end="5177" id="100014_106" >August 3, 1882</DATE>
+
+<NAME all_names="STAT" start="5206" local_name_id="5" end="5210" id="100014_124" >Stat</NAME>
+
+<PROFESSION start="5451" end="5460" id="100014_125" >principal</PROFESSION>
+
+<PROFESSION start="5484" end="5491" id="100014_126" >officer</PROFESSION>
+
+<NAME all_names="STATES" start="5506" local_name_id="1" end="5512" id="100014_127" >States</NAME>
+
+<PERSON start="5564" end="5571" id="100014_128" >Collins</PERSON>
+
+<DATE start="5666" end="5670" id="100014_107" >1882</DATE>
+
+<GPE start="6015" end="6021" id="100014_129" >London</GPE>
+
+<PROFESSION start="6079" end="6093" id="100014_130" >Consul General</PROFESSION>
+
+<GPE start="6097" end="6105" id="100014_131" >Calcutta</GPE>
+
+<PROFESSION start="6111" end="6120" id="100014_132" >Secretary</PROFESSION>
+
+<GPE start="6139" end="6145" id="100014_133" >London</GPE>
+
+<PROFESSION start="6163" end="6177" id="100014_134" >Consul General</PROFESSION>
+
+<PERSON start="6181" end="6192" id="100014_135" >New Orleans</PERSON>
+
+<DATE start="6263" end="6267" id="100014_108" >1882</DATE>
+
+<PERSON start="6471" end="6478" id="100014_136" >Collins</PERSON>
+
+<PROFESSION start="6583" end="6597" id="100014_137" >Consul General</PROFESSION>
+
+<GPE start="6601" end="6609" id="100014_138" >Calcutta</GPE>
+
+<PROFESSION start="6626" end="6632" id="100014_139" >Consul</PROFESSION>
+
+<GPE start="6636" end="6642" id="100014_140" >Bombay</GPE>
+
+<GPE start="6747" end="6752" id="100014_141" >India</GPE>
+
+<GPE start="6758" end="6764" id="100014_142" >Bombay</GPE>
+
+<PROFESSION start="6840" end="6854" id="100014_143" >Consul General</PROFESSION>
+
+<NAME all_names="STATES" start="6869" local_name_id="1" end="6875" id="100014_144" >States</NAME>
+
+<GPE start="6896" end="6904" id="100014_145" >Calcutta</GPE>
+
+<PROFESSION start="6912" end="6921" id="100014_146" >principal</PROFESSION>
+
+<PROFESSION start="6945" end="6952" id="100014_147" >officer</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="R" citation_local_level_id="13" party1="New York &amp; Maryland Line R.R. Co." alternative_keys="['u.s.(how.)_17_30']" citation_global_level_id="143.003" end="7044" id="100014_100" id1="Dummy_File_128" standard_reporter="U.S.(HOW.)" volume="17" party2="Winans" lookup_key="rwinans#1" start="7001" page_number="30" party2_short="Winans" line="16" >New York &amp; Maryland Line R.R. Co. v. Winans</CITATION>
+
+<ORGANIZATION party1_of="100014_100" start="7001" end="7034" id="100014_102" >New York &amp; Maryland Line R.R. Co.</ORGANIZATION>
+
+<ORGANIZATION start="7001" end="7033" id="100014_148" >New York &amp; Maryland Line R.R. Co</ORGANIZATION>
+
+<PERSON start="7038" end="7044" id="100014_103" party2_of="100014_100" >Winans</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="14" volume="17" reporter="How." alternative_keys="['rwinans#1']" citation_global_level_id="143.003" end="7060" id="100014_98" paragraph_number="41" standard_reporter="U.S.(HOW.)" page_number="30" lookup_key="u.s.(how.)_17_30" start="7046" id1="Dummy_File_128" line="16" >17 How. 30, 41</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Keyser" citation_local_level_id="15" party1="Keyser" alternative_keys="['u.s._133_138']" citation_global_level_id="144.003" end="7076" id="100014_101" id1="Dummy_File_129" standard_reporter="U.S." volume="133" party2="Hitz" lookup_key="keyserhitz#1" start="7062" page_number="138" party2_short="Hitz" line="16" >Keyser v. Hitz</CITATION>
+
+<PERSON party1_of="100014_101" start="7062" end="7068" id="100014_104" >Keyser</PERSON>
+
+<PERSON start="7072" end="7076" id="100014_105" party2_of="100014_101" >Hitz</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="16" volume="133" reporter="U.S." alternative_keys="['keyserhitz#1']" citation_global_level_id="144.003" end="7095" id="100014_99" paragraph_number="146" standard_reporter="U.S." page_number="138" lookup_key="u.s._133_138" start="7078" id1="Dummy_File_129" line="16" >133 U.S. 138, 146</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="17" citation_global_level_id="145.001" name="In re Behrendt, 22" lookup_key="inrebehrendt22#1" start="7177" id1="Dummy_File_130" end="7195" id="100014_109" line="16" >In re Behrendt, 22</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="18" citation_global_level_id="146.001" name="In re Charleston, 34" lookup_key="inrecharleston34#1" start="7206" id1="Dummy_File_131" end="7226" id="100014_110" line="16" >In re Charleston, 34</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="19" citation_global_level_id="147.001" name="In re Orpen, 86" lookup_key="inreorpen86#1" start="7237" id1="Dummy_File_132" end="7252" id="100014_111" line="16" >In re Orpen, 86</CITATION>
+
+<PERSON start="7270" end="7277" id="100014_189" >Collins</PERSON>
+
+<PERSON start="7428" end="7435" id="100014_190" >Collins</PERSON>
+
+<FAMILY start="7553" end="7560" id="100014_191" >partner</FAMILY>
+
+<ORGANIZATION start="7564" end="7594" id="100014_192" >William Collins Sons &amp; Company</ORGANIZATION>
+
+<PERSON start="7598" end="7605" id="100014_193" >Glasgow</PERSON>
+
+<GPE start="7610" end="7616" id="100014_194" >London</GPE>
+
+<PROFESSION start="7632" end="7639" id="100014_195" >colonel</PROFESSION>
+
+<NAME all_names="HOWEBATTALION" start="7647" local_name_id="10" end="7661" id="100014_196" >Howe Battalion</NAME>
+
+<ORGANIZATION start="7669" end="7689" id="100014_197" >Royal Naval Division</ORGANIZATION>
+
+<ORGANIZATION start="7756" end="7784" id="100014_198" >Messrs. E. Curtice &amp; Company</ORGANIZATION>
+
+<NAME all_names="CLARGESSTREET" start="7788" local_name_id="11" end="7802" id="100014_199" >Clarges Street</NAME>
+
+<GPE start="7804" end="7810" id="100014_200" >London</GPE>
+
+<DATE start="7825" end="7829" id="100014_188" >1700</DATE>
+
+<PERSON start="7972" end="7979" id="100014_201" >Collins</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="State" party1="State" citation_global_level_id="148.001" citation_local_level_id="20" end="8181" id="100014_161" id1="Dummy_File_133" party2="Tessier" lookup_key="statetessier#1" start="8165" party2_short="Tessier" line="17" >State v. Tessier</CITATION>
+
+<NAME all_names="STATE" party1_of="100014_161" start="8165" local_name_id="6" end="8170" id="100014_170" >State</NAME>
+
+<PERSON start="8174" end="8181" id="100014_171" party2_of="100014_161" >Tessier</PERSON>
+
+<PERSON start="8190" end="8193" id="100014_202" >Ann</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="State" party1="State" citation_global_level_id="149.001" citation_local_level_id="21" end="8216" id="100014_162" id1="Dummy_File_134" party2="Jordan" lookup_key="statejordan#1" start="8201" party2_short="Jordan" line="17" >State v. Jordan</CITATION>
+
+<NAME all_names="STATE" party1_of="100014_162" start="8201" local_name_id="6" end="8206" id="100014_172" >State</NAME>
+
+<GPE start="8210" end="8216" id="100014_173" party2_of="100014_162" >Jordan</GPE>
+
+<PERSON start="8225" end="8228" id="100014_203" >Ann</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="State" party1="State" citation_global_level_id="150.001" citation_local_level_id="22" end="8249" id="100014_163" id1="Dummy_File_135" party2="Will" lookup_key="statewill#1" start="8236" party2_short="Will" line="17" >State v. Will</CITATION>
+
+<NAME all_names="STATE" party1_of="100014_163" start="8236" local_name_id="6" end="8241" id="100014_174" >State</NAME>
+
+<PERSON start="8245" end="8249" id="100014_175" party2_of="100014_163" >Will</PERSON>
+
+<PERSON start="8258" end="8261" id="100014_204" >Ann</PERSON>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="State" citation_local_level_id="23" party1="State" alternative_keys="['la._104_67']" citation_global_level_id="151.003" end="8284" id="100014_164" id1="Dummy_File_136" standard_reporter="LA." volume="104" party2="Seipel" lookup_key="stateseipel#1" start="8269" page_number="67" party2_short="Seipel" line="17" >State v. Seipel</CITATION>
+
+<NAME all_names="STATE" party1_of="100014_164" start="8269" local_name_id="6" end="8274" id="100014_176" >State</NAME>
+
+<PERSON start="8278" end="8284" id="100014_177" party2_of="100014_164" >Seipel</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="24" volume="104" reporter="La." alternative_keys="['stateseipel#1']" citation_global_level_id="151.003" end="8296" id="100014_155" id1="Dummy_File_136" standard_reporter="LA." page_number="67" lookup_key="la._104_67" start="8286" line="17" >104 La. 67</CITATION>
+
+<PERSON start="8316" end="8323" id="100014_205" >Collins</PERSON>
+
+<PROFESSION start="8455" end="8465" id="100014_206" >magistrate</PROFESSION>
+
+<PERSON start="8487" end="8494" id="100014_207" >Collins</PERSON>
+
+<GPE start="8597" end="8606" id="100014_208" >Louisiana</GPE>
+
+<NAME all_names="STATE" start="8704" local_name_id="6" end="8709" id="100014_209" >State</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Charlton" citation_local_level_id="25" party1="Charlton" alternative_keys="['u.s._229_447']" citation_global_level_id="152.003" end="8728" id="100014_165" id1="Dummy_File_137" standard_reporter="U.S." volume="229" party2="Kelly" lookup_key="charltonkelly#1" start="8711" page_number="447" party2_short="Kelly" line="17" >Charlton v. Kelly</CITATION>
+
+<PERSON party1_of="100014_165" start="8711" end="8719" id="100014_178" >Charlton</PERSON>
+
+<PERSON start="8723" end="8728" id="100014_179" party2_of="100014_165" >Kelly</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="26" volume="229" reporter="U.S." alternative_keys="['charltonkelly#1']" citation_global_level_id="152.003" end="8747" id="100014_156" paragraph_number="456" standard_reporter="U.S." page_number="447" lookup_key="u.s._229_447" start="8730" id1="Dummy_File_137" line="17" >229 U.S. 447, 456</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Ornelas" citation_local_level_id="27" party1="Ornelas" alternative_keys="['u.s._161_502']" citation_global_level_id="153.003" end="8838" id="100014_166" id1="Dummy_File_138" standard_reporter="U.S." volume="161" party2="Ruiz" lookup_key="ornelasruiz#1" start="8823" page_number="502" party2_short="Ruiz" line="17" >Ornelas v. Ruiz</CITATION>
+
+<PERSON party1_of="100014_166" start="8823" end="8830" id="100014_180" >Ornelas</PERSON>
+
+<PERSON start="8834" end="8838" id="100014_181" party2_of="100014_166" >Ruiz</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="28" volume="161" reporter="U.S." alternative_keys="['ornelasruiz#1']" citation_global_level_id="153.003" end="8857" id="100014_157" paragraph_number="508" standard_reporter="U.S." page_number="502" lookup_key="u.s._161_502" start="8840" id1="Dummy_File_138" line="17" >161 U.S. 502, 508</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Terlinden" citation_local_level_id="29" party1="Terlinden" alternative_keys="['u.s._184_270']" citation_global_level_id="154.003" end="8876" id="100014_167" id1="Dummy_File_139" standard_reporter="U.S." volume="184" party2="Ames" lookup_key="terlindenames#1" start="8859" page_number="270" party2_short="Ames" line="17" >Terlinden v. Ames</CITATION>
+
+<NAME all_names="TERLINDEN" party1_of="100014_167" start="8859" local_name_id="12" end="8868" id="100014_182" >Terlinden</NAME>
+
+<PERSON start="8872" end="8876" id="100014_183" party2_of="100014_167" >Ames</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="30" volume="184" reporter="U.S." alternative_keys="['terlindenames#1']" citation_global_level_id="154.003" end="8895" id="100014_158" paragraph_number="278" standard_reporter="U.S." page_number="270" lookup_key="u.s._184_270" start="8878" id1="Dummy_File_139" line="17" >184 U.S. 270, 278</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="McNamara" citation_local_level_id="31" party1="McNamara" alternative_keys="['u.s._226_520']" citation_global_level_id="155.003" end="8915" id="100014_168" id1="Dummy_File_140" standard_reporter="U.S." volume="226" party2="Henkel" lookup_key="mcnamarahenkel#1" start="8897" page_number="520" party2_short="Henkel" line="17" >McNamara v. Henkel</CITATION>
+
+<PERSON party1_of="100014_168" start="8897" end="8905" id="100014_184" >McNamara</PERSON>
+
+<PERSON start="8909" end="8915" id="100014_185" party2_of="100014_168" >Henkel</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="32" volume="226" reporter="U.S." alternative_keys="['mcnamarahenkel#1']" citation_global_level_id="155.003" end="8929" id="100014_159" id1="Dummy_File_140" standard_reporter="U.S." page_number="520" lookup_key="u.s._226_520" start="8917" line="17" >226 U.S. 520</CITATION>
+
+<GPE start="9041" end="9050" id="100014_210" >Louisiana</GPE>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Glucksman" citation_local_level_id="33" party1="Glucksman" alternative_keys="['u.s._221_508']" citation_global_level_id="156.003" end="9182" id="100014_169" id1="Dummy_File_141" standard_reporter="U.S." volume="221" party2="Henkel" lookup_key="glucksmanhenkel#1" start="9163" page_number="508" party2_short="Henkel" line="17" >Glucksman v. Henkel</CITATION>
+
+<PERSON party1_of="100014_169" start="9163" end="9172" id="100014_186" >Glucksman</PERSON>
+
+<PERSON start="9176" end="9182" id="100014_187" party2_of="100014_169" >Henkel</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="34" volume="221" reporter="U.S." alternative_keys="['glucksmanhenkel#1']" citation_global_level_id="156.003" end="9201" id="100014_160" paragraph_number="512" standard_reporter="U.S." page_number="508" lookup_key="u.s._221_508" start="9184" id1="Dummy_File_141" line="17" >221 U.S. 508, 512</CITATION>
+
+<PERSON start="9219" end="9226" id="100014_237" >Collins</PERSON>
+
+<GPE start="9302" end="9311" id="100014_238" >Louisiana</GPE>
+
+<GPE start="9460" end="9469" id="100014_239" >Louisiana</GPE>
+
+<PROFESSION start="9586" end="9596" id="100014_240" >magistrate</PROFESSION>
+
+<DATE start="9661" end="9665" id="100014_235" >1870</DATE>
+
+<NAME all_names="LAWS" start="9675" local_name_id="13" end="9679" id="100014_241" >Laws</NAME>
+
+<DATE start="9683" end="9687" id="100014_236" >1886</DATE>
+
+<PERSON start="9888" end="9895" id="100014_242" >Collins</PERSON>
+
+<PERSON start="9955" end="9962" id="100014_263" >Collins</PERSON>
+
+<PROFESSION start="10036" end="10046" id="100014_264" >magistrate</PROFESSION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Charlton" citation_local_level_id="35" party1="Charlton" alternative_keys="['u.s._229_447']" citation_global_level_id="152.004" end="10500" id="100014_246" id1="Dummy_File_137" party2="Kelly" start="10483" party2_short="Kelly" line="19" >Charlton v. Kelly</CITATION>
+
+<PERSON party1_of="100014_246" start="10483" end="10491" id="100014_251" >Charlton</PERSON>
+
+<PERSON start="10495" end="10500" id="100014_252" party2_of="100014_246" >Kelly</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="229" alternative_keys="['charltonkelly#1']" reporter="U.S." citation_global_level_id="152.003" citation_local_level_id="36" end="10519" id="100014_243" paragraph_number="461" standard_reporter="U.S." page_number="447" lookup_key="u.s._229_447" start="10502" id1="Dummy_File_137" line="19" >229 U.S. 447, 461</CITATION>
+
+<PROFESSION start="10552" end="10562" id="100014_265" >magistrate</PROFESSION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Grin" citation_local_level_id="37" party1="Grin" alternative_keys="['u.s._187_181']" citation_global_level_id="157.003" end="10756" id="100014_247" id1="Dummy_File_142" standard_reporter="U.S." volume="187" party2="Shine" lookup_key="grinshine#1" start="10743" page_number="181" party2_short="Shine" line="19" >Grin v. Shine</CITATION>
+
+<NAME all_names="GRIN" party1_of="100014_247" start="10743" local_name_id="14" end="10747" id="100014_253" >Grin</NAME>
+
+<PERSON start="10751" end="10756" id="100014_254" party2_of="100014_247" >Shine</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="38" volume="187" reporter="U.S." alternative_keys="['grinshine#1']" citation_global_level_id="157.003" end="10775" id="100014_244" paragraph_number="197" standard_reporter="U.S." page_number="181" lookup_key="u.s._187_181" start="10758" id1="Dummy_File_142" line="19" >187 U.S. 181, 197</CITATION>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Benson" citation_local_level_id="39" party1="Benson" alternative_keys="['u.s._127_457']" citation_global_level_id="140.004" end="10794" id="100014_248" id1="Dummy_File_125" party2="McMahon" start="10777" party2_short="McMahon" line="19" >Benson v. McMahon</CITATION>
+
+<PERSON party1_of="100014_248" start="10777" end="10783" id="100014_255" >Benson</PERSON>
+
+<PERSON start="10787" end="10794" id="100014_256" party2_of="100014_248" >McMahon</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="127" alternative_keys="['bensonmcmahon#1']" reporter="U.S." citation_global_level_id="140.003" citation_local_level_id="40" end="10813" id="100014_245" paragraph_number="461" standard_reporter="U.S." page_number="457" lookup_key="u.s._127_457" start="10796" id1="Dummy_File_125" line="19" >127 U.S. 457, 461</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="41" citation_global_level_id="158.001" name="Ex parte Glaser, 176" lookup_key="exparteglaser176#1" start="10815" id1="Dummy_File_143" end="10835" id="100014_261" line="19" >Ex parte Glaser, 176</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="42" citation_global_level_id="159.001" name="In re Wadge, 15" lookup_key="inrewadge15#1" start="10854" id1="Dummy_File_144" end="10869" id="100014_262" line="19" >In re Wadge, 15</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Charlton" party1="Charlton" citation_global_level_id="160.001" citation_local_level_id="43" end="10925" id="100014_249" id1="Dummy_File_145" party2="Kelly" start="10908" party2_short="Kelly" line="19" >Charlton v. Kelly</CITATION>
+
+<PERSON party1_of="100014_249" start="10908" end="10916" id="100014_257" >Charlton</PERSON>
+
+<PERSON start="10920" end="10925" id="100014_258" party2_of="100014_249" >Kelly</PERSON>
+
+<PROFESSION start="10999" party="BROWN" end="11004" id="100014_266" document_level_name_id="15" >Judge</PROFESSION>
+
+<NAME all_names="BROWN" start="11005" local_name_id="15" end="11010" id="100014_267" >Brown</NAME>
+
+<PROFESSION start="11230" end="11240" id="100014_268" >government</PROFESSION>
+
+<PROFESSION start="11402" end="11412" id="100014_269" >government</PROFESSION>
+
+<LEGAL_ROLE start="11967" end="11976" id="100014_270" >defendant</LEGAL_ROLE>
+
+<CITATION no_current_file="True" entry_type="case_X_vs_Y" party1_short="Charlton" party1="Charlton" citation_global_level_id="161.001" citation_local_level_id="44" end="12035" id="100014_250" id1="Dummy_File_146" party2="Kelly" start="12018" party2_short="Kelly" line="19" >Charlton v. Kelly</CITATION>
+
+<PERSON party1_of="100014_250" start="12018" end="12026" id="100014_259" >Charlton</PERSON>
+
+<PERSON start="12030" end="12035" id="100014_260" party2_of="100014_250" >Kelly</PERSON>
+
+<LEGAL_ROLE start="12197" end="12208" id="100014_271" >prosecution</LEGAL_ROLE>
+
+<PROFESSION start="12348" end="12358" id="100014_272" >Government</PROFESSION>
+
+<PROFESSION start="12531" end="12541" id="100014_273" >magistrate</PROFESSION>
+
+<PROFESSION start="13079" end="13089" id="100014_304" >magistrate</PROFESSION>
+
+<NAME all_names="STATE" start="13162" local_name_id="6" end="13167" id="100014_305" >State</NAME>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Elias" citation_local_level_id="45" party1="Elias" alternative_keys="['u.s._215_398']" citation_global_level_id="162.003" end="13214" id="100014_291" id1="Dummy_File_147" standard_reporter="U.S." volume="215" party2="Ramirez" lookup_key="eliasramirez#1" start="13198" page_number="398" party2_short="Ramirez" line="20" >Elias v. Ramirez</CITATION>
+
+<PERSON party1_of="100014_291" start="13198" end="13203" id="100014_294" >Elias</PERSON>
+
+<PERSON start="13207" end="13214" id="100014_295" party2_of="100014_291" >Ramirez</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="46" volume="215" reporter="U.S." alternative_keys="['eliasramirez#1']" citation_global_level_id="162.003" end="13228" id="100014_288" id1="Dummy_File_147" standard_reporter="U.S." page_number="398" lookup_key="u.s._215_398" start="13216" line="20" >215 U.S. 398</CITATION>
+
+<CITATION no_current_file="True" entry_type="party_key" party1_short="Rice" citation_local_level_id="47" party1="Rice" alternative_keys="['u.s._180_371']" citation_global_level_id="163.003" end="13242" id="100014_292" id1="Dummy_File_148" standard_reporter="U.S." volume="180" party2="Ames" lookup_key="riceames#1" start="13230" page_number="371" party2_short="Ames" line="20" >Rice v. Ames</CITATION>
+
+<PERSON party1_of="100014_292" start="13230" end="13234" id="100014_296" >Rice</PERSON>
+
+<PERSON start="13238" end="13242" id="100014_297" party2_of="100014_292" >Ames</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" citation_local_level_id="48" volume="180" reporter="U.S." alternative_keys="['riceames#1']" citation_global_level_id="163.003" end="13256" id="100014_289" id1="Dummy_File_148" standard_reporter="U.S." page_number="371" lookup_key="u.s._180_371" start="13244" line="20" >180 U.S. 371</CITATION>
+
+<PERSON start="13353" end="13364" id="100014_306" >general law</PERSON>
+
+<NAME all_names="STATE" start="13388" local_name_id="6" end="13393" id="100014_307" >State</NAME>
+
+<CITATION entry_type="case_X_vs_Y" party1_short="Glucksman" citation_local_level_id="49" party1="Glucksman" alternative_keys="['u.s._221_508']" citation_global_level_id="156.004" end="13414" id="100014_293" id1="Dummy_File_141" party2="Henkel" start="13395" party2_short="Henkel" line="20" >Glucksman v. Henkel</CITATION>
+
+<PERSON party1_of="100014_293" start="13395" end="13404" id="100014_298" >Glucksman</PERSON>
+
+<PERSON start="13408" end="13414" id="100014_299" party2_of="100014_293" >Henkel</PERSON>
+
+<CITATION no_current_file="True" entry_type="standard_key" volume="221" alternative_keys="['glucksmanhenkel#1']" reporter="U.S." citation_global_level_id="156.003" citation_local_level_id="50" end="13433" id="100014_290" paragraph_number="513" standard_reporter="U.S." page_number="508" lookup_key="u.s._221_508" start="13416" id1="Dummy_File_141" line="20" >221 U.S. 508, 513</CITATION>
+
+<GPE start="13559" end="13568" id="100014_308" >Louisiana</GPE>
+
+<GPE start="13635" end="13644" id="100014_309" >Louisiana</GPE>
+
+<NAME all_names="STATE" start="13798" local_name_id="6" end="13803" id="100014_310" >State</NAME>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="51" citation_global_level_id="164.001" name="In re Farez, 7" lookup_key="inrefarez7#1" start="13828" id1="Dummy_File_149" end="13842" id="100014_300" line="20" >In re Farez, 7</CITATION>
+
+<NAME all_names="BLATCHF" start="13843" local_name_id="16" end="13850" id="100014_311" >Blatchf</NAME>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="52" citation_global_level_id="165.001" name="In re Wadge" lookup_key="inrewadge#1" start="13877" id1="Dummy_File_150" end="13888" id="100014_301" line="20" >In re Wadge</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="53" citation_global_level_id="166.001" name="In re Kelley, 25" lookup_key="inrekelley25#1" start="13897" id1="Dummy_File_151" end="13913" id="100014_302" line="20" >In re Kelley, 25</CITATION>
+
+<CITATION no_current_file="True" entry_type="case_key" citation_local_level_id="54" citation_global_level_id="167.001" name="In re Ezeta, 62" lookup_key="inreezeta62#1" start="13924" id1="Dummy_File_152" end="13939" id="100014_303" line="20" >In re Ezeta, 62</CITATION>
+
+<NAME all_names="STATE" start="13983" local_name_id="6" end="13988" id="100014_312" >State</NAME>
+
+<NAME all_names="PENALCODE" start="14127" local_name_id="7" end="14137" id="100014_322" >Penal Code</NAME>
+
+<NAME all_names="PENALCODE" start="14208" local_name_id="7" end="14218" id="100014_323" >Penal Code</NAME>
+
+<NAME all_names="PENALCODE" start="14392" local_name_id="7" end="14402" id="100014_324" >Penal Code</NAME>
+
+<DATE start="14703" end="14717" id="100014_325" >August 9, 1842</DATE>
+
+<NAME all_names="ART" start="14719" local_name_id="17" end="14722" id="100014_326" >Art</NAME>
+
+<RELATION at_date_string="1922" relation_type="asymmetric" at_date="100014_2" theme="100014_1" gram_type="pre_nom" theme_string="259 U.S. 309" id="100014_3" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="LOISEL, UNITED STATES MARSHAL FOR THE EASTERN DISTRICT OF LOUISIANA" party2="100014_7" theme="100014_5" gram_type="infix" theme_string="COLLINS  v.  LOISEL, UNITED STATES MARSHAL FOR THE EASTERN DISTRICT OF LOUISIANA" id="100014_10" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_6" party1_string="COLLINS" theme="100014_5" gram_type="infix" theme_string="COLLINS  v.  LOISEL, UNITED STATES MARSHAL FOR THE EASTERN DISTRICT OF LOUISIANA" id="100014_9" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_5" X_vs_Y_string="COLLINS  v.  LOISEL, UNITED STATES MARSHAL FOR THE EASTERN DISTRICT OF LOUISIANA" standard_case_string="259 U.S. 309" standard_case="100014_1" gram_type="multi_line" id="100014_11" ></RELATION>
+
+<RELATION legal_role_string="appellee" relation_type="asymmetric" theme="100014_22" preposition="for" legal_role="100014_23" gram_type="preposition" theme_string="Mr. Robert H. Marr" id="100014_24" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_27" X_vs_Y_string="Collins v. Miller" standard_case_string="252 U.S. 364" standard_case="100014_26" gram_type="apposition" id="100014_47" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_28" party1_string="Collins" theme="100014_27" gram_type="infix" theme_string="Collins v. Miller" id="100014_45" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Miller" party2="100014_29" theme="100014_27" gram_type="infix" theme_string="Collins v. Miller" id="100014_46" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_56" party1_string="State" theme="100014_51" gram_type="infix" theme_string="State v. Colly" id="100014_85" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Colly" party2="100014_57" theme="100014_51" gram_type="infix" theme_string="State v. Colly" id="100014_86" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_52" X_vs_Y_string="Wright v. Henkel" standard_case_string="190 U.S. 40, 58" standard_case="100014_48" gram_type="apposition" id="100014_89" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_58" party1_string="Wright" theme="100014_52" gram_type="infix" theme_string="Wright v. Henkel" id="100014_87" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Henkel" party2="100014_59" theme="100014_52" gram_type="infix" theme_string="Wright v. Henkel" id="100014_88" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_53" X_vs_Y_string="Kelly v. Griffin" standard_case_string="241 U.S. 6, 14" standard_case="100014_49" gram_type="apposition" id="100014_92" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_60" party1_string="Kelly" theme="100014_53" gram_type="infix" theme_string="Kelly v. Griffin" id="100014_90" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Griffin" party2="100014_61" theme="100014_53" gram_type="infix" theme_string="Kelly v. Griffin" id="100014_91" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_54" X_vs_Y_string="Benson v. McMahon" standard_case_string="127 U.S. 457, 465" standard_case="100014_50" gram_type="apposition" id="100014_95" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_62" party1_string="Benson" theme="100014_54" gram_type="infix" theme_string="Benson v. McMahon" id="100014_93" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="McMahon" party2="100014_63" theme="100014_54" gram_type="infix" theme_string="Benson v. McMahon" id="100014_94" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_64" party1_string="Greene" theme="100014_55" gram_type="infix" theme_string="Greene v. United States" id="100014_96" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="United States" party2="100014_65" theme="100014_55" gram_type="infix" theme_string="Greene v. United States" id="100014_97" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_100" X_vs_Y_string="New York &amp; Maryland Line R.R. Co. v. Winans" standard_case_string="17 How. 30, 41" standard_case="100014_98" gram_type="apposition" id="100014_151" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_102" party1_string="New York &amp; Maryland Line R.R. Co." theme="100014_100" gram_type="infix" theme_string="New York &amp; Maryland Line R.R. Co. v. Winans" id="100014_149" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Winans" party2="100014_103" theme="100014_100" gram_type="infix" theme_string="New York &amp; Maryland Line R.R. Co. v. Winans" id="100014_150" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_101" X_vs_Y_string="Keyser v. Hitz" standard_case_string="133 U.S. 138, 146" standard_case="100014_99" gram_type="apposition" id="100014_154" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_104" party1_string="Keyser" theme="100014_101" gram_type="infix" theme_string="Keyser v. Hitz" id="100014_152" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Hitz" party2="100014_105" theme="100014_101" gram_type="infix" theme_string="Keyser v. Hitz" id="100014_153" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_170" party1_string="State" theme="100014_161" gram_type="infix" theme_string="State v. Tessier" id="100014_211" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Tessier" party2="100014_171" theme="100014_161" gram_type="infix" theme_string="State v. Tessier" id="100014_212" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_172" party1_string="State" theme="100014_162" gram_type="infix" theme_string="State v. Jordan" id="100014_213" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Jordan" party2="100014_173" theme="100014_162" gram_type="infix" theme_string="State v. Jordan" id="100014_214" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_174" party1_string="State" theme="100014_163" gram_type="infix" theme_string="State v. Will" id="100014_215" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Will" party2="100014_175" theme="100014_163" gram_type="infix" theme_string="State v. Will" id="100014_216" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_164" X_vs_Y_string="State v. Seipel" standard_case_string="104 La. 67" standard_case="100014_155" gram_type="apposition" id="100014_219" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_176" party1_string="State" theme="100014_164" gram_type="infix" theme_string="State v. Seipel" id="100014_217" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Seipel" party2="100014_177" theme="100014_164" gram_type="infix" theme_string="State v. Seipel" id="100014_218" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_165" X_vs_Y_string="Charlton v. Kelly" standard_case_string="229 U.S. 447, 456" standard_case="100014_156" gram_type="apposition" id="100014_222" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_178" party1_string="Charlton" theme="100014_165" gram_type="infix" theme_string="Charlton v. Kelly" id="100014_220" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Kelly" party2="100014_179" theme="100014_165" gram_type="infix" theme_string="Charlton v. Kelly" id="100014_221" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_166" X_vs_Y_string="Ornelas v. Ruiz" standard_case_string="161 U.S. 502, 508" standard_case="100014_157" gram_type="apposition" id="100014_225" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_180" party1_string="Ornelas" theme="100014_166" gram_type="infix" theme_string="Ornelas v. Ruiz" id="100014_223" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Ruiz" party2="100014_181" theme="100014_166" gram_type="infix" theme_string="Ornelas v. Ruiz" id="100014_224" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_167" X_vs_Y_string="Terlinden v. Ames" standard_case_string="184 U.S. 270, 278" standard_case="100014_158" gram_type="apposition" id="100014_228" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_182" party1_string="Terlinden" theme="100014_167" gram_type="infix" theme_string="Terlinden v. Ames" id="100014_226" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Ames" party2="100014_183" theme="100014_167" gram_type="infix" theme_string="Terlinden v. Ames" id="100014_227" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_168" X_vs_Y_string="McNamara v. Henkel" standard_case_string="226 U.S. 520" standard_case="100014_159" gram_type="apposition" id="100014_231" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_184" party1_string="McNamara" theme="100014_168" gram_type="infix" theme_string="McNamara v. Henkel" id="100014_229" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Henkel" party2="100014_185" theme="100014_168" gram_type="infix" theme_string="McNamara v. Henkel" id="100014_230" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_169" X_vs_Y_string="Glucksman v. Henkel" standard_case_string="221 U.S. 508, 512" standard_case="100014_160" gram_type="apposition" id="100014_234" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_186" party1_string="Glucksman" theme="100014_169" gram_type="infix" theme_string="Glucksman v. Henkel" id="100014_232" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Henkel" party2="100014_187" theme="100014_169" gram_type="infix" theme_string="Glucksman v. Henkel" id="100014_233" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_246" X_vs_Y_string="Charlton v. Kelly" standard_case_string="229 U.S. 447, 461" standard_case="100014_243" gram_type="apposition" id="100014_276" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_251" party1_string="Charlton" theme="100014_246" gram_type="infix" theme_string="Charlton v. Kelly" id="100014_274" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Kelly" party2="100014_252" theme="100014_246" gram_type="infix" theme_string="Charlton v. Kelly" id="100014_275" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_247" X_vs_Y_string="Grin v. Shine" standard_case_string="187 U.S. 181, 197" standard_case="100014_244" gram_type="apposition" id="100014_279" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_253" party1_string="Grin" theme="100014_247" gram_type="infix" theme_string="Grin v. Shine" id="100014_277" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Shine" party2="100014_254" theme="100014_247" gram_type="infix" theme_string="Grin v. Shine" id="100014_278" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_248" X_vs_Y_string="Benson v. McMahon" standard_case_string="127 U.S. 457, 461" standard_case="100014_245" gram_type="apposition" id="100014_282" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_255" party1_string="Benson" theme="100014_248" gram_type="infix" theme_string="Benson v. McMahon" id="100014_280" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="McMahon" party2="100014_256" theme="100014_248" gram_type="infix" theme_string="Benson v. McMahon" id="100014_281" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_257" party1_string="Charlton" theme="100014_249" gram_type="infix" theme_string="Charlton v. Kelly" id="100014_283" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Kelly" party2="100014_258" theme="100014_249" gram_type="infix" theme_string="Charlton v. Kelly" id="100014_284" ></RELATION>
+
+<RELATION relation_type="asymmetric" theme_string="Brown" theme="100014_267" gram_type="pre_nom" profession="100014_266" id="100014_285" profession_string="Judge" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_259" party1_string="Charlton" theme="100014_250" gram_type="infix" theme_string="Charlton v. Kelly" id="100014_286" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Kelly" party2="100014_260" theme="100014_250" gram_type="infix" theme_string="Charlton v. Kelly" id="100014_287" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_291" X_vs_Y_string="Elias v. Ramirez" standard_case_string="215 U.S. 398" standard_case="100014_288" gram_type="apposition" id="100014_315" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_294" party1_string="Elias" theme="100014_291" gram_type="infix" theme_string="Elias v. Ramirez" id="100014_313" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Ramirez" party2="100014_295" theme="100014_291" gram_type="infix" theme_string="Elias v. Ramirez" id="100014_314" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_292" X_vs_Y_string="Rice v. Ames" standard_case_string="180 U.S. 371" standard_case="100014_289" gram_type="apposition" id="100014_318" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_296" party1_string="Rice" theme="100014_292" gram_type="infix" theme_string="Rice v. Ames" id="100014_316" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Ames" party2="100014_297" theme="100014_292" gram_type="infix" theme_string="Rice v. Ames" id="100014_317" ></RELATION>
+
+<RELATION relation_type="equivalence" X_vs_Y="100014_293" X_vs_Y_string="Glucksman v. Henkel" standard_case_string="221 U.S. 508, 513" standard_case="100014_290" gram_type="apposition" id="100014_321" ></RELATION>
+
+<RELATION relation_type="asymmetric" party1="100014_298" party1_string="Glucksman" theme="100014_293" gram_type="infix" theme_string="Glucksman v. Henkel" id="100014_319" ></RELATION>
+
+<RELATION relation_type="asymmetric" party2_string="Henkel" party2="100014_299" theme="100014_293" gram_type="infix" theme_string="Glucksman v. Henkel" id="100014_320" ></RELATION>
+
+<NAME name="MRROBERTHMARR" local_name_id="2" from="from_legal_role" >MRROBERTHMARR</NAME>
+
