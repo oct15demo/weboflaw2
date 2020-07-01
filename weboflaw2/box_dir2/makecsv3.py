@@ -5,6 +5,11 @@ from court_listener_directory_name_dict import *
 from wol_utilities import *
 import xml.etree.ElementTree as ET
 from make_shelve_files import *
+import traceback
+
+from utils import logger
+
+logger = logger.getLogger(__file__)
 
 ## global_citations = {}
 
@@ -1171,7 +1176,9 @@ def writeCSV(file, filename, folder,matching_IE_file,trace=False):
                     cstr += 'Unknown'+'\t'
             out_strings.append(cstr)
         return(out_strings)
-    except ValueError:
+    except ValueError as valerr:
+        logger.debug(valerr)
+        print(traceback.format_exc())
         print('error in csv for file',filename)
         return(False)
         
@@ -1198,7 +1205,7 @@ def create_csv_file(output_file,input_directories,IE_infile_type,outfile_prefix,
                 ## print(infile)
                 filename = file_name_append(full_dir,infile)
                 matching_IE_file = filename[:-5]+IE_infile_type
-                with open(filename) as instream:
+                with open(filename, encoding='utf-8') as instream:
                     folder = input_dir.rstrip(os.sep)
                     if 'test' in folder:
                         folder = 'scotus'

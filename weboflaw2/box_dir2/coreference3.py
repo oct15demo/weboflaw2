@@ -7,6 +7,9 @@ import math
 from wol_utilities import *
 from makecsv3 import *
 from wol_utilities import standardize
+from utils import logger
+
+logger = logger.getLogger(__file__)
 
 ## global_citations = {}
 ## global_versions = {}
@@ -669,7 +672,7 @@ def make_IE_out_file(TXT_file,IE_file,OUT_file,processed_f,processed,trace=False
     global global_citations
     global global_citation_id
     global filename_to_global_citation_dict
-    with open(TXT_file) as instream:
+    with open(TXT_file, encoding='utf-8') as instream:
         f_line = instream.read()
         words = [['',0]]
         for j in range(0, len(f_line)):
@@ -680,7 +683,8 @@ def make_IE_out_file(TXT_file,IE_file,OUT_file,processed_f,processed,trace=False
                 #get all the words in the text (used later)
         words = list(filter(lambda i: len(i[0]) > 0, words))
     all_str = ''
-    with open(IE_file, 'r') as f:
+    logger.debug(IE_file)
+    with open(IE_file, 'r', encoding='utf-8') as f:
         lines = [i[:-1] for i in f.readlines()]
     local_citations = []
     document_level_citation_id = 0
