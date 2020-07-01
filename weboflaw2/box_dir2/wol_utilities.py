@@ -63,7 +63,7 @@ leglislative_words = ['section','chapter','clause','clauses','rule','rules','ame
                       'statute','statutes','amend','amend.','art','art.','act','arts','arts.','brief','proceedings','law','laws']
 
 def load_tab_deliniated_dict(dict_file,dictionary):
-    with open(dict_file) as instream:
+    with open(dict_file, encoding='utf-8') as instream:
         for line in instream:
             line = line.strip(os.linesep)
             line_list = line.split('\t')
