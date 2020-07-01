@@ -5,7 +5,6 @@ from court_listener_directory_name_dict import *
 from wol_utilities import *
 import xml.etree.ElementTree as ET
 from make_shelve_files import *
-import traceback
 
 from utils import logger
 
@@ -1178,8 +1177,14 @@ def writeCSV(file, filename, folder,matching_IE_file,trace=False):
         return(out_strings)
     except ValueError as valerr:
         logger.debug(valerr)
+        import traceback
         print(traceback.format_exc())
+        import sys
+        print(sys.exc_info())
+        
+        
         print('error in csv for file',filename)
+        print('\n\n')
         return(False)
         
 #traverse all json files
