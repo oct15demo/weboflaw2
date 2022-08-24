@@ -2,14 +2,14 @@ echo ""
 echo "blank types are files without extensions"
 echo ""
 echo "count file extension      type"
-ls|xargs file {}  |awk -F'.' '{print $2;}'|grep -v ^"sh: "|sort|uniq -c
+ls|xargs file {}  |awk -F'.' '{print $2;}'|grep -v ^"sh: "|sed 's/ [ ]*/	/'|sort|uniq -c
 
 
 echo ""
-echo "with and without very long lines"
+echo "with and without very long lines combined"
 echo ""
 echo "count file extension      type"
-ls|xargs file {}  |awk -F'.' '{print $2;}'|sed 's/, with very long lines//'|grep -v ^"sh: "|sort|uniq -c
+ls|xargs file {}  |awk -F'.' '{print $2;}'|sed 's/, with very long lines//'|grep -v ^"sh: "|sed 's/ [ ]*/	/'|sort|uniq -c
 
 echo ""
 echo "empty files"
